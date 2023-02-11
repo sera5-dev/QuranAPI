@@ -12,28 +12,28 @@ class QuranV1Controller extends Controller
     {
         return ResponseGenerator::make200([
             "surah" => [
-                "listSurah" => "/surah",
+                "listSurah" => "v1/surah",
                 "spesificSurah" => [
-                    "pattern" => "/surah/{surah}",
-                    "example" => "/surah/18",
+                    "pattern" => "v1/surah/{surah}",
+                    "example" => "v1/surah/18",
                 ],
                 "randomSurah" => [
-                    "pattern" => "/surah/random",
+                    "pattern" => "v1/surah/random",
                 ],
                 "spesificAyahInSurah" => [
-                    "pattern" => "/surah/{surah}/{ayah}",
-                    "example" => "/surah/18/60",
+                    "pattern" => "v1/surah/{surah}/{ayah}",
+                    "example" => "v1/surah/18/60",
                 ],
                 "randomAyahInSurah" => [
-                    "pattern" => "/surah/{surah}/random",
-                    "example" => "/surah/18/random",
+                    "pattern" => "v1/surah/{surah}/random",
+                    "example" => "v1/surah/18/random",
                 ],
                 "spesificAyahInRandomSurah" => [
-                    "pattern" => "/surah/random/{ayah}",
-                    "example" => "/surah/random/60",
+                    "pattern" => "v1/surah/random/{ayah}",
+                    "example" => "v1/surah/random/60",
                 ],
                 "randomAyahInRandomSurah" => [
-                    "pattern" => "/surah/random/random",
+                    "pattern" => "v1/surah/random/random",
                 ],
                 //"spesificJuz" => ["pattern" => "/juz/{juz}", "example" => "/juz/30"],
             ],
