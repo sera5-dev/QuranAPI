@@ -17,9 +17,23 @@ class QuranV1Controller extends Controller
                     "pattern" => "/surah/{surah}",
                     "example" => "/surah/18",
                 ],
+                "randomSurah" => [
+                    "pattern" => "/surah/random",
+                ],
                 "spesificAyahInSurah" => [
                     "pattern" => "/surah/{surah}/{ayah}",
                     "example" => "/surah/18/60",
+                ],
+                "randomAyahInSurah" => [
+                    "pattern" => "/surah/{surah}/random",
+                    "example" => "/surah/18/random",
+                ],
+                "spesificAyahInRandomSurah" => [
+                    "pattern" => "/surah/random/{ayah}",
+                    "example" => "/surah/random/60",
+                ],
+                "randomAyahInRandomSurah" => [
+                    "pattern" => "/surah/random/random",
                 ],
                 //"spesificJuz" => ["pattern" => "/juz/{juz}", "example" => "/juz/30"],
             ],
