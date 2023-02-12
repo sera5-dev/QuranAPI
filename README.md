@@ -18,7 +18,7 @@ This Quran API is designed to be compatible (to a certain degree, of course) wit
 - [x] `/surah/random` = Returns random surah. **Example: [/surah/random](https://quran-api.ptalmaun.com/v1/surah/random)**
 - [x] `/surah/{surah}/{ayah}` = Returns spesific ayah with requested surah. **Example: [/surah/2/255](https://quran-api.ptalmaun.com/v1/surah/2/255)**
 - [x] `/surah/random/{ayah}` = Returns specific ayah from a random surah. If the ayah does not exists, then it returns first ayah. **Example: [/surah/random/1](https://quran-api.ptalmaun.com/v1/surah/random/1)**
-- [x] `/surah/{surah}/random` = Returns random ayah from specified surah. If the ayah does not exists, then it returns first ayah. **Example: [/surah/random/1](https://quran-api.ptalmaun.com/v1/surah/1/random)**
+- [x] `/surah/{surah}/random` = Returns random ayah from specified surah. If the ayah does not exists, then it returns first ayah. **Example: [/surah/1/random](https://quran-api.ptalmaun.com/v1/surah/1/random)**
 - [x] `/surah/random/random` = Returns a random ayah from a random surah **Example: [/surah/random/random](https://quran-api.ptalmaun.com/v1/surah/random/random)**
 
 ### How to Deploy Yourself
