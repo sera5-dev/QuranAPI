@@ -2,7 +2,7 @@
 This Quran API is designed to be compatible (to a certain degree, of course) with Gading Nasution's Quran API (https://api.quran.gading.dev/). 
 
 ### Deployment
-> This API has lived at: https://quran-api.ptalmaun.com
+> This API is live now at: https://quran-api.ptalmaun.com/v1
 
 ### Features
 - [x] Arabic Transliteration (English spelling)
