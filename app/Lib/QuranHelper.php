@@ -186,12 +186,22 @@ class QuranHelper
         return iterator_to_array($data);
     }
 
+    public static function loadPage($page)
+    {
+        $filePath = storage_path("app/pages/page.{$page}.json");
+
+        if (!file_exists($filePath)) throw new FileNotFoundException("Halaman yang Anda cari tidak ditemukan.");
+
+        $data = Items::fromFile($filePath);
+
+        return iterator_to_array($data);
+    }
+
     public static function loadSurahBig($surah)
     {
+        if (!in_array($surah, range(1, 114))) throw new FileNotFoundException("Surat yang Anda cari tidak ditemukan.");
+
         $filePath = storage_path("app/quran.json");
-
-        if (!file_exists($filePath)) throw new FileNotFoundException("Surat yang Anda cari tidak ditemukan.");
-
         $data = Items::fromFile($filePath);
 
         return iterator_to_array($data)[$surah - 1];
@@ -200,10 +210,81 @@ class QuranHelper
     public static function combine()
     {
         $data = array();
-        foreach (range(1, 85) as $n) {
+        foreach (range(1, 114) as $n) {
             $data[] = static::loadSurah($n);
         }
 
         file_put_contents(storage_path("app/quran.json"), json_encode($data), LOCK_EX);
+    }
+
+    public static function fetchPageMeta()
+    {
+        $uf = new UrlFetcher(env('APP_CRAWL_BASEURL1') . "/meta");
+
+        $response = json_decode($uf->process());
+
+        dd($response);
+    }
+
+    public static function getAllQuranPagesCount()
+    {
+        $uf = new UrlFetcher(env('APP_CRAWL_BASEURL1') . "/meta");
+
+        $response = json_decode($uf->process());
+
+        return $response->data->pages->count;
+    }
+
+    public static function fetchPage($page)
+    {
+        $uf = new UrlFetcher(env('APP_CRAWL_BASEURL1') . "/page/{$page}/quran-simple-enhanced");
+
+        $response = json_decode($uf->process());
+        $ayahsRaw = $response->data->ayahs;
+
+        $ayahs = array_map(function ($arab) {
+            return [
+                "number" => [
+                    "inQuran" => $arab->number,
+                    "inSurah" => $arab->numberInSurah,
+                ],
+                "meta" => [
+                    "surah" => $arab->surah,
+                    "juz" => $arab->juz,
+                    "page" =>  $arab->page,
+                    "manzil" =>  $arab->manzil,
+                    "ruku" =>  $arab->ruku,
+                    "hizbQuarter" =>  $arab->hizbQuarter,
+                    "sajda" => [
+                        "recommended" => false,
+                        "obligatory" => $arab->sajda
+                    ]
+                ],
+                "text" => [
+                    "arab" => $arab->text,
+
+                ],
+                "tafsir" => [
+                    "id" => [
+                        "short" => "TBD",
+                        "long" => "TBD"
+                    ]
+                ]
+            ];
+        }, $ayahsRaw);
+
+        file_put_contents(storage_path("app/pages/page.$page.json"), json_encode($ayahs), LOCK_EX);
+
+        return $ayahs;
+    }
+
+    public static function crawlPages()
+    {
+
+        $pages = static::getAllQuranPagesCount();
+
+        for ($i = 1; $i <= $pages; $i++) {
+            $listOfAyahs = static::fetchPage($i);
+        }
     }
 }
