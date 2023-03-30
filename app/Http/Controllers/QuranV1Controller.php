@@ -12,28 +12,36 @@ class QuranV1Controller extends Controller
     {
         return ResponseGenerator::make200([
             "surah" => [
-                "listSurah" => "v1/surah",
+                "listSurah" => url("v1/surah"),
+                "pagesCount" => url("v1/pages_count"),
+                "spesificPage" => [
+                    "pattern" => url("v1/page/{surah}"),
+                    "example" => url("v1/page/18"),
+                ],
+                "randomPage" => [
+                    "pattern" => url("v1/page/random"),
+                ],
                 "spesificSurah" => [
-                    "pattern" => "v1/surah/{surah}",
-                    "example" => "v1/surah/18",
+                    "pattern" => url("v1/surah/{surah}"),
+                    "example" => url("v1/surah/18"),
                 ],
                 "randomSurah" => [
-                    "pattern" => "v1/surah/random",
+                    "pattern" => url("v1/surah/random"),
                 ],
                 "spesificAyahInSurah" => [
-                    "pattern" => "v1/surah/{surah}/{ayah}",
-                    "example" => "v1/surah/18/60",
+                    "pattern" => url("v1/surah/{surah}/{ayah}"),
+                    "example" => url("v1/surah/18/60"),
                 ],
                 "randomAyahInSurah" => [
-                    "pattern" => "v1/surah/{surah}/random",
-                    "example" => "v1/surah/18/random",
+                    "pattern" => url("v1/surah/{surah}/random"),
+                    "example" => url("v1/surah/18/random"),
                 ],
                 "spesificAyahInRandomSurah" => [
-                    "pattern" => "v1/surah/random/{ayah}",
-                    "example" => "v1/surah/random/60",
+                    "pattern" => url("v1/surah/random/{ayah}"),
+                    "example" => url("v1/surah/random/60"),
                 ],
                 "randomAyahInRandomSurah" => [
-                    "pattern" => "v1/surah/random/random",
+                    "pattern" => url("v1/surah/random/random"),
                 ],
                 //"spesificJuz" => ["pattern" => "/juz/{juz}", "example" => "/juz/30"],
             ],
@@ -43,9 +51,14 @@ class QuranV1Controller extends Controller
         ]);
     }
 
+    public function pages_count()
+    {
+        return QuranHelper::getAllQuranPagesCount();
+    }
+
     public function test()
     {
-        return ResponseGenerator::make200([]);
+        return QuranHelper::getAllQuranPagesCount();
     }
 
     public function surah_list()
@@ -84,5 +97,14 @@ class QuranV1Controller extends Controller
         $specificVerse->surah = array_diff_key($surah, array_flip(["verses"]));
 
         return ResponseGenerator::make200($specificVerse);
+    }
+
+    public function page($page)
+    {
+        if ($page == "random") {
+            $page = rand(1, 604);
+        }
+
+        return  ResponseGenerator::make200(QuranHelper::loadPage($page));
     }
 }

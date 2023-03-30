@@ -21,8 +21,10 @@ $router->group(['prefix' => "v1"], function () use ($router) {
     $randomOrNumber = "\brandom\b|[0-9]+";
 
     $router->get('/', "QuranV1Controller@index");
+    $router->get('pages_count', "QuranV1Controller@pages_count");
     $router->get('test', "QuranV1Controller@test");
     $router->get('surah', "QuranV1Controller@surah_list");
+    $router->get("page/{page:$randomOrNumber}", "QuranV1Controller@page");
     $router->get("surah/{surah:$randomOrNumber}", "QuranV1Controller@surah");
     $router->get("surah/{surah:$randomOrNumber}/{verse:$randomOrNumber}", "QuranV1Controller@verse");
 });

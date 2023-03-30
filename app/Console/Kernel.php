@@ -14,7 +14,8 @@ class Kernel extends ConsoleKernel
      */
     protected $commands = [
         \App\Console\Commands\Crawl::class,
-        \App\Console\Commands\Combine::class
+        \App\Console\Commands\Combine::class,
+        \App\Console\Commands\CrawlPerPage::class
     ];
 
     /**
