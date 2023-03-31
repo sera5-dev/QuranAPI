@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Lib\QuranHelper;
 use App\Lib\ResponseGenerator;
+use App\Lib\YatesShuffleEngine;
 use Illuminate\Contracts\Filesystem\FileNotFoundException;
 
 class QuranV1Controller extends Controller
@@ -46,8 +47,8 @@ class QuranV1Controller extends Controller
                 //"spesificJuz" => ["pattern" => "/juz/{juz}", "example" => "/juz/30"],
             ],
             "comment" => "This API is compatible with https://api.quran.gading.dev/.",
-            "maintaner" => "Sera5 dev team <sera5@ptalmaun.com>",
-            "source" => "https://github.com/sera5-dev/quran-api",
+            "maintaner" => "Sera5 dev team <sera5@ptalmaun.com>, asbp <1177050008@student.uinsgd.ac.id>",
+            "source" => "https://github.com/sera5-dev/Quran-API",
         ]);
     }
 
@@ -70,8 +71,19 @@ class QuranV1Controller extends Controller
 
     public function surah($surah)
     {
+        $range = range(1, 114);
+
         if ($surah == "random") {
-            $surah = rand(1, 114);
+            $topYates = YatesShuffleEngine::get_top_shuffle($range, 3);
+            $surah = reset($topYates);
+        } elseif ($surah == "first") {
+            $surah = $range[array_key_first($range)];
+        } elseif ($surah == "last") {
+            $surah = $range[array_key_last($range)];
+        } else {
+            if (!in_array($surah, $range)) {
+                return $this->surah("random");
+            }
         }
 
         return ResponseGenerator::make200(QuranHelper::loadSurah($surah));
@@ -79,30 +91,61 @@ class QuranV1Controller extends Controller
 
     public function verse($surah, $verse)
     {
+        $range = range(1, 114);
+
+        //Parse surah first
         if ($surah == "random") {
-            $surah = rand(1, 114);
-        }
-
-        $surah = QuranHelper::loadSurah($surah);
-
-        if ($verse == "random") {
-            $verse = rand(1,  $surah['numberOfVerses']);
+            $topYates = YatesShuffleEngine::get_top_shuffle($range, 3);
+            $surah = reset($topYates);
+        } elseif ($surah == "first") {
+            $surah = $range[array_key_first($range)];
+        } elseif ($surah == "last") {
+            $surah = $range[array_key_last($range)];
         } else {
-            if (!in_array($verse, range(1, $surah['numberOfVerses']))) {
-                $verse = 1;
+            if (!in_array($surah, $range)) {
+                return $this->verse("random", "random");
             }
         }
 
-        $specificVerse = $surah['verses'][$verse - 1];
-        $specificVerse->surah = array_diff_key($surah, array_flip(["verses"]));
+        $surahJson = QuranHelper::loadSurah($surah);
+        $verseRange = range(1, $surahJson['numberOfVerses']);
+
+        // why we parse the verse last? because we have to get
+        // number of verses first.
+        if ($verse == "random") {
+            $topYates = YatesShuffleEngine::get_top_shuffle($verseRange, 3);
+            $verse = reset($topYates);
+        } elseif ($verse == "first") {
+            $verse = $verseRange[array_key_first($verseRange)];
+        } elseif ($verse == "last") {
+            $verse = $verseRange[array_key_last($verseRange)];
+        } else {
+            if (!in_array($verse, $verseRange)) {
+                return $this->verse($surah, "random");
+            }
+        }
+
+        $specificVerse = $surahJson['verses'][$verse - 1];
+        $specificVerse->surah = array_diff_key($surahJson, array_flip(["verses"]));
 
         return ResponseGenerator::make200($specificVerse);
     }
 
     public function page($page)
     {
+        $range = range(1, 604);
+
         if ($page == "random") {
-            $page = rand(1, 604);
+            $topYates = YatesShuffleEngine::get_top_shuffle($range, 3);
+            $page = reset($topYates);
+        } elseif ($page == "first") {
+            $page = $range[array_key_first($range)];
+        } elseif ($page == "last") {
+            $page = $range[array_key_last($range)];
+        } else {
+            if (!in_array($page, $range)) {
+                return $this->page("random");
+            }
         }
 
         return  ResponseGenerator::make200(QuranHelper::loadPage($page));
