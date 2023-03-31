@@ -296,9 +296,9 @@ class QuranHelper
             $topYates = YatesShuffleEngine::get_top_shuffle($arrayOfRange, 3);
             $result = reset($topYates);
         } elseif ($origParam == "first") {
-            $result = $origParam[array_key_first($origParam)];
+            $result = $arrayOfRange[array_key_first($arrayOfRange)];
         } elseif ($origParam == "last") {
-            $result = $origParam[array_key_last($origParam)];
+            $result = $arrayOfRange[array_key_last($arrayOfRange)];
         } else {
             if (!in_array($origParam, $arrayOfRange)) {
                 if (is_callable($fallback)) {
