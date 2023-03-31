@@ -2,7 +2,7 @@
 
 namespace App\Lib;
 
-class GarpuTala
+class YatesShuffleEngine
 {
     public static function do()
     {

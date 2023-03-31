@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Lib\QuranHelper;
 use App\Lib\ResponseGenerator;
+use App\Lib\YatesShuffleEngine;
 use Illuminate\Contracts\Filesystem\FileNotFoundException;
 
 class QuranV1Controller extends Controller
@@ -46,19 +47,19 @@ class QuranV1Controller extends Controller
                 //"spesificJuz" => ["pattern" => "/juz/{juz}", "example" => "/juz/30"],
             ],
             "comment" => "This API is compatible with https://api.quran.gading.dev/.",
-            "maintaner" => "Sera5 dev team <sera5@ptalmaun.com>",
-            "source" => "https://github.com/sera5-dev/quran-api",
+            "maintaner" => "Sera5 dev team <sera5@ptalmaun.com>, asbp <1177050008@student.uinsgd.ac.id>",
+            "source" => "https://github.com/sera5-dev/QuranAPI",
         ]);
     }
 
     public function pages_count()
     {
-        return QuranHelper::getAllQuranPagesCount();
+        return ResponseGenerator::make200(QuranHelper::getAllQuranPagesCount());
     }
 
     public function test()
     {
-        return QuranHelper::getAllQuranPagesCount();
+        return $this->index();
     }
 
     public function surah_list()
@@ -70,40 +71,28 @@ class QuranV1Controller extends Controller
 
     public function surah($surah)
     {
-        if ($surah == "random") {
-            $surah = rand(1, 114);
-        }
+        $surah = QuranHelper::parseParam($surah, range(1, 114));
 
         return ResponseGenerator::make200(QuranHelper::loadSurah($surah));
     }
 
     public function verse($surah, $verse)
     {
-        if ($surah == "random") {
-            $surah = rand(1, 114);
-        }
+        $surah = QuranHelper::parseParam($surah, range(1, 114));
 
-        $surah = QuranHelper::loadSurah($surah);
+        $surahJson = QuranHelper::loadSurah($surah);
 
-        if ($verse == "random") {
-            $verse = rand(1,  $surah['numberOfVerses']);
-        } else {
-            if (!in_array($verse, range(1, $surah['numberOfVerses']))) {
-                $verse = 1;
-            }
-        }
+        $verse = QuranHelper::parseParam($verse, range(1, $surahJson['numberOfVerses']));
 
-        $specificVerse = $surah['verses'][$verse - 1];
-        $specificVerse->surah = array_diff_key($surah, array_flip(["verses"]));
+        $specificVerse = $surahJson['verses'][$verse - 1];
+        $specificVerse->surah = array_diff_key($surahJson, array_flip(["verses"]));
 
         return ResponseGenerator::make200($specificVerse);
     }
 
     public function page($page)
     {
-        if ($page == "random") {
-            $page = rand(1, 604);
-        }
+        $page = QuranHelper::parseParam($page, range(1, 604));
 
         return  ResponseGenerator::make200(QuranHelper::loadPage($page));
     }
