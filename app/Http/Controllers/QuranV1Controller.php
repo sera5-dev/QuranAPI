@@ -48,7 +48,7 @@ class QuranV1Controller extends Controller
             ],
             "comment" => "This API is compatible with https://api.quran.gading.dev/.",
             "maintaner" => "Sera5 dev team <sera5@ptalmaun.com>, asbp <1177050008@student.uinsgd.ac.id>",
-            "source" => "https://github.com/sera5-dev/Quran-API",
+            "source" => "https://github.com/sera5-dev/QuranAPI",
         ]);
     }
 
