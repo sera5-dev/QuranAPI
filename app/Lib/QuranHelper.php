@@ -287,4 +287,26 @@ class QuranHelper
             $listOfAyahs = static::fetchPage($i);
         }
     }
+
+    public static function parseParam($origParam, $arrayOfRange, $fallback = null)
+    {
+        $result = 1;
+
+        if ($origParam == "random") {
+            $topYates = YatesShuffleEngine::get_top_shuffle($arrayOfRange, 3);
+            $result = reset($topYates);
+        } elseif ($origParam == "first") {
+            $result = $origParam[array_key_first($origParam)];
+        } elseif ($origParam == "last") {
+            $result = $origParam[array_key_last($origParam)];
+        } else {
+            if (!in_array($origParam, $arrayOfRange)) {
+                if (is_callable($fallback)) {
+                    $result = $fallback($origParam, $arrayOfRange);
+                }
+            }
+        }
+
+        return $result;
+    }
 }
