@@ -304,6 +304,8 @@ class QuranHelper
                 if (is_callable($fallback)) {
                     $result = $fallback($origParam, $arrayOfRange);
                 }
+            } else {
+                $result = $origParam;
             }
         }
 
