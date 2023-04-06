@@ -177,7 +177,7 @@ class QuranHelper
 
     public static function loadSurah($surah)
     {
-        $filePath = storage_path("app/surah.{$surah}.json");
+        $filePath = storage_path("app/quran-data/surahs/surah.{$surah}.json");
 
         if (!file_exists($filePath)) throw new FileNotFoundException("Surat yang Anda cari tidak ditemukan.");
 
@@ -188,7 +188,7 @@ class QuranHelper
 
     public static function loadPage($page)
     {
-        $filePath = storage_path("app/pages/page.{$page}.json");
+        $filePath = storage_path("app/quran-data/pages/page.{$page}.json");
 
         if (!file_exists($filePath)) throw new FileNotFoundException("Halaman yang Anda cari tidak ditemukan.");
 
@@ -310,5 +310,11 @@ class QuranHelper
         }
 
         return $result;
+    }
+
+    public static function removePreBasmallah($text, $surah, $verse) {
+        $basmallahText = "\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650 ";
+
+        
     }
 }
