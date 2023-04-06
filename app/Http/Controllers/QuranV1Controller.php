@@ -6,6 +6,7 @@ use App\Lib\QuranHelper;
 use App\Lib\ResponseGenerator;
 use App\Lib\YatesShuffleEngine;
 use Illuminate\Contracts\Filesystem\FileNotFoundException;
+use JsonMachine\Items;
 
 class QuranV1Controller extends Controller
 {
@@ -59,7 +60,14 @@ class QuranV1Controller extends Controller
 
     public function test()
     {
-        return $this->index();
+        $currentPage = 1;
+        $directory = storage_path("app/quran-data/pages");
+        $fileList  = array_values(array_diff(scandir($directory), array('..', '.')));
+
+        foreach (range(1, 604) as $pageRange) {
+        }
+
+        return $fileList;
     }
 
     public function surah_list()
@@ -95,5 +103,69 @@ class QuranV1Controller extends Controller
         $page = QuranHelper::parseParam($page, range(1, 604));
 
         return  ResponseGenerator::make200(QuranHelper::loadPage($page));
+    }
+
+    public function mushaf($page)
+    {
+        $page = QuranHelper::parseParam($page, range(1, 604));
+
+        $prevPageUrl = null;
+        $nextPageUrl = null;
+
+        $prevPageNum = $page - 1;
+        $nextPageNum = $page + 1;
+
+        if (in_array($prevPageNum, range(1, 604))) {
+            $prevPageUrl = url("v1/mushaf/$prevPageNum");
+        }
+
+        if (in_array($nextPageNum, range(1, 604))) {
+            $nextPageUrl = url("v1/mushaf/$nextPageNum");
+        }
+
+
+        $content = QuranHelper::loadPage($page);
+
+        return  ResponseGenerator::make200([
+            "prev_page_url" => $prevPageUrl,
+            "next_page_url" => $nextPageUrl,
+            "content" => $content
+        ]);
+    }
+
+    public function verifikasi_ayat()
+    {
+        $directory = storage_path("app/quran-data/pages");
+        $scanned_directory = array_diff(scandir($directory), array('..', '.'));
+
+        $result = 0;
+        $ayatPerPages = [];
+        $ayatPerPageDetail = [];
+        $count = 0;
+
+        foreach ($scanned_directory as $file) {
+            $count++;
+            $filePath = storage_path("app/quran-data/pages/{$file}");
+
+            $data = Items::fromFile($filePath);
+
+            $arrayResponse  = iterator_to_array($data);
+
+            $jmlAyat = count($arrayResponse);
+            $ayatPerPages[] = $jmlAyat;
+            $ayatPerPageDetail = [
+                ...$ayatPerPageDetail,
+                "Halaman $count" => $jmlAyat
+            ];
+
+            $result += $jmlAyat;
+        }
+
+        return ResponseGenerator::make200([
+            "ayat_per_page" => $ayatPerPages,
+            "detail" => $ayatPerPageDetail,
+            "rumus" => implode(" + ", $ayatPerPages) . " = $result",
+            "total" => $result
+        ]);
     }
 }
