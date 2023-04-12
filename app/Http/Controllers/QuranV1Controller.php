@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Lib\QuranHelper;
+use App\Lib\QuranReader;
 use App\Lib\ResponseGenerator;
 use App\Lib\YatesShuffleEngine;
 use Illuminate\Contracts\Filesystem\FileNotFoundException;
@@ -81,14 +82,14 @@ class QuranV1Controller extends Controller
     {
         $surah = QuranHelper::parseParam($surah, range(1, 114));
 
-        return ResponseGenerator::make200(QuranHelper::loadSurah($surah));
+        return ResponseGenerator::make200(QuranReader::getSurah($surah));
     }
 
     public function verse($surah, $verse)
     {
         $surah = QuranHelper::parseParam($surah, range(1, 114));
 
-        $surahJson = QuranHelper::loadSurah($surah);
+        $surahJson = QuranReader::getSurah($surah);
 
         $verse = QuranHelper::parseParam($verse, range(1, $surahJson['numberOfVerses']));
 
@@ -102,7 +103,7 @@ class QuranV1Controller extends Controller
     {
         $page = QuranHelper::parseParam($page, range(1, 604));
 
-        return  ResponseGenerator::make200(QuranHelper::loadPage($page));
+        return  ResponseGenerator::make200(QuranReader::getPage($page));
     }
 
     public function mushaf($page)
@@ -124,7 +125,7 @@ class QuranV1Controller extends Controller
         }
 
 
-        $content = QuranHelper::loadPage($page);
+        $content = QuranReader::getPage($page);
 
         return  ResponseGenerator::make200([
             "prev_page_url" => $prevPageUrl,

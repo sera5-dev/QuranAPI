@@ -1,0 +1,206 @@
+{
+    "number": 106,
+    "sequence": 29,
+    "numberOfVerses": 4,
+    "name": {
+        "short": "\u0642\u0631\u064a\u0634",
+        "long": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0642\u0631\u064a\u0634",
+        "transliteration": {
+            "en": "Quraysh",
+            "id": "Quraisy"
+        },
+        "translation": {
+            "en": "Quraysh",
+            "id": "Orang Quraisy"
+        }
+    },
+    "revelation": {
+        "arab": "\u0645\u0643\u0629",
+        "en": "Meccan",
+        "id": "Makkiyyah"
+    },
+    "preBismillah": {
+        "text": {
+            "arab": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650",
+            "transliteration": {
+                "en": "Bismillaahir Rahmaanir Raheem"
+            }
+        },
+        "translation": {
+            "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+            "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+        },
+        "audio": {
+            "primary": "https:\/\/cdn.alquran.cloud\/media\/audio\/ayah\/ar.alafasy\/1",
+            "secondary": [
+                "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/1.mp3",
+                "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/1.mp3"
+            ]
+        }
+    },
+    "tafsir": {
+        "id": "Surat ini terdiri atas 4 ayat, termasuk golongan surat-surat Makkiyyah dan diturunkan sesudah surat At Tiin. Nama Quraisy diambil dari kata Quraisy yang terdapat pada ayat pertama, artinya suku Quraisy. Suku Quraisy adalah suku yang mendapat  kehormatan untuk memelihara Ka'bah."
+    },
+    "verses": [
+        {
+            "number": {
+                "inQuran": 6194,
+                "inSurah": 1
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 106,
+                "page": 602,
+                "manzil": 548,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0644\u0650\u0627\u0650\u064a\u0652\u0644\u0670\u0641\u0650 \u0642\u064f\u0631\u064e\u064a\u0652\u0634\u064d\u06d9",
+                "transliteration": {
+                    "en": "Li-ilaafi quraish",
+                    "id": "li'\u012bl\u0101fi quraisy(in)."
+                }
+            },
+            "translation": {
+                "en": "For the accustomed security of the Quraysh -",
+                "id": "Karena kebiasaan orang-orang Quraisy,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6194.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6194.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6195,
+                "inSurah": 2
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 106,
+                "page": 602,
+                "manzil": 548,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u0656\u0644\u0670\u0641\u0650\u0647\u0650\u0645\u0652 \u0631\u0650\u062d\u0652\u0644\u064e\u0629\u064e \u0627\u0644\u0634\u0651\u0650\u062a\u064e\u0627\u06e4\u0621\u0650 \u0648\u064e\u0627\u0644\u0635\u0651\u064e\u064a\u0652\u0641\u0650\u06da",
+                "transliteration": {
+                    "en": "Elaafihim rihlatash shitaa-i wass saif",
+                    "id": "\u00b4l\u0101fihim ri\u1e25latasy-syit\u0101'i wa\u1e63-\u1e63aif(i)."
+                }
+            },
+            "translation": {
+                "en": "Their accustomed security [in] the caravan of winter and summer -",
+                "id": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6195.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6195.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6196,
+                "inSurah": 3
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 106,
+                "page": 602,
+                "manzil": 548,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0641\u064e\u0644\u0652\u064a\u064e\u0639\u0652\u0628\u064f\u062f\u064f\u0648\u0652\u0627 \u0631\u064e\u0628\u0651\u064e \u0647\u0670\u0630\u064e\u0627 \u0627\u0644\u0652\u0628\u064e\u064a\u0652\u062a\u0650\u06d9",
+                "transliteration": {
+                    "en": "Fal y'abudu rabba haazal-bait",
+                    "id": "falya\u2018bud\u016b rabba h\u0101\u017cal-bait(i)."
+                }
+            },
+            "translation": {
+                "en": "Let them worship the Lord of this House,",
+                "id": "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka\u2018bah),"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6196.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6196.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6197,
+                "inSurah": 4
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 106,
+                "page": 602,
+                "manzil": 548,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0653 \u0627\u064e\u0637\u0652\u0639\u064e\u0645\u064e\u0647\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u0652 \u062c\u064f\u0648\u0652\u0639\u064d \u06d5\u06d9 \u0648\u0651\u064e\u0627\u0670\u0645\u064e\u0646\u064e\u0647\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u0652 \u062e\u064e\u0648\u0652\u0641\u064d \u08d6",
+                "transliteration": {
+                    "en": "Allazi at'amahum min ju'inw-wa-aamana hum min khawf",
+                    "id": "alla\u017c\u012b a\u1e6d\u2018amahum min j\u016b\u2018(in), wa \u0101manahum min khauf(in)."
+                }
+            },
+            "translation": {
+                "en": "Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.",
+                "id": "yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6197.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6197.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,366 @@
+{
+    "number": 99,
+    "sequence": 93,
+    "numberOfVerses": 8,
+    "name": {
+        "short": "\u0627\u0644\u0632\u0644\u0632\u0644\u0629",
+        "long": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0632\u0644\u0632\u0644\u0629",
+        "transliteration": {
+            "en": "Az-Zalzalah",
+            "id": "Az-Zalzalah"
+        },
+        "translation": {
+            "en": "The Earthquake",
+            "id": "Guncangan"
+        }
+    },
+    "revelation": {
+        "arab": "\u0645\u062f\u064a\u0646\u0629",
+        "en": "Medinan",
+        "id": "Madaniyyah"
+    },
+    "preBismillah": {
+        "text": {
+            "arab": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650",
+            "transliteration": {
+                "en": "Bismillaahir Rahmaanir Raheem"
+            }
+        },
+        "translation": {
+            "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+            "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+        },
+        "audio": {
+            "primary": "https:\/\/cdn.alquran.cloud\/media\/audio\/ayah\/ar.alafasy\/1",
+            "secondary": [
+                "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/1.mp3",
+                "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/1.mp3"
+            ]
+        }
+    },
+    "tafsir": {
+        "id": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Madaniyyah diturunkan sesudah surat An Nisaa'. Nama Al Zalzalah diambil dari kata: Zilzaal yang terdapat pada ayat pertama surat ini yang berarti goncangan."
+    },
+    "verses": [
+        {
+            "number": {
+                "inQuran": 6139,
+                "inSurah": 1
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 99,
+                "page": 599,
+                "manzil": 541,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u0650\u0630\u064e\u0627 \u0632\u064f\u0644\u0652\u0632\u0650\u0644\u064e\u062a\u0650 \u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u064f \u0632\u0650\u0644\u0652\u0632\u064e\u0627\u0644\u064e\u0647\u064e\u0627\u06d9",
+                "transliteration": {
+                    "en": "Izaa zul zilatil ardu zil zaalaha",
+                    "id": "i\u017c\u0101 zulzilatil-ar\u1e0du zilz\u0101lah\u0101."
+                }
+            },
+            "translation": {
+                "en": "When the earth is shaken with its [final] earthquake",
+                "id": "Apabila bumi diguncangkan dengan guncangan yang dahsyat,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6139.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6139.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6140,
+                "inSurah": 2
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 99,
+                "page": 599,
+                "manzil": 541,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0627\u064e\u062e\u0652\u0631\u064e\u062c\u064e\u062a\u0650 \u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u064f \u0627\u064e\u062b\u0652\u0642\u064e\u0627\u0644\u064e\u0647\u064e\u0627\u06d9",
+                "transliteration": {
+                    "en": "Wa akh rajatil ardu athqaalaha",
+                    "id": "wa akhrajatil-ar\u1e0du a\u1e61q\u0101lah\u0101."
+                }
+            },
+            "translation": {
+                "en": "And the earth discharges its burdens",
+                "id": "dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6140.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6140.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6141,
+                "inSurah": 3
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 99,
+                "page": 599,
+                "manzil": 541,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0642\u064e\u0627\u0644\u064e \u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064f \u0645\u064e\u0627 \u0644\u064e\u0647\u064e\u0627\u06da",
+                "transliteration": {
+                    "en": "Wa qaalal insaanu ma laha",
+                    "id": "wa q\u0101lal-ins\u0101nu m\u0101 lah\u0101."
+                }
+            },
+            "translation": {
+                "en": "And man says, \"What is [wrong] with it?\" -",
+                "id": "Dan manusia bertanya, \u201cApa yang terjadi pada bumi ini?\u201d"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6141.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6141.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6142,
+                "inSurah": 4
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 99,
+                "page": 599,
+                "manzil": 541,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u064a\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d \u062a\u064f\u062d\u064e\u062f\u0651\u0650\u062b\u064f \u0627\u064e\u062e\u0652\u0628\u064e\u0627\u0631\u064e\u0647\u064e\u0627\u06d9",
+                "transliteration": {
+                    "en": "Yawmaa izin tuhad dithu akhbaaraha",
+                    "id": "yauma'i\u017cin tu\u1e25addi\u1e61u akhb\u0101rah\u0101."
+                }
+            },
+            "translation": {
+                "en": "That Day, it will report its news",
+                "id": "Pada hari itu bumi menyampaikan beritanya,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6142.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6142.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6143,
+                "inSurah": 5
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 99,
+                "page": 599,
+                "manzil": 541,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0628\u0650\u0627\u064e\u0646\u0651\u064e \u0631\u064e\u0628\u0651\u064e\u0643\u064e \u0627\u064e\u0648\u0652\u062d\u0670\u0649 \u0644\u064e\u0647\u064e\u0627\u06d7",
+                "transliteration": {
+                    "en": "Bi-anna rabbaka awhaa laha",
+                    "id": "bi'anna rabbaka au\u1e25\u0101 lah\u0101."
+                }
+            },
+            "translation": {
+                "en": "Because your Lord has commanded it.",
+                "id": "karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) padanya."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6143.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6143.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6144,
+                "inSurah": 6
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 99,
+                "page": 599,
+                "manzil": 541,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u064a\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d \u064a\u0651\u064e\u0635\u0652\u062f\u064f\u0631\u064f \u0627\u0644\u0646\u0651\u064e\u0627\u0633\u064f \u0627\u064e\u0634\u0652\u062a\u064e\u0627\u062a\u064b\u0627 \u06d5\u06d9 \u0644\u0651\u0650\u064a\u064f\u0631\u064e\u0648\u0652\u0627 \u0627\u064e\u0639\u0652\u0645\u064e\u0627\u0644\u064e\u0647\u064f\u0645\u0652\u06d7",
+                "transliteration": {
+                    "en": "Yawma iziy yas durun naasu ash tatal liyuraw a'maalahum",
+                    "id": "yauma'i\u017ciy ya\u1e63durun-n\u0101su asyt\u0101t\u0101(n), liyurau a\u2018m\u0101lahum."
+                }
+            },
+            "translation": {
+                "en": "That Day, the people will depart separated [into categories] to be shown [the result of] their deeds.",
+                "id": "Pada hari itu manusia keluar dari kuburnya dalam keadaan berkelompok-kelompok, untuk diperlihatkan kepada mereka (balasan) semua perbuatannya."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6144.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6144.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6145,
+                "inSurah": 7
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 99,
+                "page": 599,
+                "manzil": 541,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0641\u064e\u0645\u064e\u0646\u0652 \u064a\u0651\u064e\u0639\u0652\u0645\u064e\u0644\u0652 \u0645\u0650\u062b\u0652\u0642\u064e\u0627\u0644\u064e \u0630\u064e\u0631\u0651\u064e\u0629\u064d \u062e\u064e\u064a\u0652\u0631\u064b\u0627 \u064a\u0651\u064e\u0631\u064e\u0647\u0657\u06da",
+                "transliteration": {
+                    "en": "Famaiy ya'mal mithqala zarratin khai raiy-yarah",
+                    "id": "famay ya\u2018mal mi\u1e61q\u0101la \u017carratin khairay yarah(\u016b)."
+                }
+            },
+            "translation": {
+                "en": "So whoever does an atom's weight of good will see it,",
+                "id": "Maka barangsiapa mengerjakan kebaikan seberat zarrah, niscaya dia akan melihat (balasan)nya,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6145.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6145.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6146,
+                "inSurah": 8
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 99,
+                "page": 599,
+                "manzil": 541,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0645\u064e\u0646\u0652 \u064a\u0651\u064e\u0639\u0652\u0645\u064e\u0644\u0652 \u0645\u0650\u062b\u0652\u0642\u064e\u0627\u0644\u064e \u0630\u064e\u0631\u0651\u064e\u0629\u064d \u0634\u064e\u0631\u0651\u064b\u0627 \u064a\u0651\u064e\u0631\u064e\u0647\u0657 \u08d6",
+                "transliteration": {
+                    "en": "Wa maiy-y'amal mithqala zarratin sharraiy-yarah",
+                    "id": "wa may ya\u2018mal mi\u1e61q\u0101la \u017carratin syarray yarah(\u016b)."
+                }
+            },
+            "translation": {
+                "en": "And whoever does an atom's weight of evil will see it.",
+                "id": "dan barangsiapa mengerjakan kejahatan seberat zarrah, niscaya dia akan melihat (balasan)nya."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6146.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6146.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,406 @@
+{
+    "number": 104,
+    "sequence": 32,
+    "numberOfVerses": 9,
+    "name": {
+        "short": "\u0627\u0644\u0647\u0645\u0632\u0629",
+        "long": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0647\u0645\u0632\u0629",
+        "transliteration": {
+            "en": "Al-Humazah",
+            "id": "Al-Humazah"
+        },
+        "translation": {
+            "en": "The Traducer",
+            "id": "Pengumpat"
+        }
+    },
+    "revelation": {
+        "arab": "\u0645\u0643\u0629",
+        "en": "Meccan",
+        "id": "Makkiyyah"
+    },
+    "preBismillah": {
+        "text": {
+            "arab": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650",
+            "transliteration": {
+                "en": "Bismillaahir Rahmaanir Raheem"
+            }
+        },
+        "translation": {
+            "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+            "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+        },
+        "audio": {
+            "primary": "https:\/\/cdn.alquran.cloud\/media\/audio\/ayah\/ar.alafasy\/1",
+            "secondary": [
+                "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/1.mp3",
+                "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/1.mp3"
+            ]
+        }
+    },
+    "tafsir": {
+        "id": "Surat Al Humazah terdiri atas 9 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Qiyaamah. Dinamai Al Humazah (pengumpat) diambil dari perkataan Humazah yang terdapat pada ayat pertama surat ini."
+    },
+    "verses": [
+        {
+            "number": {
+                "inQuran": 6180,
+                "inSurah": 1
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 104,
+                "page": 601,
+                "manzil": 546,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u064a\u0652\u0644\u064c \u0644\u0651\u0650\u0643\u064f\u0644\u0651\u0650 \u0647\u064f\u0645\u064e\u0632\u064e\u0629\u064d \u0644\u0651\u064f\u0645\u064e\u0632\u064e\u0629\u064d\u06d9",
+                "transliteration": {
+                    "en": "Wai lul-li kulli hu mazatil-lumaza",
+                    "id": "wailul likulli humazatil-lumazah(tin)."
+                }
+            },
+            "translation": {
+                "en": "Woe to every scorner and mocker",
+                "id": "Celakalah bagi setiap pengumpat dan pencela,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6180.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6180.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6181,
+                "inSurah": 2
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 104,
+                "page": 601,
+                "manzil": 546,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": " \u06e8\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652 \u062c\u064e\u0645\u064e\u0639\u064e \u0645\u064e\u0627\u0644\u064b\u0627 \u0648\u0651\u064e\u0639\u064e\u062f\u0651\u064e\u062f\u064e\u0647\u0657\u06d9",
+                "transliteration": {
+                    "en": "Al-lazi jama'a maalaw wa'addadah",
+                    "id": "alla\u017c\u012b jama\u2018a m\u0101law wa \u2018addadah(\u016b)."
+                }
+            },
+            "translation": {
+                "en": "Who collects wealth and [continuously] counts it.",
+                "id": "yang mengumpulkan harta dan menghitung-hitungnya,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6181.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6181.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6182,
+                "inSurah": 3
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 104,
+                "page": 601,
+                "manzil": 546,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u064a\u064e\u062d\u0652\u0633\u064e\u0628\u064f \u0627\u064e\u0646\u0651\u064e \u0645\u064e\u0627\u0644\u064e\u0647\u0657\u0653 \u0627\u064e\u062e\u0652\u0644\u064e\u062f\u064e\u0647\u0657\u06da",
+                "transliteration": {
+                    "en": "Yahsabu anna maalahu akhladah",
+                    "id": "ya\u1e25sabu anna m\u0101lah\u016b akhladah(\u016b)."
+                }
+            },
+            "translation": {
+                "en": "He thinks that his wealth will make him immortal.",
+                "id": "dia (manusia) mengira bahwa hartanya itu dapat mengekalkannya."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6182.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6182.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6183,
+                "inSurah": 4
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 104,
+                "page": 601,
+                "manzil": 546,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0643\u064e\u0644\u0651\u064e\u0627 \u0644\u064e\u064a\u064f\u0646\u0652\u06e2\u0628\u064e\u0630\u064e\u0646\u0651\u064e \u0641\u0650\u0649 \u0627\u0644\u0652\u062d\u064f\u0637\u064e\u0645\u064e\u0629\u0650\u06d6",
+                "transliteration": {
+                    "en": "Kalla layum ba zanna fil hutamah",
+                    "id": "kall\u0101 layumba\u017canna fil-\u1e25u\u1e6damah(ti)."
+                }
+            },
+            "translation": {
+                "en": "No! He will surely be thrown into the Crusher.",
+                "id": "Sekali-kali tidak! Pasti dia akan dilemparkan ke dalam (neraka) Hutamah."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6183.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6183.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6184,
+                "inSurah": 5
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 104,
+                "page": 601,
+                "manzil": 546,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0645\u064e\u0627\u0653 \u0627\u064e\u062f\u0652\u0631\u0670\u0649\u0643\u064e \u0645\u064e\u0627 \u0627\u0644\u0652\u062d\u064f\u0637\u064e\u0645\u064e\u0629\u064f \u06d7",
+                "transliteration": {
+                    "en": "Wa maa adraaka mal-hutamah",
+                    "id": "wa m\u0101 adr\u0101ka mal-\u1e25u\u1e6damah(tu)."
+                }
+            },
+            "translation": {
+                "en": "And what can make you know what is the Crusher?",
+                "id": "Dan tahukah kamu apakah (neraka) Hutamah itu?"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6184.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6184.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6185,
+                "inSurah": 6
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 104,
+                "page": 601,
+                "manzil": 546,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0646\u064e\u0627\u0631\u064f \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0627\u0644\u0652\u0645\u064f\u0648\u0652\u0642\u064e\u062f\u064e\u0629\u064f\u06d9",
+                "transliteration": {
+                    "en": "Narul laahil-mooqada",
+                    "id": "n\u0101rull\u0101hil-m\u016bqadah(tu)."
+                }
+            },
+            "translation": {
+                "en": "It is the fire of Allah, [eternally] fueled,",
+                "id": "(Yaitu) api  (azab) Allah yang dinyalakan,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6185.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6185.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6186,
+                "inSurah": 7
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 104,
+                "page": 601,
+                "manzil": 546,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u0644\u0651\u064e\u062a\u0650\u064a\u0652 \u062a\u064e\u0637\u0651\u064e\u0644\u0650\u0639\u064f \u0639\u064e\u0644\u064e\u0649 \u0627\u0644\u0652\u0627\u064e\u0641\u0652\u0640\u0655\u0650\u062f\u064e\u0629\u0650\u06d7",
+                "transliteration": {
+                    "en": "Al latee tat tali'u 'alalafidah",
+                    "id": "allat\u012b ta\u1e6d\u1e6dali\u2018u \u2018alal-af'idah(ti)."
+                }
+            },
+            "translation": {
+                "en": "Which mounts directed at the hearts.",
+                "id": "yang (membakar) sampai ke hati."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6186.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6186.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6187,
+                "inSurah": 8
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 104,
+                "page": 601,
+                "manzil": 546,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u0650\u0646\u0651\u064e\u0647\u064e\u0627 \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650\u0645\u0652 \u0645\u0651\u064f\u0624\u0652\u0635\u064e\u062f\u064e\u0629\u064c\u06d9",
+                "transliteration": {
+                    "en": "Innaha 'alaihim moosada",
+                    "id": "innah\u0101 \u2018alaihim mu'\u1e63adah(tun)."
+                }
+            },
+            "translation": {
+                "en": "Indeed, Hellfire will be closed down upon them",
+                "id": "Sungguh, api itu ditutup rapat atas (diri) mereka,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6187.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6187.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6188,
+                "inSurah": 9
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 104,
+                "page": 601,
+                "manzil": 546,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0641\u0650\u064a\u0652 \u0639\u064e\u0645\u064e\u062f\u064d \u0645\u0651\u064f\u0645\u064e\u062f\u0651\u064e\u062f\u064e\u0629\u064d \u08d6",
+                "transliteration": {
+                    "en": "Fee 'amadim-mu mad dadah",
+                    "id": "f\u012b \u2018amadim mumaddadah(tin)."
+                }
+            },
+            "translation": {
+                "en": "In extended columns.",
+                "id": "(sedang mereka itu) diikat pada tiang-tiang yang panjang."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6188.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6188.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        }
+    ]
+}

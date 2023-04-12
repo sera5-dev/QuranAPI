@@ -1,0 +1,2166 @@
+{
+    "number": 42,
+    "sequence": 62,
+    "numberOfVerses": 53,
+    "name": {
+        "short": "\u0627\u0644\u0634\u0648\u0631\u0649",
+        "long": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0634\u0648\u0631\u0649",
+        "transliteration": {
+            "en": "Ash-Shuraa",
+            "id": "Asy-Syura"
+        },
+        "translation": {
+            "en": "The Consultation",
+            "id": "Musyawarah"
+        }
+    },
+    "revelation": {
+        "arab": "\u0645\u0643\u0629",
+        "en": "Meccan",
+        "id": "Makkiyyah"
+    },
+    "preBismillah": {
+        "text": {
+            "arab": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650",
+            "transliteration": {
+                "en": "Bismillaahir Rahmaanir Raheem"
+            }
+        },
+        "translation": {
+            "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+            "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+        },
+        "audio": {
+            "primary": "https:\/\/cdn.alquran.cloud\/media\/audio\/ayah\/ar.alafasy\/1",
+            "secondary": [
+                "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/1.mp3",
+                "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/1.mp3"
+            ]
+        }
+    },
+    "tafsir": {
+        "id": "Surat Asy Syuura terdiri atas 53 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Fushshilat. Dinamai dengan Asy Syuura (musyawarat) diambil dari perkataan Syuura yang terdapat pada ayat 38 surat ini. Dalam ayat tersebut diletakkan salah satu dari dasar-dasar pemerintahan Islam ialah musyawarat. Dinamai juga Haa Miim 'Ain Siin Qaaf karena surat ini dimulai dengan huruf-huruf hijaiyah itu."
+    },
+    "verses": [
+        {
+            "number": {
+                "inQuran": 4273,
+                "inSurah": 1
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 483,
+                "manzil": 419,
+                "hizbQuarter": 193,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": " \u062d\u0670\u0645\u06e4  \u06da ",
+                "transliteration": {
+                    "en": "Haa Meeem",
+                    "id": "\u1e24\u0101 m\u012bm."
+                }
+            },
+            "translation": {
+                "en": "Ha, Meem.",
+                "id": "Ha Mim"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4273.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4273.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4274,
+                "inSurah": 2
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 483,
+                "manzil": 419,
+                "hizbQuarter": 193,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0639\u06e4\u0633\u06e4\u0642\u06e4  \u06d7  ",
+                "transliteration": {
+                    "en": "'Ayyyn Seeen Qaaaf",
+                    "id": "\u2018ain s\u012bn q\u0101f."
+                }
+            },
+            "translation": {
+                "en": "'Ayn, Seen, Qaf.",
+                "id": "Ain Sin Qaf"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4274.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4274.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4275,
+                "inSurah": 3
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 483,
+                "manzil": 419,
+                "hizbQuarter": 193,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0643\u064e\u0630\u0670\u0644\u0650\u0643\u064e \u064a\u064f\u0648\u0652\u062d\u0650\u064a\u0653\u0652 \u0627\u0650\u0644\u064e\u064a\u0652\u0643\u064e \u0648\u064e\u0627\u0650\u0644\u064e\u0649 \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0645\u0650\u0646\u0652 \u0642\u064e\u0628\u0652\u0644\u0650\u0643\u064e\u06d9 \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u0627\u0644\u0652\u0639\u064e\u0632\u0650\u064a\u0652\u0632\u064f \u0627\u0644\u0652\u062d\u064e\u0643\u0650\u064a\u0652\u0645\u064f ",
+                "transliteration": {
+                    "en": "Kazaalika yooheee ilaika wa ilal lazeena min qablikal laahul 'Azeezul Hakeem",
+                    "id": "ka\u017c\u0101lika y\u016b\u1e25\u012b ilaika wa ilal-la\u017c\u012bna min qablik(a), all\u0101hul-\u2018az\u012bzul-\u1e25ak\u012bm(u)."
+                }
+            },
+            "translation": {
+                "en": "Thus has He revealed to you, [O Muhammad], and to those before you - Allah, the Exalted in Might, the Wise.",
+                "id": "Demikianlah Allah Yang Mahaperkasa, Mahabijaksana mewahyukan kepadamu (Muhammad) dan kepada orang-orang yang sebelummu."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4275.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4275.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4276,
+                "inSurah": 4
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 483,
+                "manzil": 419,
+                "hizbQuarter": 193,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0644\u064e\u0647\u0657 \u0645\u064e\u0627 \u0641\u0650\u0649 \u0627\u0644\u0633\u0651\u064e\u0645\u0670\u0648\u0670\u062a\u0650 \u0648\u064e\u0645\u064e\u0627 \u0641\u0650\u0649 \u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650\u06d7 \u0648\u064e\u0647\u064f\u0648\u064e \u0627\u0644\u0652\u0639\u064e\u0644\u0650\u064a\u0651\u064f \u0627\u0644\u0652\u0639\u064e\u0638\u0650\u064a\u0652\u0645\u064f ",
+                "transliteration": {
+                    "en": "Lahoo maa fis samaa waati wa maa fil ardi wa Huwal 'Aliyul 'Azeem",
+                    "id": "lah\u016b m\u0101 fis-sam\u0101w\u0101ti wa m\u0101 fil-ar\u1e0d(i), wa huwal-\u2018aliyyul-\u2018a\u1e93\u012bm(u)."
+                }
+            },
+            "translation": {
+                "en": "To Him belongs whatever is in the heavens and whatever is in the earth, and He is the Most High, the Most Great.",
+                "id": "Milik-Nyalah apa yang ada di langit dan apa yang ada di bumi. Dan Dialah Yang Mahaagung, Mahabesar."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4276.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4276.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4277,
+                "inSurah": 5
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 483,
+                "manzil": 419,
+                "hizbQuarter": 193,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u062a\u064e\u0643\u064e\u0627\u062f\u064f \u0627\u0644\u0633\u0651\u064e\u0645\u0670\u0648\u0670\u062a\u064f \u064a\u064e\u062a\u064e\u0641\u064e\u0637\u0651\u064e\u0631\u0652\u0646\u064e \u0645\u0650\u0646\u0652 \u0641\u064e\u0648\u0652\u0642\u0650\u0647\u0650\u0646\u0651\u064e \u0648\u064e\u0627\u0644\u0652\u0645\u064e\u0644\u0670\u06e4\u0649\u0655\u0650\u0643\u064e\u0629\u064f \u064a\u064f\u0633\u064e\u0628\u0651\u0650\u062d\u064f\u0648\u0652\u0646\u064e \u0628\u0650\u062d\u064e\u0645\u0652\u062f\u0650 \u0631\u064e\u0628\u0651\u0650\u0647\u0650\u0645\u0652 \u0648\u064e\u064a\u064e\u0633\u0652\u062a\u064e\u063a\u0652\u0641\u0650\u0631\u064f\u0648\u0652\u0646\u064e \u0644\u0650\u0645\u064e\u0646\u0652 \u0641\u0650\u0649 \u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650\u06d7  \u0627\u064e\u0644\u064e\u0627\u0653 \u0627\u0650\u0646\u0651\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u064e \u0647\u064f\u0648\u064e \u0627\u0644\u0652\u063a\u064e\u0641\u064f\u0648\u0652\u0631\u064f \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0652\u0645\u064f ",
+                "transliteration": {
+                    "en": "Takaadus samaawaatu yatafattarna min fawqihinn; walmalaaa'ikatu yusabbihoona bihamdi Rabbihim wa yastaghfiroona liman fil ard; alaaa innal laaha huwal Ghafoorur Raheem",
+                    "id": "tak\u0101dus-sam\u0101w\u0101tu yatafa\u1e6d\u1e6darna min fauqihinna wal-mal\u0101'ikatu yusabbi\u1e25\u016bna bi\u1e25amdi rabbihim wa yastagfir\u016bna liman fil-ar\u1e0d(i), al\u0101 innall\u0101ha huwal-gaf\u016brur-ra\u1e25\u012bm(u)."
+                }
+            },
+            "translation": {
+                "en": "The heavens almost break from above them, and the angels exalt [Allah] with praise of their Lord and ask forgiveness for those on earth. Unquestionably, it is Allah who is the Forgiving, the Merciful.",
+                "id": "Hampir saja langit itu pecah dari sebelah atasnya (karena kebesaran Allah) dan malaikat-malaikat bertasbih memuji Tuhannya dan memohonkan ampunan untuk orang yang ada di bumi. Ingatlah, sesungguhnya Allah Dialah Yang Maha Pengampun, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4277.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4277.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4278,
+                "inSurah": 6
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 483,
+                "manzil": 419,
+                "hizbQuarter": 193,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0627\u062a\u0651\u064e\u062e\u064e\u0630\u064f\u0648\u0652\u0627 \u0645\u0650\u0646\u0652 \u062f\u064f\u0648\u0652\u0646\u0650\u0647\u0653\u0656 \u0627\u064e\u0648\u0652\u0644\u0650\u064a\u064e\u0627\u06e4\u0621\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u062d\u064e\u0641\u0650\u064a\u0652\u0638\u064c \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650\u0645\u0652\u06d6 \u0648\u064e\u0645\u064e\u0627\u0653 \u0627\u064e\u0646\u0652\u062a\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650\u0645\u0652 \u0628\u0650\u0648\u064e\u0643\u0650\u064a\u0652\u0644\u064d ",
+                "transliteration": {
+                    "en": "Wallazeenat takhazoo min dooniheee awliyaaa'al laahu hafeezun 'alaihim wa maaa anta 'alaihim biwakeel",
+                    "id": "wal-la\u017c\u012bnattakha\u017c\u016b min d\u016bnih\u012b auliy\u0101'all\u0101hu \u1e25af\u012b\u1e93un \u2018alaihim, wa m\u0101 anta \u2018alaihim biwak\u012bl(in)."
+                }
+            },
+            "translation": {
+                "en": "And those who take as allies other than Him - Allah is [yet] Guardian over them; and you, [O Muhammad], are not over them a manager.",
+                "id": "Dan orang-orang yang mengambil pelindung-pelindung selain Allah, Allah mengawasi (perbuatan) mereka; adapun engkau (Muhammad) bukanlah orang yang diserahi mengawasi mereka."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4278.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4278.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4279,
+                "inSurah": 7
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 483,
+                "manzil": 419,
+                "hizbQuarter": 193,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0643\u064e\u0630\u0670\u0644\u0650\u0643\u064e \u0627\u064e\u0648\u0652\u062d\u064e\u064a\u0652\u0646\u064e\u0627\u0653 \u0627\u0650\u0644\u064e\u064a\u0652\u0643\u064e \u0642\u064f\u0631\u0652\u0627\u0670\u0646\u064b\u0627 \u0639\u064e\u0631\u064e\u0628\u0650\u064a\u0651\u064b\u0627 \u0644\u0651\u0650\u062a\u064f\u0646\u0652\u0630\u0650\u0631\u064e \u0627\u064f\u0645\u0651\u064e \u0627\u0644\u0652\u0642\u064f\u0631\u0670\u0649 \u0648\u064e\u0645\u064e\u0646\u0652 \u062d\u064e\u0648\u0652\u0644\u064e\u0647\u064e\u0627 \u0648\u064e\u062a\u064f\u0646\u0652\u0630\u0650\u0631\u064e \u064a\u064e\u0648\u0652\u0645\u064e \u0627\u0644\u0652\u062c\u064e\u0645\u0652\u0639\u0650 \u0644\u064e\u0627 \u0631\u064e\u064a\u0652\u0628\u064e \u0641\u0650\u064a\u0652\u0647\u0650 \u06d7\u0641\u064e\u0631\u0650\u064a\u0652\u0642\u064c \u0641\u0650\u0649 \u0627\u0644\u0652\u062c\u064e\u0646\u0651\u064e\u0629\u0650 \u0648\u064e\u0641\u064e\u0631\u0650\u064a\u0652\u0642\u064c \u0641\u0650\u0649 \u0627\u0644\u0633\u0651\u064e\u0639\u0650\u064a\u0652\u0631\u0650 ",
+                "transliteration": {
+                    "en": "Wa kazaalika awhainaaa llaika Qur-aanan 'Arabiyyal litunzir aUmmal Quraa wa man hawlahaa wa tunzira Yawmal Jam'ilaa raiba feeh; fareequn fil jannati wa fareequn fissa'eer",
+                    "id": "wa ka\u017c\u0101lika au\u1e25ain\u0101 ilaika qur'\u0101nan \u2018arabiyyal litun\u017cira ummal-qur\u0101 wa man \u1e25aulah\u0101 wa tun\u017cira yaumal-jam\u2018i l\u0101 raiba f\u012bh(i), far\u012bqun fil-jannati wa far\u012bqun fis-sa\u2018\u012br(i)."
+                }
+            },
+            "translation": {
+                "en": "And thus We have revealed to you an Arabic Qur'an that you may warn the Mother of Cities [Makkah] and those around it and warn of the Day of Assembly, about which there is no doubt. A party will be in Paradise and a party in the Blaze.",
+                "id": "Dan demikianlah Kami wahyukan Al-Qur'an kepadamu dalam bahasa Arab, agar engkau memberi peringatan kepada penduduk ibukota (Mekah) dan penduduk (negeri-negeri) di sekelilingnya serta memberi peringatan tentang hari berkumpul (Kiamat) yang tidak diragukan adanya. Segolongan masuk surga dan segolongan masuk neraka."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4279.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4279.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4280,
+                "inSurah": 8
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 483,
+                "manzil": 419,
+                "hizbQuarter": 193,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0644\u064e\u0648\u0652 \u0634\u064e\u0627\u06e4\u0621\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u0644\u064e\u062c\u064e\u0639\u064e\u0644\u064e\u0647\u064f\u0645\u0652 \u0627\u064f\u0645\u0651\u064e\u0629\u064b \u0648\u0651\u064e\u0627\u062d\u0650\u062f\u064e\u0629\u064b \u0648\u0651\u064e\u0644\u0670\u0643\u0650\u0646\u0652 \u064a\u0651\u064f\u062f\u0652\u062e\u0650\u0644\u064f \u0645\u064e\u0646\u0652 \u064a\u0651\u064e\u0634\u064e\u0627\u06e4\u0621\u064f \u0641\u0650\u064a\u0652 \u0631\u064e\u062d\u0652\u0645\u064e\u062a\u0650\u0647\u0656\u06d7 \u0648\u064e\u0627\u0644\u0638\u0651\u0670\u0644\u0650\u0645\u064f\u0648\u0652\u0646\u064e \u0645\u064e\u0627 \u0644\u064e\u0647\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u0652 \u0648\u0651\u064e\u0644\u0650\u064a\u0651\u064d \u0648\u0651\u064e\u0644\u064e\u0627 \u0646\u064e\u0635\u0650\u064a\u0652\u0631\u064d ",
+                "transliteration": {
+                    "en": "Wa law shaaa'al laahu laja'alahum ummatanw waahi datanw walaakiny yudkhilumany yashaaa'u fee rahmatih; waz zaalimoona maa lahum minw waliyyinw wa laa naseer",
+                    "id": "wa lau sy\u0101'all\u0101hu laja\u2018alahum ummataw w\u0101\u1e25idataw wa l\u0101kiy yudkhilu may yasy\u0101'u f\u012b ra\u1e25matih(\u012b), wa\u1e93-\u1e93\u0101lim\u016bna m\u0101 lahum miw waliyyiw wa l\u0101 na\u1e63\u012br(in)."
+                }
+            },
+            "translation": {
+                "en": "And if Allah willed, He could have made them [of] one religion, but He admits whom He wills into His mercy. And the wrongdoers have not any protector or helper.",
+                "id": "Dan sekiranya Allah menghendaki niscaya Dia jadikan mereka satu umat, tetapi Dia memasukkan orang-orang yang Dia kehendaki ke dalam rahmat-Nya. Dan orang-orang yang zalim tidak ada bagi mereka pelindung dan penolong."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4280.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4280.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4281,
+                "inSurah": 9
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 483,
+                "manzil": 419,
+                "hizbQuarter": 193,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u064e\u0645\u0650 \u0627\u062a\u0651\u064e\u062e\u064e\u0630\u064f\u0648\u0652\u0627 \u0645\u0650\u0646\u0652 \u062f\u064f\u0648\u0652\u0646\u0650\u0647\u0656\u0653 \u0627\u064e\u0648\u0652\u0644\u0650\u064a\u064e\u0627\u06e4\u0621\u064e\u06da \u0641\u064e\u0627\u0644\u0644\u0651\u0670\u0647\u064f \u0647\u064f\u0648\u064e \u0627\u0644\u0652\u0648\u064e\u0644\u0650\u064a\u0651\u064f \u0648\u064e\u0647\u064f\u0648\u064e \u064a\u064f\u062d\u0652\u064a\u0650 \u0627\u0644\u0652\u0645\u064e\u0648\u0652\u062a\u0670\u0649 \u06d6\u0648\u064e\u0647\u064f\u0648\u064e \u0639\u064e\u0644\u0670\u0649 \u0643\u064f\u0644\u0651\u0650 \u0634\u064e\u064a\u0652\u0621\u064d \u0642\u064e\u062f\u0650\u064a\u0652\u0631\u064c \u08d6 ",
+                "transliteration": {
+                    "en": "Amit takhazoo min dooniheee awliyaaa'a fallaahu Huwal Waliyyu wa Huwa yuhyil mawtaa wa Huwa 'alaa kulli shai'in Qadeer",
+                    "id": "amittakha\u017c\u016b min d\u016bnih\u012b auliy\u0101'(a), fall\u0101hu huwal-waliyyu wa huwa yu\u1e25yil-maut\u0101, wa huwa \u2018al\u0101 kulli syai'in qad\u012br(un)."
+                }
+            },
+            "translation": {
+                "en": "Or have they taken protectors [or allies] besides him? But Allah - He is the Protector, and He gives life to the dead, and He is over all things competent.",
+                "id": "Atau mereka mengambil pelindung-pelindung selain Dia? Padahal Allah, Dialah pelindung (yang sebenarnya). Dan Dia menghidupkan orang yang mati, dan Dia Mahakuasa atas segala sesuatu."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4281.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4281.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4282,
+                "inSurah": 10
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 483,
+                "manzil": 420,
+                "hizbQuarter": 193,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0645\u064e\u0627 \u0627\u062e\u0652\u062a\u064e\u0644\u064e\u0641\u0652\u062a\u064f\u0645\u0652 \u0641\u0650\u064a\u0652\u0647\u0650 \u0645\u0650\u0646\u0652 \u0634\u064e\u064a\u0652\u0621\u064d \u0641\u064e\u062d\u064f\u0643\u0652\u0645\u064f\u0647\u0657\u0653 \u0627\u0650\u0644\u064e\u0649 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u06d7\u0630\u0670\u0644\u0650\u0643\u064f\u0645\u064f \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u0631\u064e\u0628\u0651\u0650\u064a\u0652 \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u062a\u064e\u0648\u064e\u0643\u0651\u064e\u0644\u0652\u062a\u064f\u06d6 \u0648\u064e\u0627\u0650\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u064f\u0646\u0650\u064a\u0652\u0628\u064f  ",
+                "transliteration": {
+                    "en": "Wa makh-talaftum feehi min shai'in fahukmuhooo ilallaah; zaalikumul laahu Rabbee 'alaihi tawakkaltu wa ilaihi uneeb",
+                    "id": "wa makhtalaftum f\u012bhi min syai'in fa\u1e25ukmuh\u016b ilall\u0101h(i), \u017c\u0101likumull\u0101hu rabb\u012b \u2018alaihi tawakkaltu wa ilaihi un\u012bb(u)."
+                }
+            },
+            "translation": {
+                "en": "And in anything over which you disagree - its ruling is [to be referred] to Allah. [Say], \"That is Allah, my Lord; upon Him I have relied, and to Him I turn back.\"",
+                "id": "Dan apa pun yang kamu perselisihkan padanya tentang sesuatu, keputusannya (terserah) kepada Allah. (Yang memiliki sifat-sifat demikian) itulah Allah Tuhanku. Kepada-Nya aku bertawakal dan kepada-Nya aku kembali."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4282.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4282.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4283,
+                "inSurah": 11
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 484,
+                "manzil": 420,
+                "hizbQuarter": 193,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0641\u064e\u0627\u0637\u0650\u0631\u064f \u0627\u0644\u0633\u0651\u064e\u0645\u0670\u0648\u0670\u062a\u0650 \u0648\u064e\u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650\u06d7 \u062c\u064e\u0639\u064e\u0644\u064e \u0644\u064e\u0643\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u0652 \u0627\u064e\u0646\u0652\u0641\u064f\u0633\u0650\u0643\u064f\u0645\u0652 \u0627\u064e\u0632\u0652\u0648\u064e\u0627\u062c\u064b\u0627 \u0648\u0651\u064e\u0645\u0650\u0646\u064e \u0627\u0644\u0652\u0627\u064e\u0646\u0652\u0639\u064e\u0627\u0645\u0650 \u0627\u064e\u0632\u0652\u0648\u064e\u0627\u062c\u064b\u0627\u06da \u064a\u064e\u0630\u0652\u0631\u064e\u0624\u064f\u0643\u064f\u0645\u0652 \u0641\u0650\u064a\u0652\u0647\u0650\u06d7  \u0644\u064e\u064a\u0652\u0633\u064e \u0643\u064e\u0645\u0650\u062b\u0652\u0644\u0650\u0647\u0656 \u0634\u064e\u064a\u0652\u0621\u064c \u06da\u0648\u064e\u0647\u064f\u0648\u064e \u0627\u0644\u0633\u0651\u064e\u0645\u0650\u064a\u0652\u0639\u064f \u0627\u0644\u0652\u0628\u064e\u0635\u0650\u064a\u0652\u0631\u064f ",
+                "transliteration": {
+                    "en": "Faatirus samaawaati wal ard; ja'ala lakum min anfusikum azwaajanw wa minal an'aami azwaajany yazra'ukum feeh; laisa kamislihee shai'unw wa Huwas Samee'ul Baseer",
+                    "id": "f\u0101\u1e6dirus-sam\u0101w\u0101ti wal-ar\u1e0d(i), ja\u2018ala lakum min anfusikum azw\u0101jaw wa minal-an\u2018\u0101mi azw\u0101j\u0101(n), ya\u017cra'ukum f\u012bh(i), laisa kami\u1e61lih\u012b syai'(un), wa huwas-sam\u012b\u2018ul-ba\u1e63\u012br(u)."
+                }
+            },
+            "translation": {
+                "en": "[He is] Creator of the heavens and the earth. He has made for you from yourselves, mates, and among the cattle, mates; He multiplies you thereby. There is nothing like unto Him, and He is the Hearing, the Seeing.",
+                "id": "(Allah) Pencipta langit dan bumi. Dia menjadikan bagi kamu pasangan-pasangan dari jenis kamu sendiri, dan dari jenis hewan ternak pasangan-pasangan (juga). Dijadikan-Nya kamu berkembang biak dengan jalan itu. Tidak ada sesuatu pun yang serupa dengan Dia. Dan Dia Yang Maha Mendengar, Maha Melihat."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4283.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4283.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4284,
+                "inSurah": 12
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 484,
+                "manzil": 420,
+                "hizbQuarter": 193,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0644\u064e\u0647\u0657 \u0645\u064e\u0642\u064e\u0627\u0644\u0650\u064a\u0652\u062f\u064f \u0627\u0644\u0633\u0651\u064e\u0645\u0670\u0648\u0670\u062a\u0650 \u0648\u064e\u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650\u06da \u064a\u064e\u0628\u0652\u0633\u064f\u0637\u064f \u0627\u0644\u0631\u0651\u0650\u0632\u0652\u0642\u064e \u0644\u0650\u0645\u064e\u0646\u0652 \u064a\u0651\u064e\u0634\u064e\u0627\u06e4\u0621\u064f \u0648\u064e\u064a\u064e\u0642\u0652\u062f\u0650\u0631\u064f \u06d7\u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0628\u0650\u0643\u064f\u0644\u0651\u0650 \u0634\u064e\u064a\u0652\u0621\u064d \u0639\u064e\u0644\u0650\u064a\u0652\u0645\u064c  ",
+                "transliteration": {
+                    "en": "Lahoo maqaaleedus samaawaati wal ardi yabsutur rizqa limany yashaaa'u wa yaqdir; innahoo bikulli shai'unw wa Huwas Samee'ul Baseer",
+                    "id": "lah\u016b maq\u0101l\u012bdus-sam\u0101w\u0101ti wal-ar\u1e0d(i), yabsu\u1e6dur-rizqa limay yasy\u0101'u wa yaqdir(u), innah\u016b bikulli syai'in \u2018al\u012bm(un)."
+                }
+            },
+            "translation": {
+                "en": "To Him belong the keys of the heavens and the earth. He extends provision for whom He wills and restricts [it]. Indeed He is, of all things, Knowing.",
+                "id": "Milik-Nyalah perbendaharaan langit dan bumi; Dia melapangkan rezeki dan membatasinya bagi siapa yang Dia kehendaki. Sungguh, Dia Maha Mengetahui segala sesuatu."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4284.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4284.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4285,
+                "inSurah": 13
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 484,
+                "manzil": 420,
+                "hizbQuarter": 194,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u06de \u0634\u064e\u0631\u064e\u0639\u064e \u0644\u064e\u0643\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u064e \u0627\u0644\u062f\u0651\u0650\u064a\u0652\u0646\u0650 \u0645\u064e\u0627 \u0648\u064e\u0635\u0651\u0670\u0649 \u0628\u0650\u0647\u0656 \u0646\u064f\u0648\u0652\u062d\u064b\u0627 \u0648\u0651\u064e\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0653 \u0627\u064e\u0648\u0652\u062d\u064e\u064a\u0652\u0646\u064e\u0627\u0653 \u0627\u0650\u0644\u064e\u064a\u0652\u0643\u064e \u0648\u064e\u0645\u064e\u0627 \u0648\u064e\u0635\u0651\u064e\u064a\u0652\u0646\u064e\u0627 \u0628\u0650\u0647\u0656\u0653 \u0627\u0650\u0628\u0652\u0631\u0670\u0647\u0650\u064a\u0652\u0645\u064e \u0648\u064e\u0645\u064f\u0648\u0652\u0633\u0670\u0649 \u0648\u064e\u0639\u0650\u064a\u0652\u0633\u0670\u0653\u0649 \u0627\u064e\u0646\u0652 \u0627\u064e\u0642\u0650\u064a\u0652\u0645\u064f\u0648\u0627 \u0627\u0644\u062f\u0651\u0650\u064a\u0652\u0646\u064e \u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u062a\u064e\u0641\u064e\u0631\u0651\u064e\u0642\u064f\u0648\u0652\u0627 \u0641\u0650\u064a\u0652\u0647\u0650\u06d7  \u0643\u064e\u0628\u064f\u0631\u064e \u0639\u064e\u0644\u064e\u0649 \u0627\u0644\u0652\u0645\u064f\u0634\u0652\u0631\u0650\u0643\u0650\u064a\u0652\u0646\u064e \u0645\u064e\u0627 \u062a\u064e\u062f\u0652\u0639\u064f\u0648\u0652\u0647\u064f\u0645\u0652 \u0627\u0650\u0644\u064e\u064a\u0652\u0647\u0650\u06d7  \u0627\u064e\u0644\u0644\u0651\u0670\u0647\u064f \u064a\u064e\u062c\u0652\u062a\u064e\u0628\u0650\u064a\u0652\u0653 \u0627\u0650\u0644\u064e\u064a\u0652\u0647\u0650 \u0645\u064e\u0646\u0652 \u064a\u0651\u064e\u0634\u064e\u0627\u06e4\u0621\u064f \u0648\u064e\u064a\u064e\u0647\u0652\u062f\u0650\u064a\u0652\u0653 \u0627\u0650\u0644\u064e\u064a\u0652\u0647\u0650 \u0645\u064e\u0646\u0652 \u064a\u0651\u064f\u0646\u0650\u064a\u0652\u0628\u064f\u06d7",
+                "transliteration": {
+                    "en": "Shara'a lakum minad deeni maa wassaa bihee Noohanw wallazeee awhainaaa ilaika wa maa wassainaa biheee Ibraaheema wa Moosa wa 'Eesaaa an aqeemud adeena wa laa tatafarraqoo feeh; kabura 'alal mushrikeena maa tad'oohum ilaih; Allaahu yajtabee ilaihi many yashaaa'u wa yahdeee ilaihi mai yuneeb",
+                    "id": "syara\u2018a lakum minad-d\u012bni m\u0101 wa\u1e63\u1e63\u0101 bih\u012b n\u016b\u1e25aw wal-la\u017c\u012b au\u1e25ain\u0101 ilaika wa m\u0101 wa\u1e63\u1e63\u0101 bih\u012b ibr\u0101h\u012bma wa m\u016bs\u0101 wa \u2018\u012bs\u0101 an aq\u012bmud-d\u012bna wa l\u0101 tatafarraq\u016b f\u012bh(i), kabura \u2018alal-musyrik\u012bna m\u0101 tad\u2018\u016bhum ilaih(i), all\u0101hu yajtab\u012b ilaihi may yasy\u0101'u wa yahd\u012b ilaihi may yun\u012bb(u)."
+                }
+            },
+            "translation": {
+                "en": "He has ordained for you of religion what He enjoined upon Noah and that which We have revealed to you, [O Muhammad], and what We enjoined upon Abraham and Moses and Jesus - to establish the religion and not be divided therein. Difficult for those who associate others with Allah is that to which you invite them. Allah chooses for Himself whom He wills and guides to Himself whoever turns back [to Him].",
+                "id": "diwasiatkan-Nya kepada Nuh dan apa yang telah Kami wahyukan kepadamu (Muhammad) dan apa yang telah Kami wasiatkan kepada Ibrahim, Musa dan Isa yaitu tegakkanlah agama (keimanan dan ketakwaan) dan janganlah kamu berpecah belah di dalamnya. Sangat berat bagi orang-orang musyrik (untuk mengikuti) agama yang kamu serukan kepada mereka. Allah memilih orang yang Dia kehendaki kepada agama tauhid dan memberi petunjuk kepada (agama)-Nya bagi orang yang kembali (kepada-Nya)."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4285.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4285.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4286,
+                "inSurah": 14
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 484,
+                "manzil": 420,
+                "hizbQuarter": 194,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0645\u064e\u0627 \u062a\u064e\u0641\u064e\u0631\u0651\u064e\u0642\u064f\u0648\u0652\u0653\u0627 \u0627\u0650\u0644\u0651\u064e\u0627 \u0645\u0650\u0646\u0652\u06e2 \u0628\u064e\u0639\u0652\u062f\u0650 \u0645\u064e\u0627 \u062c\u064e\u0627\u06e4\u0621\u064e\u0647\u064f\u0645\u064f \u0627\u0644\u0652\u0639\u0650\u0644\u0652\u0645\u064f \u0628\u064e\u063a\u0652\u064a\u064b\u0627\u06e2 \u0628\u064e\u064a\u0652\u0646\u064e\u0647\u064f\u0645\u0652\u06d7 \u0648\u064e\u0644\u064e\u0648\u0652\u0644\u064e\u0627 \u0643\u064e\u0644\u0650\u0645\u064e\u0629\u064c \u0633\u064e\u0628\u064e\u0642\u064e\u062a\u0652 \u0645\u0650\u0646\u0652 \u0631\u0651\u064e\u0628\u0651\u0650\u0643\u064e \u0627\u0650\u0644\u0670\u0653\u0649 \u0627\u064e\u062c\u064e\u0644\u064d \u0645\u0651\u064f\u0633\u064e\u0645\u0651\u064b\u0649 \u0644\u0651\u064e\u0642\u064f\u0636\u0650\u064a\u064e \u0628\u064e\u064a\u0652\u0646\u064e\u0647\u064f\u0645\u0652\u06d7 \u0648\u064e\u0627\u0650\u0646\u0651\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0627\u064f\u0648\u0652\u0631\u0650\u062b\u064f\u0648\u0627 \u0627\u0644\u0652\u0643\u0650\u062a\u0670\u0628\u064e \u0645\u0650\u0646\u0652\u06e2 \u0628\u064e\u0639\u0652\u062f\u0650\u0647\u0650\u0645\u0652 \u0644\u064e\u0641\u0650\u064a\u0652 \u0634\u064e\u0643\u0651\u064d \u0645\u0651\u0650\u0646\u0652\u0647\u064f \u0645\u064f\u0631\u0650\u064a\u0652\u0628\u064d  ",
+                "transliteration": {
+                    "en": "Wa maa tafarraqooo illaa mim ba'di maa jaaa'ahumul 'ilmu baghyam bainahum; wa law laa Kalimatun sabaqat mir Rabbika ilaaa ajalim musammal laqudiya bainahum; wa innal lazeena oorisul Kitaaba mim ba'dihim lafee shakkim minhu mureeb",
+                    "id": "wa m\u0101 tafarraq\u016b ill\u0101 mim ba\u2018di m\u0101 j\u0101'ahumul-\u2018ilmu bagyam bainahum, wa lau l\u0101 kalimatun sabaqat mir rabbika il\u0101 ajalim musammal laqu\u1e0diya bainahum, wa innal-la\u017c\u012bna \u016bri\u1e61ul-kit\u0101ba mim ba\u2018dihim laf\u012b syakkim minhu mur\u012bb(in)."
+                }
+            },
+            "translation": {
+                "en": "And they did not become divided until after knowledge had come to them - out of jealous animosity between themselves. And if not for a word that preceded from your Lord [postponing the penalty] until a specified time, it would have been concluded between them. And indeed, those who were granted inheritance of the Scripture after them are, concerning it, in disquieting doubt.",
+                "id": "Dan mereka (Ahli Kitab) tidak berpecah belah kecuali setelah datang kepada mereka ilmu (kebenaran yang disampaikan oleh para nabi) karena kedengkian antara sesama mereka. Jika tidaklah karena suatu ketetapan yang telah ada dahulunya dari Tuhanmu (untuk menangguhkan azab) sampai batas waktu yang ditentukan, pastilah hukuman bagi mereka telah dilaksanakan. Dan sesungguhnya orang-orang yang mewarisi Kitab (Taurat dan Injil) setelah mereka (pada zaman Muhammad), benar-benar berada dalam keraguan yang mendalam tentang Kitab (Al-Qur'an) itu."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4286.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4286.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4287,
+                "inSurah": 15
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 484,
+                "manzil": 420,
+                "hizbQuarter": 194,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0641\u064e\u0644\u0650\u0630\u0670\u0644\u0650\u0643\u064e \u0641\u064e\u0627\u062f\u0652\u0639\u064f \u06da\u0648\u064e\u0627\u0633\u0652\u062a\u064e\u0642\u0650\u0645\u0652 \u0643\u064e\u0645\u064e\u0627\u0653 \u0627\u064f\u0645\u0650\u0631\u0652\u062a\u064e\u06da \u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u062a\u0651\u064e\u0628\u0650\u0639\u0652 \u0627\u064e\u0647\u0652\u0648\u064e\u0627\u06e4\u0621\u064e\u0647\u064f\u0645\u0652\u06da \u0648\u064e\u0642\u064f\u0644\u0652 \u0627\u0670\u0645\u064e\u0646\u0652\u062a\u064f \u0628\u0650\u0645\u064e\u0627\u0653 \u0627\u064e\u0646\u0652\u0632\u064e\u0644\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u0645\u0650\u0646\u0652 \u0643\u0650\u062a\u0670\u0628\u064d\u06da \u0648\u064e\u0627\u064f\u0645\u0650\u0631\u0652\u062a\u064f \u0644\u0650\u0627\u064e\u0639\u0652\u062f\u0650\u0644\u064e \u0628\u064e\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u06d7 \u0627\u064e\u0644\u0644\u0651\u0670\u0647\u064f \u0631\u064e\u0628\u0651\u064f\u0646\u064e\u0627 \u0648\u064e\u0631\u064e\u0628\u0651\u064f\u0643\u064f\u0645\u0652 \u06d7 \u0644\u064e\u0646\u064e\u0627\u0653 \u0627\u064e\u0639\u0652\u0645\u064e\u0627\u0644\u064f\u0646\u064e\u0627 \u0648\u064e\u0644\u064e\u0643\u064f\u0645\u0652 \u0627\u064e\u0639\u0652\u0645\u064e\u0627\u0644\u064f\u0643\u064f\u0645\u0652 \u06d7 \u0644\u064e\u0627\u062d\u064f\u062c\u0651\u064e\u0629\u064e \u0628\u064e\u064a\u0652\u0646\u064e\u0646\u064e\u0627 \u0648\u064e\u0628\u064e\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u06d7 \u0627\u064e\u0644\u0644\u0651\u0670\u0647\u064f \u064a\u064e\u062c\u0652\u0645\u064e\u0639\u064f \u0628\u064e\u064a\u0652\u0646\u064e\u0646\u064e\u0627 \u06da\u0648\u064e\u0627\u0650\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u0644\u0652\u0645\u064e\u0635\u0650\u064a\u0652\u0631\u064f \u06d7 ",
+                "transliteration": {
+                    "en": "Falizaalika fad'u wastaqim kamaaa umirta wa laa tattabi' ahwaaa'ahum wa qul aamantu bimaaa anzalal laahu min Kitaab, wa umirtu li a'dila bainakum Allaahu Rabbunaa wa Rabbukum lanaaa a'maa lunaa wa lakum a'maalukim laa hujjata bainanaa wa baina kumul laahu yajma'u bainanaa wa ilaihil maseer",
+                    "id": "fa li\u017c\u0101lika fad\u2018(u), wastaqim kam\u0101 umirt(a), wa l\u0101 tattabi\u2018 ahw\u0101'ahum, wa qul \u0101mantu bim\u0101 anzalall\u0101hu min kit\u0101b(in), wa umirtu li'a\u2018dila bainakum, all\u0101hu rabbun\u0101 wa rabbukum, lan\u0101 a\u2018m\u0101lun\u0101 wa lakum a\u2018m\u0101lukum, l\u0101 \u1e25ujjata bainan\u0101 wa bainakum, all\u0101hu yajma\u2018u bainan\u0101,wa ilaihil-ma\u1e63\u012br(u)."
+                }
+            },
+            "translation": {
+                "en": "So to that [religion of Allah] invite, [O Muhammad], and remain on a right course as you are commanded and do not follow their inclinations but say, \"I have believed in what Allah has revealed of the Qur'an, and I have been commanded to do justice among you. Allah is our Lord and your Lord. For us are our deeds, and for you your deeds. There is no [need for] argument between us and you. Allah will bring us together, and to Him is the [final] destination.\"",
+                "id": "Karena itu, serulah (mereka beriman) dan tetaplah (beriman dan berdakwah) sebagaimana diperintahkan kepadamu (Muhammad) dan janganlah mengikuti keinginan mereka dan katakanlah, \u201cAku beriman kepada Kitab yang diturunkan Allah dan aku diperintahkan agar berlaku adil di antara kamu. Allah Tuhan kami dan Tuhan kamu. Bagi kami perbuatan kami dan bagi kamu perbuatan kamu. Tidak (perlu) ada pertengkaran antara kami dan kamu, Allah mengumpulkan antara kita dan kepada-Nyalah  (kita) kembali.\u201d"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4287.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4287.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4288,
+                "inSurah": 16
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 485,
+                "manzil": 420,
+                "hizbQuarter": 194,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u064a\u064f\u062d\u064e\u0627\u06e4\u062c\u0651\u064f\u0648\u0652\u0646\u064e \u0641\u0650\u0649 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0645\u0650\u0646\u0652\u06e2 \u0628\u064e\u0639\u0652\u062f\u0650 \u0645\u064e\u0627 \u0627\u0633\u0652\u062a\u064f\u062c\u0650\u064a\u0652\u0628\u064e \u0644\u064e\u0647\u0657 \u062d\u064f\u062c\u0651\u064e\u062a\u064f\u0647\u064f\u0645\u0652 \u062f\u064e\u0627\u062d\u0650\u0636\u064e\u0629\u064c \u0639\u0650\u0646\u0652\u062f\u064e \u0631\u064e\u0628\u0651\u0650\u0647\u0650\u0645\u0652 \u0648\u064e\u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650\u0645\u0652 \u063a\u064e\u0636\u064e\u0628\u064c \u0648\u0651\u064e\u0644\u064e\u0647\u064f\u0645\u0652 \u0639\u064e\u0630\u064e\u0627\u0628\u064c \u0634\u064e\u062f\u0650\u064a\u0652\u062f\u064c ",
+                "transliteration": {
+                    "en": "Wallazeena yuhaaajjoona fil laahi mim ba'di mastujeeba lahoo hujjatuhum daahidatun 'inda Rabbihim wa 'alaihim ghadabunw wa lahum 'azaabun shadeed",
+                    "id": "wal-la\u017c\u012bna yu\u1e25\u0101jj\u016bna fill\u0101hi mim ba\u2018di mastuj\u012bba lah\u016b \u1e25ujjatuhum d\u0101\u1e25i\u1e0datun \u2018inda rabbihim wa \u2018alaihim ga\u1e0dabuw wa lahum \u2018a\u017c\u0101bun syad\u012bd(un)."
+                }
+            },
+            "translation": {
+                "en": "And those who argue concerning Allah after He has been responded to - their argument is invalid with their Lord, and upon them is [His] wrath, and for them is a severe punishment.",
+                "id": "Dan orang-orang yang berbantah-bantah tentang (agama) Allah setelah (agama itu) diterima, perbantahan mereka itu sia-sia di sisi Tuhan mereka. Mereka mendapat kemurkaan (Allah) dan mereka mendapat azab yang sangat keras."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4288.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4288.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4289,
+                "inSurah": 17
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 485,
+                "manzil": 420,
+                "hizbQuarter": 194,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u064e\u0644\u0644\u0651\u0670\u0647\u064f \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0653 \u0627\u064e\u0646\u0652\u0632\u064e\u0644\u064e \u0627\u0644\u0652\u0643\u0650\u062a\u0670\u0628\u064e \u0628\u0650\u0627\u0644\u0652\u062d\u064e\u0642\u0651\u0650 \u0648\u064e\u0627\u0644\u0652\u0645\u0650\u064a\u0652\u0632\u064e\u0627\u0646\u064e \u06d7\u0648\u064e\u0645\u064e\u0627 \u064a\u064f\u062f\u0652\u0631\u0650\u064a\u0652\u0643\u064e \u0644\u064e\u0639\u064e\u0644\u0651\u064e \u0627\u0644\u0633\u0651\u064e\u0627\u0639\u064e\u0629\u064e \u0642\u064e\u0631\u0650\u064a\u0652\u0628\u064c ",
+                "transliteration": {
+                    "en": "Allahul lazeee anzalal Kitaaba bilhaqqi wal Meezaan; wa ma yudreeka la'allas Saa'ata qareeb",
+                    "id": "all\u0101hul-la\u017c\u012b anzalal-kit\u0101ba bil-\u1e25aqqi wal-m\u012bz\u0101n(a), wa m\u0101 yudr\u012bka la\u2018allas-s\u0101\u2018ata qar\u012bb(un)."
+                }
+            },
+            "translation": {
+                "en": "It is Allah who has sent down the Book in truth and [also] the balance. And what will make you perceive? Perhaps the Hour is near.",
+                "id": "Allah yang menurunkan Kitab (Al-Qur'an) dengan (membawa) kebenaran dan neraca (keadilan). Dan tahukah kamu, boleh jadi hari Kiamat itu sudah dekat?"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4289.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4289.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4290,
+                "inSurah": 18
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 485,
+                "manzil": 420,
+                "hizbQuarter": 194,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u064a\u064e\u0633\u0652\u062a\u064e\u0639\u0652\u062c\u0650\u0644\u064f \u0628\u0650\u0647\u064e\u0627 \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0644\u064e\u0627 \u064a\u064f\u0624\u0652\u0645\u0650\u0646\u064f\u0648\u0652\u0646\u064e \u0628\u0650\u0647\u064e\u0627\u06da \u0648\u064e\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0627\u0670\u0645\u064e\u0646\u064f\u0648\u0652\u0627 \u0645\u064f\u0634\u0652\u0641\u0650\u0642\u064f\u0648\u0652\u0646\u064e \u0645\u0650\u0646\u0652\u0647\u064e\u0627\u06d9 \u0648\u064e\u064a\u064e\u0639\u0652\u0644\u064e\u0645\u064f\u0648\u0652\u0646\u064e \u0627\u064e\u0646\u0651\u064e\u0647\u064e\u0627 \u0627\u0644\u0652\u062d\u064e\u0642\u0651\u064f \u06d7 \u0627\u064e\u0644\u064e\u0627\u0653 \u0627\u0650\u0646\u0651\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u064a\u064f\u0645\u064e\u0627\u0631\u064f\u0648\u0652\u0646\u064e \u0641\u0650\u0649 \u0627\u0644\u0633\u0651\u064e\u0627\u0639\u064e\u0629\u0650 \u0644\u064e\u0641\u0650\u064a\u0652 \u0636\u064e\u0644\u0670\u0644\u064d\u06e2 \u0628\u064e\u0639\u0650\u064a\u0652\u062f\u064d ",
+                "transliteration": {
+                    "en": "Yasta'jilu bihal lazeena laa yu'minoona bihaa wallazeena aamanoo mushfiqoona minhaa wa ya'lamoona annahal haqq; alaaa innal lazeena yumaaroona fis Saa'ati lafee dalaalim ba'eed",
+                    "id": "yasta\u2018jilu bihal-la\u017c\u012bna l\u0101 yu'min\u016bna bih\u0101, wal-la\u017c\u012bna \u0101man\u016b musyfiq\u016bna minh\u0101, wa ya\u2018lam\u016bna annahal-\u1e25aqq(u), al\u0101 innal-la\u017c\u012bna yum\u0101r\u016bna fis-s\u0101\u2018ati laf\u012b \u1e0dal\u0101lim ba\u2018\u012bd(in)."
+                }
+            },
+            "translation": {
+                "en": "Those who do not believe in it are impatient for it, but those who believe are fearful of it and know that it is the truth. Unquestionably, those who dispute concerning the Hour are in extreme error.",
+                "id": "Orang-orang yang tidak percaya adanya hari Kiamat meminta agar hari itu segera terjadi, dan orang-orang yang beriman merasa takut kepadanya dan mereka yakin bahwa Kiamat itu adalah benar (akan terjadi). Ketahuilah bahwa sesungguhnya orang-orang yang membantah tentang terjadinya Kiamat itu benar-benar telah tersesat jauh."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4290.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4290.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4291,
+                "inSurah": 19
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 485,
+                "manzil": 420,
+                "hizbQuarter": 194,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u064e\u0644\u0644\u0651\u0670\u0647\u064f \u0644\u064e\u0637\u0650\u064a\u0652\u0641\u064c\u06e2 \u0628\u0650\u0639\u0650\u0628\u064e\u0627\u062f\u0650\u0647\u0656 \u064a\u064e\u0631\u0652\u0632\u064f\u0642\u064f \u0645\u064e\u0646\u0652 \u064a\u0651\u064e\u0634\u064e\u0627\u06e4\u0621\u064f \u06da\u0648\u064e\u0647\u064f\u0648\u064e \u0627\u0644\u0652\u0642\u064e\u0648\u0650\u064a\u0651\u064f \u0627\u0644\u0652\u0639\u064e\u0632\u0650\u064a\u0652\u0632\u064f \u08d6 ",
+                "transliteration": {
+                    "en": "Allahu lateefum bi'ibaadihee yarzuqu mai yashaaa'u wa Huwal Qawiyyul 'Azeez",
+                    "id": "all\u0101hu la\u1e6d\u012bfum bi\u2018ib\u0101dih\u012b yarzuqu may yasy\u0101'(u), wa huwal-qawiyyul-\u2018az\u012bz(u)."
+                }
+            },
+            "translation": {
+                "en": "Allah is Subtle with His servants; He gives provisions to whom He wills. And He is the Powerful, the Exalted in Might.",
+                "id": "Allah Mahalembut terhadap hamba-hamba-Nya; Dia memberi rezeki kepada siapa yang Dia kehendaki dan Dia Mahakuat, Mahaperkasa."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4291.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4291.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4292,
+                "inSurah": 20
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 485,
+                "manzil": 421,
+                "hizbQuarter": 194,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0645\u064e\u0646\u0652 \u0643\u064e\u0627\u0646\u064e \u064a\u064f\u0631\u0650\u064a\u0652\u062f\u064f \u062d\u064e\u0631\u0652\u062b\u064e \u0627\u0644\u0652\u0627\u0670\u062e\u0650\u0631\u064e\u0629\u0650 \u0646\u064e\u0632\u0650\u062f\u0652 \u0644\u064e\u0647\u0657 \u0641\u0650\u064a\u0652 \u062d\u064e\u0631\u0652\u062b\u0650\u0647\u0656\u06da \u0648\u064e\u0645\u064e\u0646\u0652 \u0643\u064e\u0627\u0646\u064e \u064a\u064f\u0631\u0650\u064a\u0652\u062f\u064f \u062d\u064e\u0631\u0652\u062b\u064e \u0627\u0644\u062f\u0651\u064f\u0646\u0652\u064a\u064e\u0627 \u0646\u064f\u0624\u0652\u062a\u0650\u0647\u0656 \u0645\u0650\u0646\u0652\u0647\u064e\u0627\u06d9 \u0648\u064e\u0645\u064e\u0627 \u0644\u064e\u0647\u0657 \u0641\u0650\u0649 \u0627\u0644\u0652\u0627\u0670\u062e\u0650\u0631\u064e\u0629\u0650 \u0645\u0650\u0646\u0652 \u0646\u0651\u064e\u0635\u0650\u064a\u0652\u0628\u064d  ",
+                "transliteration": {
+                    "en": "Man kaana yureedu harsal Aakhirati nazid lahoo fee harsihee wa man kaana yureedu harsad dunyaa nu'tihee mnhaa wa maa lahoo fil Aakhirati min naseeb",
+                    "id": "man k\u0101na yur\u012bdu \u1e25ar\u1e61al-\u0101khirati nazid lah\u016b f\u012b \u1e25ar\u1e61ih(\u012b), wa man k\u0101na yur\u012bdu \u1e25ar\u1e61ad-dun-y\u0101 nu'tih\u012b minh\u0101, wa m\u0101 lah\u016b fil-\u0101khirati min na\u1e63\u012bb(in)."
+                }
+            },
+            "translation": {
+                "en": "Whoever desires the harvest of the Hereafter - We increase for him in his harvest. And whoever desires the harvest of this world - We give him thereof, but there is not for him in the Hereafter any share.",
+                "id": "Barangsiapa menghendaki keuntungan di akhirat akan Kami tambahkan keuntungan itu baginya dan barangsiapa menghendaki keuntungan di dunia Kami berikan kepadanya sebagian darinya (keuntungan dunia), tetapi dia tidak akan mendapat bagian di akhirat."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4292.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4292.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4293,
+                "inSurah": 21
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 485,
+                "manzil": 421,
+                "hizbQuarter": 194,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u064e\u0645\u0652 \u0644\u064e\u0647\u064f\u0645\u0652 \u0634\u064f\u0631\u064e\u0643\u0670\u06e4\u0624\u064f\u0627 \u0634\u064e\u0631\u064e\u0639\u064f\u0648\u0652\u0627 \u0644\u064e\u0647\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u064e \u0627\u0644\u062f\u0651\u0650\u064a\u0652\u0646\u0650 \u0645\u064e\u0627 \u0644\u064e\u0645\u0652 \u064a\u064e\u0623\u0652\u0630\u064e\u0646\u0652\u06e2 \u0628\u0650\u0647\u0650 \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u06d7\u0648\u064e\u0644\u064e\u0648\u0652\u0644\u064e\u0627 \u0643\u064e\u0644\u0650\u0645\u064e\u0629\u064f \u0627\u0644\u0652\u0641\u064e\u0635\u0652\u0644\u0650 \u0644\u064e\u0642\u064f\u0636\u0650\u064a\u064e \u0628\u064e\u064a\u0652\u0646\u064e\u0647\u064f\u0645\u0652 \u06d7\u0648\u064e\u0627\u0650\u0646\u0651\u064e \u0627\u0644\u0638\u0651\u0670\u0644\u0650\u0645\u0650\u064a\u0652\u0646\u064e \u0644\u064e\u0647\u064f\u0645\u0652 \u0639\u064e\u0630\u064e\u0627\u0628\u064c \u0627\u064e\u0644\u0650\u064a\u0652\u0645\u064c  ",
+                "transliteration": {
+                    "en": "Am lahum shurakaaa'u shara'oo lahum minad deeni maa lam yaazam bihil laah; wa law laa kalimatul fasli laqudiya bainahum; wa innaz zaalimeena lahum 'azaabun aleem",
+                    "id": "am lahum syurak\u0101'u syara\u2018\u016b lahum minad-d\u012bni m\u0101 lam ya'\u017cam bihill\u0101h(u), wa lau l\u0101 kalimatul-fa\u1e63li laqu\u1e0diya bainahum, wa inna\u1e93-\u1e93\u0101lim\u012bna lahum \u2018a\u017c\u0101bun al\u012bm(un)."
+                }
+            },
+            "translation": {
+                "en": "Or have they other deities who have ordained for them a religion to which Allah has not consented? But if not for the decisive word, it would have been concluded between them. And indeed, the wrongdoers will have a painful punishment.",
+                "id": "Apakah mereka mempunyai sesembahan selain Allah yang menetapkan aturan agama bagi mereka yang tidak diizinkan (diridai) Allah? Dan sekiranya tidak ada ketetapan yang menunda (hukuman dari Allah) tentulah hukuman di antara mereka telah dilaksanakan. Dan sungguh, orang-orang zalim itu akan mendapat azab yang sangat pedih."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4293.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4293.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4294,
+                "inSurah": 22
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 485,
+                "manzil": 421,
+                "hizbQuarter": 194,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u062a\u064e\u0631\u064e\u0649 \u0627\u0644\u0638\u0651\u0670\u0644\u0650\u0645\u0650\u064a\u0652\u0646\u064e \u0645\u064f\u0634\u0652\u0641\u0650\u0642\u0650\u064a\u0652\u0646\u064e \u0645\u0650\u0645\u0651\u064e\u0627 \u0643\u064e\u0633\u064e\u0628\u064f\u0648\u0652\u0627 \u0648\u064e\u0647\u064f\u0648\u064e \u0648\u064e\u0627\u0642\u0650\u0639\u064c\u06e2 \u0628\u0650\u0647\u0650\u0645\u0652 \u06d7\u0648\u064e\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0627\u0670\u0645\u064e\u0646\u064f\u0648\u0652\u0627 \u0648\u064e\u0639\u064e\u0645\u0650\u0644\u064f\u0648\u0627 \u0627\u0644\u0635\u0651\u0670\u0644\u0650\u062d\u0670\u062a\u0650 \u0641\u0650\u064a\u0652 \u0631\u064e\u0648\u0652\u0636\u064e\u0627\u062a\u0650 \u0627\u0644\u0652\u062c\u064e\u0646\u0651\u064e\u0627\u062a\u0650\u06da  \u0644\u064e\u0647\u064f\u0645\u0652 \u0645\u0651\u064e\u0627 \u064a\u064e\u0634\u064e\u0627\u06e4\u0621\u064f\u0648\u0652\u0646\u064e \u0639\u0650\u0646\u0652\u062f\u064e \u0631\u064e\u0628\u0651\u0650\u0647\u0650\u0645\u0652 \u06d7\u0630\u0670\u0644\u0650\u0643\u064e \u0647\u064f\u0648\u064e \u0627\u0644\u0652\u0641\u064e\u0636\u0652\u0644\u064f \u0627\u0644\u0652\u0643\u064e\u0628\u0650\u064a\u0652\u0631\u064f ",
+                "transliteration": {
+                    "en": "Taraz zaalimeena mushfiqeena mimmaa kasaboo wa huwa waaqi'um bihim; wallazeena aamanoo wa 'amilus saalihaati fee rawdaatil jannaati lahum maa yashaaa'oona 'inda Rabbihim; zaalika huwal fadlul kabeer",
+                    "id": "tara\u1e93-\u1e93\u0101lim\u012bna musyfiq\u012bna mimm\u0101 kasab\u016b wa huwa w\u0101qi\u2018um bihim, wal-la\u017c\u012bna \u0101man\u016b wa \u2018amilu\u1e63-\u1e63\u0101li\u1e25\u0101ti f\u012b rau\u1e0d\u0101til-jann\u0101t(i), lahum m\u0101 yasy\u0101'\u016bna \u2018inda rabbihim, \u017c\u0101lika huwal-fa\u1e0dlul-kab\u012br(u)."
+                }
+            },
+            "translation": {
+                "en": "You will see the wrongdoers fearful of what they have earned, and it will [certainly] befall them. And those who have believed and done righteous deeds will be in lush regions of the gardens [in Paradise] having whatever they will in the presence of their Lord. That is what is the great bounty.",
+                "id": "Kamu akan melihat orang-orang zalim itu sangat ketakutan karena (kejahatan-kejahatan) yang telah mereka lakukan, dan (azab) menimpa mereka. Dan orang-orang yang beriman dan mengerjakan kebajikan (berada) di dalam taman-taman surga, mereka memperoleh apa yang mereka kehendaki di sisi Tuhan. Yang demikian itu adalah karunia yang besar."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4294.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4294.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4295,
+                "inSurah": 23
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 486,
+                "manzil": 421,
+                "hizbQuarter": 194,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0630\u0670\u0644\u0650\u0643\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652 \u064a\u064f\u0628\u064e\u0634\u0651\u0650\u0631\u064f \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u0639\u0650\u0628\u064e\u0627\u062f\u064e\u0647\u064f \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0627\u0670\u0645\u064e\u0646\u064f\u0648\u0652\u0627 \u0648\u064e\u0639\u064e\u0645\u0650\u0644\u064f\u0648\u0627 \u0627\u0644\u0635\u0651\u0670\u0644\u0650\u062d\u0670\u062a\u0650\u06d7 \u0642\u064f\u0644\u0652 \u0644\u0651\u064e\u0627\u0653 \u0627\u064e\u0633\u0652\u0640\u0654\u064e\u0644\u064f\u0643\u064f\u0645\u0652 \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u064e\u062c\u0652\u0631\u064b\u0627 \u0627\u0650\u0644\u0651\u064e\u0627 \u0627\u0644\u0652\u0645\u064e\u0648\u064e\u062f\u0651\u064e\u0629\u064e \u0641\u0650\u0649 \u0627\u0644\u0652\u0642\u064f\u0631\u0652\u0628\u0670\u0649\u06d7 \u0648\u064e\u0645\u064e\u0646\u0652 \u064a\u0651\u064e\u0642\u0652\u062a\u064e\u0631\u0650\u0641\u0652 \u062d\u064e\u0633\u064e\u0646\u064e\u0629\u064b \u0646\u0651\u064e\u0632\u0650\u062f\u0652 \u0644\u064e\u0647\u0657 \u0641\u0650\u064a\u0652\u0647\u064e\u0627 \u062d\u064f\u0633\u0652\u0646\u064b\u0627 \u06d7\u0627\u0650\u0646\u0651\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u064e \u063a\u064e\u0641\u064f\u0648\u0652\u0631\u064c \u0634\u064e\u0643\u064f\u0648\u0652\u0631\u064c  ",
+                "transliteration": {
+                    "en": "Zaalikal lazee yubash shirul laahu 'ibaadahul lazeena aamanoo wa 'amilus saalihaat; qul laaa as'alukum 'alaihi ajran illal mawaddata fil qurbaa; wa mai yaqtarif hasanatan nazid lahoo feehaa husnaa; innal laaha Ghafoorun Shakoor",
+                    "id": "\u017b\u0101likal-la\u017c\u012b yubasysyirull\u0101hu \u2018ib\u0101dahul-la\u017c\u012bna \u0101man\u016b wa \u2018amilu\u1e63-\u1e63\u0101li\u1e25\u0101t(i), qul l\u0101 as'alukum \u2018alaihi ajran illal-mawaddata fil-qurb\u0101, wa may yaqtarif \u1e25asanatan nazid lah\u016b f\u012bh\u0101 \u1e25usn\u0101(n), innall\u0101ha gaf\u016brun syak\u016br(un)."
+                }
+            },
+            "translation": {
+                "en": "It is that of which Allah gives good tidings to His servants who believe and do righteous deeds. Say, [O Muhammad], \"I do not ask you for this message any payment [but] only good will through kinship.\" And whoever commits a good deed - We will increase for him good therein. Indeed, Allah is Forgiving and Appreciative.",
+                "id": "Itulah (karunia) yang diberitahukan Allah untuk menggembirakan hamba-hamba-Nya yang beriman dan mengerjakan kebajikan. Katakanlah (Muhammad), \u201cAku tidak meminta kepadamu sesuatu imbalan pun atas seruanku kecuali kasih sayang dalam kekeluargaan.\u201d Dan barangsiapa mengerjakan kebaikan akan Kami tambahkan kebaikan baginya. Sungguh, Allah Maha Pengampun, Maha Mensyukuri."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4295.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4295.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4296,
+                "inSurah": 24
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 486,
+                "manzil": 421,
+                "hizbQuarter": 194,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u064e\u0645\u0652 \u064a\u064e\u0642\u064f\u0648\u0652\u0644\u064f\u0648\u0652\u0646\u064e \u0627\u0641\u0652\u062a\u064e\u0631\u0670\u0649 \u0639\u064e\u0644\u064e\u0649 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0643\u064e\u0630\u0650\u0628\u064b\u0627\u06da \u0641\u064e\u0627\u0650\u0646\u0652 \u064a\u0651\u064e\u0634\u064e\u0627\u0650 \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u064a\u064e\u062e\u0652\u062a\u0650\u0645\u0652 \u0639\u064e\u0644\u0670\u0649 \u0642\u064e\u0644\u0652\u0628\u0650\u0643\u064e \u06d7\u0648\u064e\u064a\u064e\u0645\u0652\u062d\u064f \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u0627\u0644\u0652\u0628\u064e\u0627\u0637\u0650\u0644\u064e \u0648\u064e\u064a\u064f\u062d\u0650\u0642\u0651\u064f \u0627\u0644\u0652\u062d\u064e\u0642\u0651\u064e \u0628\u0650\u0643\u064e\u0644\u0650\u0645\u0670\u062a\u0650\u0647\u0656 \u06d7\u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0639\u064e\u0644\u0650\u064a\u0652\u0645\u064c \u06e2\u0628\u0650\u0630\u064e\u0627\u062a\u0650 \u0627\u0644\u0635\u0651\u064f\u062f\u064f\u0648\u0652\u0631\u0650  ",
+                "transliteration": {
+                    "en": "Am yaqooloonaf tara 'alal laahi kaziban fa-iny yasha il laahu yakhtim 'alaa qalbik; wa yamhul laahul baatila wa yuhiqqul haqqa bi Kalimaatih; innahoo 'Aleemum bizaatis sudoor",
+                    "id": "am yaq\u016bl\u016bnaftar\u0101 \u2018alall\u0101hi ka\u017cib\u0101(n), fa'iy yasya'ill\u0101hu yakhtim \u2018al\u0101 qalbik(a), wa yam\u1e25ull\u0101hul-b\u0101\u1e6dila wa yu\u1e25iqqul-\u1e25aqqa bikalim\u0101tih(\u012b), innah\u016b \u2018al\u012bmum bi\u017c\u0101ti\u1e63-\u1e63ud\u016br(i)."
+                }
+            },
+            "translation": {
+                "en": "Or do they say, \"He has invented about Allah a lie\"? But if Allah willed, He could seal over your heart. And Allah eliminates falsehood and establishes the truth by His words. Indeed, He is Knowing of that within the breasts.",
+                "id": "Ataukah mereka mengatakan, \u201cDia (Muhammad) telah mengada-adakan kebohongan tentang Allah.\u201d Sekiranya Allah menghendaki niscaya Dia kunci hatimu. Dan Allah menghapus yang batil dan membenarkan yang benar dengan firman-Nya (Al-Qur'an). Sungguh, Dia Maha Mengetahui segala isi hati."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4296.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4296.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4297,
+                "inSurah": 25
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 486,
+                "manzil": 421,
+                "hizbQuarter": 194,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0647\u064f\u0648\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652 \u064a\u064e\u0642\u0652\u0628\u064e\u0644\u064f \u0627\u0644\u062a\u0651\u064e\u0648\u0652\u0628\u064e\u0629\u064e \u0639\u064e\u0646\u0652 \u0639\u0650\u0628\u064e\u0627\u062f\u0650\u0647\u0656 \u0648\u064e\u064a\u064e\u0639\u0652\u0641\u064f\u0648\u0652\u0627 \u0639\u064e\u0646\u0650 \u0627\u0644\u0633\u0651\u064e\u064a\u0651\u0650\u0627\u0670\u062a\u0650 \u0648\u064e\u064a\u064e\u0639\u0652\u0644\u064e\u0645\u064f \u0645\u064e\u0627 \u062a\u064e\u0641\u0652\u0639\u064e\u0644\u064f\u0648\u0652\u0646\u064e\u06d9  ",
+                "transliteration": {
+                    "en": "Wa Huwal lazee yaqbalut tawbata 'an 'ibaadihee wa ya'foo 'anis saiyiaati wa ya'lamu maa taf'aloon",
+                    "id": "wa huwal-la\u017c\u012b yaqbalut-taubata \u2018an \u2018ib\u0101dih\u012b wa ya\u2018f\u016b \u2018anis-sayyi'\u0101ti wa ya\u2018lamu m\u0101 taf\u2018al\u016bn(a)."
+                }
+            },
+            "translation": {
+                "en": "And it is He who accepts repentance from his servants and pardons misdeeds, and He knows what you do.",
+                "id": "Dan Dialah yang menerima tobat dari hamba-hamba-Nya dan memaafkan kesalahan-kesalahan dan mengetahui apa yang kamu kerjakan,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4297.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4297.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4298,
+                "inSurah": 26
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 486,
+                "manzil": 421,
+                "hizbQuarter": 194,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u064a\u064e\u0633\u0652\u062a\u064e\u062c\u0650\u064a\u0652\u0628\u064f \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0627\u0670\u0645\u064e\u0646\u064f\u0648\u0652\u0627 \u0648\u064e\u0639\u064e\u0645\u0650\u0644\u064f\u0648\u0627 \u0627\u0644\u0635\u0651\u0670\u0644\u0650\u062d\u0670\u062a\u0650 \u0648\u064e\u064a\u064e\u0632\u0650\u064a\u0652\u062f\u064f\u0647\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u0652 \u0641\u064e\u0636\u0652\u0644\u0650\u0647\u0656 \u06d7\u0648\u064e\u0627\u0644\u0652\u0643\u0670\u0641\u0650\u0631\u064f\u0648\u0652\u0646\u064e \u0644\u064e\u0647\u064f\u0645\u0652 \u0639\u064e\u0630\u064e\u0627\u0628\u064c \u0634\u064e\u062f\u0650\u064a\u0652\u062f\u064c ",
+                "transliteration": {
+                    "en": "Wa yastajeebul lazeena aamanoo wa 'amilu saalihaati wa yazeeduhum min fadlih; wal kaafiroona lahum 'azaabun shadeed",
+                    "id": "wa yastaj\u012bbul-la\u017c\u012bna \u0101man\u016b wa \u2018amilu\u1e63-\u1e63\u0101li\u1e25\u0101ti wa yaz\u012bduhum min fa\u1e0dlih(\u012b), wal-k\u0101fir\u016bna lahum \u2018a\u017c\u0101bun syad\u012bd(un)."
+                }
+            },
+            "translation": {
+                "en": "And He answers [the supplication of] those who have believed and done righteous deeds and increases [for] them from His bounty. But the disbelievers will have a severe punishment.",
+                "id": "dan Dia memperkenankan (doa) orang-orang yang beriman dan mengerjakan kebajikan serta menambah (pahala) kepada mereka dari karunia-Nya. Orang-orang yang ingkar akan mendapat azab yang sangat keras."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4298.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4298.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4299,
+                "inSurah": 27
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 486,
+                "manzil": 421,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u06de \u0648\u064e\u0644\u064e\u0648\u0652 \u0628\u064e\u0633\u064e\u0637\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u0627\u0644\u0631\u0651\u0650\u0632\u0652\u0642\u064e \u0644\u0650\u0639\u0650\u0628\u064e\u0627\u062f\u0650\u0647\u0656 \u0644\u064e\u0628\u064e\u063a\u064e\u0648\u0652\u0627 \u0641\u0650\u0649 \u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650 \u0648\u064e\u0644\u0670\u0643\u0650\u0646\u0652 \u064a\u0651\u064f\u0646\u064e\u0632\u0651\u0650\u0644\u064f \u0628\u0650\u0642\u064e\u062f\u064e\u0631\u064d \u0645\u0651\u064e\u0627 \u064a\u064e\u0634\u064e\u0627\u06e4\u0621\u064f \u06d7\u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0628\u0650\u0639\u0650\u0628\u064e\u0627\u062f\u0650\u0647\u0656 \u062e\u064e\u0628\u0650\u064a\u0652\u0631\u064c\u06e2 \u0628\u064e\u0635\u0650\u064a\u0652\u0631\u064c ",
+                "transliteration": {
+                    "en": "Wa law basatal laahur rizqa li'ibaadihee labaghaw fil ardi wa laakiny yunazzilu biqadarim maa yashaaa'; innahoo bi'ibaadihee Khabeerum Baseer",
+                    "id": "wa lau basa\u1e6dall\u0101hur rizqa li\u2018ib\u0101dih\u012b labagau fil-ar\u1e0di wa l\u0101kiy yunazzilu biqadarim m\u0101 yasy\u0101'(u), innah\u016b bi\u2018ib\u0101dih\u012b khab\u012brum ba\u1e63\u012br(un)."
+                }
+            },
+            "translation": {
+                "en": "And if Allah had extended [excessively] provision for His servants, they would have committed tyranny throughout the earth. But He sends [it] down in an amount which He wills. Indeed He is, of His servants, Acquainted and Seeing.",
+                "id": "Dan sekiranya Allah melapangkan rezeki kepada hamba-hamba-Nya niscaya mereka akan berbuat melampaui batas di bumi, tetapi Dia menurunkan dengan ukuran yang Dia kehendaki. Sungguh, Dia Mahateliti terhadap (keadaan) hamba-hamba-Nya, Maha Melihat."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4299.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4299.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4300,
+                "inSurah": 28
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 486,
+                "manzil": 421,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0647\u064f\u0648\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652 \u064a\u064f\u0646\u064e\u0632\u0651\u0650\u0644\u064f \u0627\u0644\u0652\u063a\u064e\u064a\u0652\u062b\u064e \u0645\u0650\u0646\u0652\u06e2 \u0628\u064e\u0639\u0652\u062f\u0650 \u0645\u064e\u0627 \u0642\u064e\u0646\u064e\u0637\u064f\u0648\u0652\u0627 \u0648\u064e\u064a\u064e\u0646\u0652\u0634\u064f\u0631\u064f \u0631\u064e\u062d\u0652\u0645\u064e\u062a\u064e\u0647\u0657 \u06d7\u0648\u064e\u0647\u064f\u0648\u064e \u0627\u0644\u0652\u0648\u064e\u0644\u0650\u064a\u0651\u064f \u0627\u0644\u0652\u062d\u064e\u0645\u0650\u064a\u0652\u062f\u064f ",
+                "transliteration": {
+                    "en": "Wa Huwal lazee yunazzilul ghaisa mim ba'di maa qanatoo wa yanshuru rahmatah; wa Huwal Waliyyul Hameed",
+                    "id": "wa huwal-la\u017c\u012b yunazzilul-gai\u1e61a mim ba\u2018di m\u0101 qana\u1e6d\u016b wa yansyuru ra\u1e25matah(\u016b), wa huwal-waliyyul-\u1e25am\u012bd(u)."
+                }
+            },
+            "translation": {
+                "en": "And it is He who sends down the rain after they had despaired and spreads His mercy. And He is the Protector, the Praiseworthy.",
+                "id": "Dan Dialah yang menurunkan hujan setelah mereka berputus asa dan menyebarkan rahmat-Nya. Dan Dialah Maha Pelindung, Maha Terpuji."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4300.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4300.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4301,
+                "inSurah": 29
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 486,
+                "manzil": 421,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0645\u0650\u0646\u0652 \u0627\u0670\u064a\u0670\u062a\u0650\u0647\u0656 \u062e\u064e\u0644\u0652\u0642\u064f \u0627\u0644\u0633\u0651\u064e\u0645\u0670\u0648\u0670\u062a\u0650 \u0648\u064e\u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650 \u0648\u064e\u0645\u064e\u0627 \u0628\u064e\u062b\u0651\u064e \u0641\u0650\u064a\u0652\u0647\u0650\u0645\u064e\u0627 \u0645\u0650\u0646\u0652 \u062f\u064e\u0627\u06e4\u0628\u0651\u064e\u0629\u064d \u06d7\u0648\u064e\u0647\u064f\u0648\u064e \u0639\u064e\u0644\u0670\u0649 \u062c\u064e\u0645\u0652\u0639\u0650\u0647\u0650\u0645\u0652 \u0627\u0650\u0630\u064e\u0627 \u064a\u064e\u0634\u064e\u0627\u06e4\u0621\u064f \u0642\u064e\u062f\u0650\u064a\u0652\u0631\u064c \u08d6",
+                "transliteration": {
+                    "en": "Wa min Aayaatihee khalqus samaawaati wal ardi wa maa bassa feehimaa min daaabbah; wa Huwa 'alaa jam'ihim izaa yashaaa'u Qadeer",
+                    "id": "wa min \u0101y\u0101tih\u012b khalqus-sam\u0101w\u0101ti wal-ar\u1e0di wa m\u0101 ba\u1e61\u1e61a f\u012bhim\u0101 min d\u0101bbah(tin), wa huwa \u2018al\u0101 jam\u2018ihim i\u017c\u0101 yasy\u0101'u qad\u012br(un)."
+                }
+            },
+            "translation": {
+                "en": "And of his signs is the creation of the heavens and earth and what He has dispersed throughout them of creatures. And He, for gathering them when He wills, is competent.",
+                "id": "Dan di antara tanda-tanda (kebesaran)-Nya adalah penciptaan langit dan bumi dan makhluk-makhluk yang melata yang Dia sebarkan pada keduanya. Dan Dia Mahakuasa mengumpulkan semuanya apabila Dia kehendaki."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4301.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4301.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4302,
+                "inSurah": 30
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 486,
+                "manzil": 422,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0645\u064e\u0627\u0653 \u0627\u064e\u0635\u064e\u0627\u0628\u064e\u0643\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u0652 \u0645\u0651\u064f\u0635\u0650\u064a\u0652\u0628\u064e\u0629\u064d \u0641\u064e\u0628\u0650\u0645\u064e\u0627 \u0643\u064e\u0633\u064e\u0628\u064e\u062a\u0652 \u0627\u064e\u064a\u0652\u062f\u0650\u064a\u0652\u0643\u064f\u0645\u0652 \u0648\u064e\u064a\u064e\u0639\u0652\u0641\u064f\u0648\u0652\u0627 \u0639\u064e\u0646\u0652 \u0643\u064e\u062b\u0650\u064a\u0652\u0631\u064d\u06d7 ",
+                "transliteration": {
+                    "en": "Wa maaa asaabakum mim museebatin fabimaa kasabat aydeekum wa ya'foo 'an kaseer",
+                    "id": "wa m\u0101 a\u1e63\u0101bakum mim mu\u1e63\u012bbatin fabim\u0101 kasabat aid\u012bkum wa ya\u2018f\u016b \u2018an ka\u1e61\u012br(in)."
+                }
+            },
+            "translation": {
+                "en": "And whatever strikes you of disaster - it is for what your hands have earned; but He pardons much.",
+                "id": "Dan musibah apa pun yang menimpa kamu adalah disebabkan oleh perbuatan tanganmu sendiri, dan Allah memaafkan banyak (dari kesalahan-kesalahanmu)."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4302.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4302.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4303,
+                "inSurah": 31
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 486,
+                "manzil": 422,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0645\u064e\u0627\u0653 \u0627\u064e\u0646\u0652\u062a\u064f\u0645\u0652 \u0628\u0650\u0645\u064f\u0639\u0652\u062c\u0650\u0632\u0650\u064a\u0652\u0646\u064e \u0641\u0650\u0649 \u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650\u06da \u0648\u064e\u0645\u064e\u0627 \u0644\u064e\u0643\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u0652 \u062f\u064f\u0648\u0652\u0646\u0650 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0645\u0650\u0646\u0652 \u0648\u0651\u064e\u0644\u0650\u064a\u0651\u064d \u0648\u0651\u064e\u0644\u064e\u0627 \u0646\u064e\u0635\u0650\u064a\u0652\u0631\u064d ",
+                "transliteration": {
+                    "en": "Wa maaa antum bimu'jizeena fil ardi wa maa lakum min doonil laahi minw wa liyyinw wa laa naseer",
+                    "id": "wa m\u0101 antum bimu\u2018jiz\u012bna fil-ar\u1e0d(i), wa m\u0101 lakum min d\u016bnill\u0101hi miw waliyyiw wa l\u0101 na\u1e63\u012br(in)."
+                }
+            },
+            "translation": {
+                "en": "And you will not cause failure [to Allah] upon the earth. And you have not besides Allah any protector or helper.",
+                "id": "Dan kamu tidak dapat melepaskan diri (dari siksaan Allah) di bumi, dan kamu tidak memperoleh pelindung atau penolong selain Allah."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4303.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4303.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4304,
+                "inSurah": 32
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 487,
+                "manzil": 422,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0645\u0650\u0646\u0652 \u0627\u0670\u064a\u0670\u062a\u0650\u0647\u0650 \u0627\u0644\u0652\u062c\u064e\u0648\u064e\u0627\u0631\u0650 \u0641\u0650\u0649 \u0627\u0644\u0652\u0628\u064e\u062d\u0652\u0631\u0650 \u0643\u064e\u0627\u0644\u0652\u0627\u064e\u0639\u0652\u0644\u064e\u0627\u0645\u0650 \u06d7 ",
+                "transliteration": {
+                    "en": "Wa min Aayaatihil ja waarifil bahri kal a'lam",
+                    "id": "wa min \u0101y\u0101tihil-jaw\u0101ri fil-ba\u1e25ri kal-a\u2018l\u0101m(i)."
+                }
+            },
+            "translation": {
+                "en": "And of His signs are the ships in the sea, like mountains.",
+                "id": "Dan di antara tanda-tanda (kebesaran)-Nya ialah kapal-kapal (yang berlayar) di laut seperti gunung-gunung."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4304.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4304.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4305,
+                "inSurah": 33
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 487,
+                "manzil": 422,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u0650\u0646\u0652 \u064a\u0651\u064e\u0634\u064e\u0623\u0652 \u064a\u064f\u0633\u0652\u0643\u0650\u0646\u0650 \u0627\u0644\u0631\u0651\u0650\u064a\u0652\u062d\u064e \u0641\u064e\u064a\u064e\u0638\u0652\u0644\u064e\u0644\u0652\u0646\u064e \u0631\u064e\u0648\u064e\u0627\u0643\u0650\u062f\u064e \u0639\u064e\u0644\u0670\u0649 \u0638\u064e\u0647\u0652\u0631\u0650\u0647\u0656\u06d7 \u0627\u0650\u0646\u0651\u064e \u0641\u0650\u064a\u0652 \u0630\u0670\u0644\u0650\u0643\u064e \u0644\u064e\u0627\u0670\u064a\u0670\u062a\u064d \u0644\u0651\u0650\u0643\u064f\u0644\u0651\u0650 \u0635\u064e\u0628\u0651\u064e\u0627\u0631\u064d \u0634\u064e\u0643\u064f\u0648\u0652\u0631\u064d\u06d9",
+                "transliteration": {
+                    "en": "Iny yashaaa yuskinir reeha fa yazlalna rawaakida 'alaa zahirh; inna fee zaalika la Aayaatil likulli sabbaarin shakoor",
+                    "id": "iy yasya' yuskinir-r\u012b\u1e25a fa ya\u1e93lalna raw\u0101kida \u2018al\u0101 \u1e93ahrih(\u012b), inna f\u012b \u017c\u0101lika la'\u0101y\u0101til likulli \u1e63abb\u0101rin syak\u016br(in)."
+                }
+            },
+            "translation": {
+                "en": "If He willed, He could still the wind, and they would remain motionless on its surface. Indeed in that are signs for everyone patient and grateful.",
+                "id": "Jika Dia menghendaki, Dia akan menghentikan angin, sehingga jadilah (kapal-kapal) itu terhenti di permukaan laut. Sungguh, pada yang demikian itu terdapat tanda-tanda (kekuasaan Allah) bagi orang yang selalu bersabar dan banyak bersyukur,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4305.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4305.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4306,
+                "inSurah": 34
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 487,
+                "manzil": 422,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u064e\u0648\u0652 \u064a\u064f\u0648\u0652\u0628\u0650\u0642\u0652\u0647\u064f\u0646\u0651\u064e \u0628\u0650\u0645\u064e\u0627 \u0643\u064e\u0633\u064e\u0628\u064f\u0648\u0652\u0627 \u0648\u064e\u064a\u064e\u0639\u0652\u0641\u064f \u0639\u064e\u0646\u0652 \u0643\u064e\u062b\u0650\u064a\u0652\u0631\u064d\u06d9 ",
+                "transliteration": {
+                    "en": "Aw yoobiqhunna bimaa kasaboo wa ya'fu 'an kaseer",
+                    "id": "au y\u016bbiqhunna bim\u0101 kasab\u016b wa ya\u2018fu \u2018an ka\u1e61\u012br(in)."
+                }
+            },
+            "translation": {
+                "en": "Or He could destroy them for what they earned; but He pardons much.",
+                "id": "atau (Dia akan) menghancurkan kapal-kapal itu karena perbuatan (dosa) mereka, dan Dia memaafkan banyak (dari mereka),"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4306.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4306.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4307,
+                "inSurah": 35
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 487,
+                "manzil": 422,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u0651\u064e\u064a\u064e\u0639\u0652\u0644\u064e\u0645\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u064a\u064f\u062c\u064e\u0627\u062f\u0650\u0644\u064f\u0648\u0652\u0646\u064e \u0641\u0650\u064a\u0652\u0653 \u0627\u0670\u064a\u0670\u062a\u0650\u0646\u064e\u0627\u06d7 \u0645\u064e\u0627 \u0644\u064e\u0647\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u0652 \u0645\u0651\u064e\u062d\u0650\u064a\u0652\u0635\u064d ",
+                "transliteration": {
+                    "en": "Wa ya'lamal lazeena yujaadiloona feee Aayaatinaa maa lahum mim mahees",
+                    "id": "wa ya\u2018lamal-la\u017c\u012bna yuj\u0101dil\u016bna f\u012b \u0101y\u0101tin\u0101, m\u0101 lahum mim ma\u1e25\u012b\u1e63(in)."
+                }
+            },
+            "translation": {
+                "en": "And [that is so] those who dispute concerning Our signs may know that for them there is no place of escape.",
+                "id": "dan agar orang-orang yang membantah tanda-tanda (kekuasaan) Kami mengetahui bahwa mereka tidak akan memperoleh jalan keluar (dari siksaan)."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4307.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4307.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4308,
+                "inSurah": 36
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 487,
+                "manzil": 422,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0641\u064e\u0645\u064e\u0627\u0653 \u0627\u064f\u0648\u0652\u062a\u0650\u064a\u0652\u062a\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u0652 \u0634\u064e\u064a\u0652\u0621\u064d \u0641\u064e\u0645\u064e\u062a\u064e\u0627\u0639\u064f \u0627\u0644\u0652\u062d\u064e\u064a\u0670\u0648\u0629\u0650 \u0627\u0644\u062f\u0651\u064f\u0646\u0652\u064a\u064e\u0627 \u06da\u0648\u064e\u0645\u064e\u0627 \u0639\u0650\u0646\u0652\u062f\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u062e\u064e\u064a\u0652\u0631\u064c \u0648\u0651\u064e\u0627\u064e\u0628\u0652\u0642\u0670\u0649 \u0644\u0650\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0627\u0670\u0645\u064e\u0646\u064f\u0648\u0652\u0627 \u0648\u064e\u0639\u064e\u0644\u0670\u0649 \u0631\u064e\u0628\u0651\u0650\u0647\u0650\u0645\u0652 \u064a\u064e\u062a\u064e\u0648\u064e\u0643\u0651\u064e\u0644\u064f\u0648\u0652\u0646\u064e\u06da ",
+                "transliteration": {
+                    "en": "Famaa ooteetum min shai'in famataa'ul hayaatid dunyaa wa maa 'indal laahi khairunw wa abqaa lillazeena aamanoo wa 'alaa Rabbihim yatawakkaloon",
+                    "id": "fam\u0101 \u016bt\u012btum min syai'in fa mat\u0101\u2018ul-\u1e25ay\u0101tid-dun-y\u0101, wa m\u0101 \u2018indall\u0101hi khairuw wa abq\u0101 lil-la\u017c\u012bna \u0101man\u016b wa \u2018al\u0101 rabbihim yatawakkal\u016bn(a)."
+                }
+            },
+            "translation": {
+                "en": "So whatever thing you have been given - it is but [for] enjoyment of the worldly life. But what is with Allah is better and more lasting for those who have believed and upon their Lord rely",
+                "id": "Apa pun (kenikmatan) yang diberikan kepadamu, maka itu adalah kesenangan hidup di dunia. Sedangkan apa (kenikmatan) yang ada di sisi Allah lebih baik dan lebih kekal bagi orang-orang yang beriman, dan hanya kepada Tuhan mereka bertawakal,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4308.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4308.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4309,
+                "inSurah": 37
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 487,
+                "manzil": 422,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u064a\u064e\u062c\u0652\u062a\u064e\u0646\u0650\u0628\u064f\u0648\u0652\u0646\u064e \u0643\u064e\u0628\u0670\u06e4\u0649\u0655\u0650\u0631\u064e \u0627\u0644\u0652\u0627\u0650\u062b\u0652\u0645\u0650 \u0648\u064e\u0627\u0644\u0652\u0641\u064e\u0648\u064e\u0627\u062d\u0650\u0634\u064e \u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0645\u064e\u0627 \u063a\u064e\u0636\u0650\u0628\u064f\u0648\u0652\u0627 \u0647\u064f\u0645\u0652 \u064a\u064e\u063a\u0652\u0641\u0650\u0631\u064f\u0648\u0652\u0646\u064e \u06da ",
+                "transliteration": {
+                    "en": "Wallazeena yajtaniboona kabaaa'iral ismi wal fawaa hisha wa izaa maa ghadiboo hum yaghfiroon",
+                    "id": "wal-la\u017c\u012bna yajtanib\u016bna kab\u0101'iral-i\u1e61mi wal-faw\u0101\u1e25isya wa i\u017c\u0101 m\u0101 ga\u1e0dib\u016b hum yagfir\u016bn(a)."
+                }
+            },
+            "translation": {
+                "en": "And those who avoid the major sins and immoralities, and when they are angry, they forgive,",
+                "id": "dan juga (bagi) orang-orang yang menjauhi dosa-dosa besar dan perbuatan-perbuatan keji, dan apabila mereka marah segera memberi maaf,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4309.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4309.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4310,
+                "inSurah": 38
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 487,
+                "manzil": 422,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0627\u0633\u0652\u062a\u064e\u062c\u064e\u0627\u0628\u064f\u0648\u0652\u0627 \u0644\u0650\u0631\u064e\u0628\u0651\u0650\u0647\u0650\u0645\u0652 \u0648\u064e\u0627\u064e\u0642\u064e\u0627\u0645\u064f\u0648\u0627 \u0627\u0644\u0635\u0651\u064e\u0644\u0670\u0648\u0629\u064e\u06d6 \u0648\u064e\u0627\u064e\u0645\u0652\u0631\u064f\u0647\u064f\u0645\u0652 \u0634\u064f\u0648\u0652\u0631\u0670\u0649 \u0628\u064e\u064a\u0652\u0646\u064e\u0647\u064f\u0645\u0652\u06d6 \u0648\u064e\u0645\u0650\u0645\u0651\u064e\u0627 \u0631\u064e\u0632\u064e\u0642\u0652\u0646\u0670\u0647\u064f\u0645\u0652 \u064a\u064f\u0646\u0652\u0641\u0650\u0642\u064f\u0648\u0652\u0646\u064e \u06da ",
+                "transliteration": {
+                    "en": "Wallazeenas tajaaboo li Rabbhim wa aqaamus Salaata wa amruhum shooraa bainahum wa mimmaa razaqnaahum yunfiqoon",
+                    "id": "wal-la\u017c\u012bnastaj\u0101b\u016b lirabbihim wa aq\u0101mu\u1e63-\u1e63al\u0101ta wa amruhum sy\u016br\u0101 bainahum, wa mimm\u0101 razaqn\u0101hum yunfiq\u016bn(a)."
+                }
+            },
+            "translation": {
+                "en": "And those who have responded to their lord and established prayer and whose affair is [determined by] consultation among themselves, and from what We have provided them, they spend.",
+                "id": "dan (bagi) orang-orang yang menerima (mematuhi) seruan Tuhan dan melaksanakan salat, sedang urusan mereka (diputuskan) dengan musyawarah antara mereka; dan mereka menginfakkan sebagian dari rezeki yang Kami berikan kepada mereka,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4310.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4310.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4311,
+                "inSurah": 39
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 487,
+                "manzil": 422,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0627\u0650\u0630\u064e\u0627\u0653 \u0627\u064e\u0635\u064e\u0627\u0628\u064e\u0647\u064f\u0645\u064f \u0627\u0644\u0652\u0628\u064e\u063a\u0652\u064a\u064f \u0647\u064f\u0645\u0652 \u064a\u064e\u0646\u0652\u062a\u064e\u0635\u0650\u0631\u064f\u0648\u0652\u0646\u064e ",
+                "transliteration": {
+                    "en": "Wallazeena izaa asaabahumul baghyu hum yantasiroon",
+                    "id": "wal-la\u017c\u012bna i\u017c\u0101 a\u1e63\u0101bahumul-bagyu hum yanta\u1e63ir\u016bn(a)."
+                }
+            },
+            "translation": {
+                "en": "And those who, when tyranny strikes them, they defend themselves,",
+                "id": "dan (bagi) orang-orang yang apabila mereka diperlakukan dengan zalim, mereka membela diri."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4311.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4311.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4312,
+                "inSurah": 40
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 487,
+                "manzil": 422,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u062c\u064e\u0632\u0670\u06e4\u0624\u064f\u0627 \u0633\u064e\u064a\u0651\u0650\u0626\u064e\u0629\u064d \u0633\u064e\u064a\u0651\u0650\u0626\u064e\u0629\u064c \u0645\u0651\u0650\u062b\u0652\u0644\u064f\u0647\u064e\u0627 \u06da\u0641\u064e\u0645\u064e\u0646\u0652 \u0639\u064e\u0641\u064e\u0627 \u0648\u064e\u0627\u064e\u0635\u0652\u0644\u064e\u062d\u064e \u0641\u064e\u0627\u064e\u062c\u0652\u0631\u064f\u0647\u0657 \u0639\u064e\u0644\u064e\u0649 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u06d7\u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0644\u064e\u0627 \u064a\u064f\u062d\u0650\u0628\u0651\u064f \u0627\u0644\u0638\u0651\u0670\u0644\u0650\u0645\u0650\u064a\u0652\u0646\u064e",
+                "transliteration": {
+                    "en": "Wa jazaaa'u saiyi'atin saiyi'tum misluha faman 'afaa wa aslaha fa ajruhoo 'alal laah; innahoo laa yuhibbuz zaalimeen",
+                    "id": "wa jaz\u0101'u sayyi'atin sayyi'atum mi\u1e61luh\u0101, faman \u2018af\u0101 wa a\u1e63la\u1e25a fa ajruh\u016b \u2018alall\u0101h(i), innah\u016b l\u0101 yu\u1e25ibbu\u1e93-\u1e93\u0101lim\u012bn(a)."
+                }
+            },
+            "translation": {
+                "en": "And the retribution for an evil act is an evil one like it, but whoever pardons and makes reconciliation - his reward is [due] from Allah. Indeed, He does not like wrongdoers.",
+                "id": "Dan balasan suatu kejahatan adalah kejahatan yang setimpal, tetapi barangsiapa memaafkan dan berbuat baik (kepada orang yang berbuat jahat) maka pahalanya dari Allah. Sungguh, Dia tidak menyukai orang-orang zalim."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4312.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4312.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4313,
+                "inSurah": 41
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 487,
+                "manzil": 422,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0644\u064e\u0645\u064e\u0646\u0650 \u0627\u0646\u0652\u062a\u064e\u0635\u064e\u0631\u064e \u0628\u064e\u0639\u0652\u062f\u064e \u0638\u064f\u0644\u0652\u0645\u0650\u0647\u0656 \u0641\u064e\u0627\u064f\u0648\u0644\u0670\u06e4\u0649\u0650\u0655\u0643\u064e \u0645\u064e\u0627 \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650\u0645\u0652 \u0645\u0651\u0650\u0646\u0652 \u0633\u064e\u0628\u0650\u064a\u0652\u0644\u064d\u06d7 ",
+                "transliteration": {
+                    "en": "Wa lamanin tasara ba'da zulmihee fa ulaaa'ika maa 'alaihim min sabeel",
+                    "id": "wa lamaninta\u1e63ara ba\u2018da \u1e93ulmih\u012b fa ul\u0101'ika m\u0101 \u2018alaihim min sab\u012bl(in)."
+                }
+            },
+            "translation": {
+                "en": "And whoever avenges himself after having been wronged - those have not upon them any cause [for blame].",
+                "id": "Tetapi orang-orang yang membela diri setelah dizalimi, tidak ada alasan untuk menyalahkan mereka."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4313.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4313.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4314,
+                "inSurah": 42
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 487,
+                "manzil": 422,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u0650\u0646\u0651\u064e\u0645\u064e\u0627 \u0627\u0644\u0633\u0651\u064e\u0628\u0650\u064a\u0652\u0644\u064f \u0639\u064e\u0644\u064e\u0649 \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u064a\u064e\u0638\u0652\u0644\u0650\u0645\u064f\u0648\u0652\u0646\u064e \u0627\u0644\u0646\u0651\u064e\u0627\u0633\u064e \u0648\u064e\u064a\u064e\u0628\u0652\u063a\u064f\u0648\u0652\u0646\u064e \u0641\u0650\u0649 \u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650 \u0628\u0650\u063a\u064e\u064a\u0652\u0631\u0650 \u0627\u0644\u0652\u062d\u064e\u0642\u0651\u0650\u06d7 \u0627\u064f\u0648\u0644\u0670\u06e4\u0649\u0655\u0650\u0643\u064e \u0644\u064e\u0647\u064f\u0645\u0652 \u0639\u064e\u0630\u064e\u0627\u0628\u064c \u0627\u064e\u0644\u0650\u064a\u0652\u0645\u064c  ",
+                "transliteration": {
+                    "en": "Innamas sabeelu 'alal lazeena yazlimoonan naasa wa yabghoona fil ardi bighairil haqq; ulaaa'ika lahum 'azaabun aleem",
+                    "id": "innamas-sab\u012blu \u2018alal-la\u017c\u012bna ya\u1e93lim\u016bnan-n\u0101sa wa yabg\u016bna fil-ar\u1e0di bigairil-\u1e25aqq(i), ul\u0101'ika lahum \u2018a\u017c\u0101bun al\u012bm(un)."
+                }
+            },
+            "translation": {
+                "en": "The cause is only against the ones who wrong the people and tyrannize upon the earth without right. Those will have a painful punishment.",
+                "id": "Sesungguhnya kesalahan hanya ada pada orang-orang yang berbuat zalim kepada manusia dan melampaui batas di bumi tanpa (mengindahkan) kebenaran. Mereka itu mendapat siksa yang pedih."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4314.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4314.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4315,
+                "inSurah": 43
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 487,
+                "manzil": 422,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0644\u064e\u0645\u064e\u0646\u0652 \u0635\u064e\u0628\u064e\u0631\u064e \u0648\u064e\u063a\u064e\u0641\u064e\u0631\u064e \u0627\u0650\u0646\u0651\u064e \u0630\u0670\u0644\u0650\u0643\u064e \u0644\u064e\u0645\u0650\u0646\u0652 \u0639\u064e\u0632\u0652\u0645\u0650 \u0627\u0644\u0652\u0627\u064f\u0645\u064f\u0648\u0652\u0631\u0650 \u08d6 ",
+                "transliteration": {
+                    "en": "Wa laman sabara wa ghafara inna zaalika lamin 'azmil umoor",
+                    "id": "wa laman \u1e63abara wa gafara inna \u017c\u0101lika lamin \u2018azmil-um\u016br(i)."
+                }
+            },
+            "translation": {
+                "en": "And whoever is patient and forgives - indeed, that is of the matters [requiring] determination.",
+                "id": "Tetapi barangsiapa bersabar dan memaafkan, sungguh yang demikian itu termasuk perbuatan yang mulia."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4315.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4315.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4316,
+                "inSurah": 44
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 487,
+                "manzil": 423,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0645\u064e\u0646\u0652 \u064a\u0651\u064f\u0636\u0652\u0644\u0650\u0644\u0650 \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u0641\u064e\u0645\u064e\u0627 \u0644\u064e\u0647\u0657 \u0645\u0650\u0646\u0652 \u0648\u0651\u064e\u0644\u0650\u064a\u0651\u064d \u0645\u0651\u0650\u0646\u0652\u06e2 \u0628\u064e\u0639\u0652\u062f\u0650\u0647\u0656 \u06d7\u0648\u064e\u062a\u064e\u0631\u064e\u0649 \u0627\u0644\u0638\u0651\u0670\u0644\u0650\u0645\u0650\u064a\u0652\u0646\u064e \u0644\u064e\u0645\u0651\u064e\u0627 \u0631\u064e\u0627\u064e\u0648\u064f\u0627 \u0627\u0644\u0652\u0639\u064e\u0630\u064e\u0627\u0628\u064e \u064a\u064e\u0642\u064f\u0648\u0652\u0644\u064f\u0648\u0652\u0646\u064e \u0647\u064e\u0644\u0652 \u0627\u0650\u0644\u0670\u0649 \u0645\u064e\u0631\u064e\u062f\u0651\u064d \u0645\u0651\u0650\u0646\u0652 \u0633\u064e\u0628\u0650\u064a\u0652\u0644\u064d\u06da ",
+                "transliteration": {
+                    "en": "Wa mai yudlilil laahu famaa lahoo minw waliyyim mim ba'dih; wa taraz zaalimeena lammaa ra awul 'azaaba yaqooloona hal ilaa maraddim min sabeel",
+                    "id": "wa may yu\u1e0dlilill\u0101hu fam\u0101 lah\u016b miw waliyyim mim ba\u2018dih(\u012b), wa tara\u1e93-\u1e93\u0101lim\u012bna lamm\u0101 ra'awul-\u2018a\u017c\u0101ba yaq\u016bl\u016bna hal il\u0101 maraddim min sab\u012bl(in)."
+                }
+            },
+            "translation": {
+                "en": "And he whom Allah sends astray - for him there is no protector beyond Him. And you will see the wrongdoers, when they see the punishment, saying, \"Is there for return [to the former world] any way?\"",
+                "id": "Dan barangsiapa dibiarkan sesat oleh Allah, maka tidak ada baginya pelindung setelah itu. Kamu akan melihat orang-orang zalim ketika mereka melihat azab berkata, \u201cAdakah kiranya jalan untuk kembali (ke dunia)?\u201d"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4316.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4316.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4317,
+                "inSurah": 45
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 488,
+                "manzil": 423,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u062a\u064e\u0631\u0670\u0649\u0647\u064f\u0645\u0652 \u064a\u064f\u0639\u0652\u0631\u064e\u0636\u064f\u0648\u0652\u0646\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u064e\u0627 \u062e\u0670\u0634\u0650\u0639\u0650\u064a\u0652\u0646\u064e \u0645\u0650\u0646\u064e \u0627\u0644\u0630\u0651\u064f\u0644\u0651\u0650 \u064a\u064e\u0646\u0652\u0638\u064f\u0631\u064f\u0648\u0652\u0646\u064e \u0645\u0650\u0646\u0652 \u0637\u064e\u0631\u0652\u0641\u064d \u062e\u064e\u0641\u0650\u064a\u06d7\u0651\u064d \u0648\u064e\u0642\u064e\u0627\u0644\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0627\u0670\u0645\u064e\u0646\u064f\u0648\u0652\u0653\u0627 \u0627\u0650\u0646\u0651\u064e \u0627\u0644\u0652\u062e\u0670\u0633\u0650\u0631\u0650\u064a\u0652\u0646\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u062e\u064e\u0633\u0650\u0631\u064f\u0648\u0652\u0653\u0627 \u0627\u064e\u0646\u0652\u0641\u064f\u0633\u064e\u0647\u064f\u0645\u0652 \u0648\u064e\u0627\u064e\u0647\u0652\u0644\u0650\u064a\u0652\u0647\u0650\u0645\u0652 \u064a\u064e\u0648\u0652\u0645\u064e \u0627\u0644\u0652\u0642\u0650\u064a\u0670\u0645\u064e\u0629\u0650 \u06d7 \u0627\u064e\u0644\u064e\u0627\u0653 \u0627\u0650\u0646\u0651\u064e \u0627\u0644\u0638\u0651\u0670\u0644\u0650\u0645\u0650\u064a\u0652\u0646\u064e \u0641\u0650\u064a\u0652 \u0639\u064e\u0630\u064e\u0627\u0628\u064d \u0645\u0651\u064f\u0642\u0650\u064a\u0652\u0645\u064d ",
+                "transliteration": {
+                    "en": "Wa taraahum yu'radoona 'alaihaa khaashi'eena minazzulli yanzuroona min tarfin khaifiyy; wa qaalal lazeena aamanooo innal khaasireenal lazeena khasiroon anfusahum wa ahleehim Yawmal Qiyaamah; alaaa innaz zaalimeena fee'azaabim muqeem",
+                    "id": "wa tar\u0101hum yu\u2018ra\u1e0d\u016bna \u2018alaih\u0101 kh\u0101syi\u2018\u012bna mina\u017c \u017culli yan\u1e93ur\u016bna min \u1e6darfin khafiyy(in), wa q\u0101lal-la\u017c\u012bna \u0101man\u016b innal-kh\u0101sir\u012bnal-la\u017c\u012bna khasir\u016b anfusahum wa ahl\u012bhim yaumal-qiy\u0101mah(ti), al\u0101 inna\u1e93-\u1e93\u0101lim\u012bna f\u012b \u2018a\u017c\u0101bim muq\u012bm(in)."
+                }
+            },
+            "translation": {
+                "en": "And you will see them being exposed to the Fire, humbled from humiliation, looking from [behind] a covert glance. And those who had believed will say, \"Indeed, the [true] losers are the ones who lost themselves and their families on the Day of Resurrection. Unquestionably, the wrongdoers are in an enduring punishment.\"",
+                "id": "Dan kamu akan melihat mereka dihadapkan ke neraka dalam keadaan tertunduk karena (merasa) hina, mereka melihat dengan pandangan yang lesu. Dan orang-orang yang beriman berkata, \u201cSesungguhnya orang-orang yang rugi ialah orang-orang yang merugikan diri mereka sendiri dan keluarganya pada hari Kiamat.\u201d Ingatlah, sesungguhnya orang-orang zalim itu berada dalam azab yang kekal."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4317.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4317.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4318,
+                "inSurah": 46
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 488,
+                "manzil": 423,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0645\u064e\u0627 \u0643\u064e\u0627\u0646\u064e \u0644\u064e\u0647\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u0652 \u0627\u064e\u0648\u0652\u0644\u0650\u064a\u064e\u0627\u06e4\u0621\u064e \u064a\u064e\u0646\u0652\u0635\u064f\u0631\u064f\u0648\u0652\u0646\u064e\u0647\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u0652 \u062f\u064f\u0648\u0652\u0646\u0650 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u06d7\u0648\u064e\u0645\u064e\u0646\u0652 \u064a\u0651\u064f\u0636\u0652\u0644\u0650\u0644\u0650 \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u0641\u064e\u0645\u064e\u0627 \u0644\u064e\u0647\u0657 \u0645\u0650\u0646\u0652 \u0633\u064e\u0628\u0650\u064a\u0652\u0644\u064d \u06d7 ",
+                "transliteration": {
+                    "en": "Wa maa kaana lahum min awliyaaa'a yansuroonahum min doonil laah; wa mai yudlilil laahu famaa lahoo min sabeel",
+                    "id": "wa m\u0101 k\u0101na lahum min auliy\u0101'a yan\u1e63ur\u016bnahum min d\u016bnill\u0101h(i), wa may yu\u1e0dlilill\u0101hu fam\u0101 lah\u016b min sab\u012bl(in)."
+                }
+            },
+            "translation": {
+                "en": "And there will not be for them any allies to aid them other than Allah. And whoever Allah sends astray - for him there is no way.",
+                "id": "Dan mereka tidak akan mempunyai pelindung yang dapat menolong mereka selain Allah. Barangsiapa dibiarkan sesat oleh Allah tidak akan ada jalan keluar baginya (untuk mendapat petunjuk)."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4318.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4318.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4319,
+                "inSurah": 47
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 488,
+                "manzil": 423,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u0650\u0633\u0652\u062a\u064e\u062c\u0650\u064a\u0652\u0628\u064f\u0648\u0652\u0627 \u0644\u0650\u0631\u064e\u0628\u0651\u0650\u0643\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u0652 \u0642\u064e\u0628\u0652\u0644\u0650 \u0627\u064e\u0646\u0652 \u064a\u0651\u064e\u0623\u0652\u062a\u0650\u064a\u064e \u064a\u064e\u0648\u0652\u0645\u064c \u0644\u0651\u064e\u0627 \u0645\u064e\u0631\u064e\u062f\u0651\u064e \u0644\u064e\u0647\u0657 \u0645\u0650\u0646\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u06d7\u0645\u064e\u0627 \u0644\u064e\u0643\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u0652 \u0645\u0651\u064e\u0644\u0652\u062c\u064e\u0627\u064d \u064a\u0651\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d \u0648\u0651\u064e\u0645\u064e\u0627 \u0644\u064e\u0643\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u0652 \u0646\u0651\u064e\u0643\u0650\u064a\u0652\u0631\u064d ",
+                "transliteration": {
+                    "en": "Istajeeboo li Rabbikum min qabli any yaatiya Yawmul laa maradda lahoo minal laah; maa lakum mim malja iny yawma'izinw wa maa lakum min nakeer",
+                    "id": "istaj\u012bb\u016b lirabbikum min qabli ay ya'tiya yaumul l\u0101 maradda lah\u016b minall\u0101h(i), m\u0101 lakum mim malja'iy yauma'i\u017ciw wa m\u0101 lakum min nak\u012br(in)."
+                }
+            },
+            "translation": {
+                "en": "Respond to your Lord before a Day comes from Allah of which there is no repelling. No refuge will you have that day, nor for you will there be any denial.",
+                "id": "Patuhilah seruan Tuhanmu sebelum datang dari Allah suatu hari yang tidak dapat ditolak (atas perintah dari Allah). Pada hari itu kamu tidak memperoleh tempat berlindung dan tidak (pula) dapat mengingkari (dosa-dosamu)."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4319.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4319.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4320,
+                "inSurah": 48
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 488,
+                "manzil": 423,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0641\u064e\u0627\u0650\u0646\u0652 \u0627\u064e\u0639\u0652\u0631\u064e\u0636\u064f\u0648\u0652\u0627 \u0641\u064e\u0645\u064e\u0627\u0653 \u0627\u064e\u0631\u0652\u0633\u064e\u0644\u0652\u0646\u0670\u0643\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650\u0645\u0652 \u062d\u064e\u0641\u0650\u064a\u0652\u0638\u064b\u0627 \u06d7\u0627\u0650\u0646\u0652 \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064e \u0627\u0650\u0644\u0651\u064e\u0627 \u0627\u0644\u0652\u0628\u064e\u0644\u0670\u063a\u064f \u06d7\u0648\u064e\u0627\u0650\u0646\u0651\u064e\u0627\u0653 \u0627\u0650\u0630\u064e\u0627\u0653 \u0627\u064e\u0630\u064e\u0642\u0652\u0646\u064e\u0627 \u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064e \u0645\u0650\u0646\u0651\u064e\u0627 \u0631\u064e\u062d\u0652\u0645\u064e\u0629\u064b \u0641\u064e\u0631\u0650\u062d\u064e \u0628\u0650\u0647\u064e\u0627 \u06da\u0648\u064e\u0627\u0650\u0646\u0652 \u062a\u064f\u0635\u0650\u0628\u0652\u0647\u064f\u0645\u0652 \u0633\u064e\u064a\u0651\u0650\u0626\u064e\u0629\u064c \u06e2\u0628\u0650\u0645\u064e\u0627 \u0642\u064e\u062f\u0651\u064e\u0645\u064e\u062a\u0652 \u0627\u064e\u064a\u0652\u062f\u0650\u064a\u0652\u0647\u0650\u0645\u0652 \u0641\u064e\u0627\u0650\u0646\u0651\u064e \u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064e \u0643\u064e\u0641\u064f\u0648\u0652\u0631\u064c ",
+                "transliteration": {
+                    "en": "Fa-in a'radoo famaaa arsalnaaka 'alaihim hafeezan in 'alaika illal balaagh; wa innaaa izaaa azaqnal insaana minnaa rahmatan fariha bihaa wa in tusibhum saiyi'atum bimaa qaddamat aydeehim fa innal insaana kafoor",
+                    "id": "fa in a\u2018ra\u1e0d\u016b fam\u0101 arsaln\u0101ka \u2018alaihim \u1e25af\u012b\u1e93\u0101(n), in \u2018alaika illal-bal\u0101g(u), wa inn\u0101 i\u017c\u0101 a\u017caqnal-ins\u0101na minn\u0101 ra\u1e25matan fari\u1e25a bih\u0101, wa in tu\u1e63ibhum sayyi'atum bim\u0101 qaddamat aid\u012bhim fa'innal-ins\u0101na kaf\u016br(un)."
+                }
+            },
+            "translation": {
+                "en": "But if they turn away - then We have not sent you, [O Muhammad], over them as a guardian; upon you is only [the duty of] notification. And indeed, when We let man taste mercy from us, he rejoices in it; but if evil afflicts him for what his hands have put forth, then indeed, man is ungrateful.",
+                "id": "Jika mereka berpaling, maka (ingatlah) Kami tidak mengutus engkau sebagai pengawas bagi mereka. Kewajibanmu tidak lain hanyalah menyampaikan (risalah). Dan sungguh, apabila Kami merasakan kepada manusia suatu rahmat dari Kami, dia menyambutnya dengan gembira; tetapi jika mereka ditimpa kesusahan disebabkan perbuatan tangan mereka sendiri (niscaya mereka ingkar), sungguh, manusia itu sangat ingkar (kepada nikmat)."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4320.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4320.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4321,
+                "inSurah": 49
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 488,
+                "manzil": 423,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0644\u0650\u0644\u0651\u0670\u0647\u0650 \u0645\u064f\u0644\u0652\u0643\u064f \u0627\u0644\u0633\u0651\u064e\u0645\u0670\u0648\u0670\u062a\u0650 \u0648\u064e\u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650\u06d7 \u064a\u064e\u062e\u0652\u0644\u064f\u0642\u064f \u0645\u064e\u0627 \u064a\u064e\u0634\u064e\u0627\u06e4\u0621\u064f \u06d7\u064a\u064e\u0647\u064e\u0628\u064f \u0644\u0650\u0645\u064e\u0646\u0652 \u064a\u0651\u064e\u0634\u064e\u0627\u06e4\u0621\u064f \u0627\u0650\u0646\u064e\u0627\u062b\u064b\u0627 \u0648\u0651\u064e\u064a\u064e\u0647\u064e\u0628\u064f \u0644\u0650\u0645\u064e\u0646\u0652 \u064a\u0651\u064e\u0634\u064e\u0627\u06e4\u0621\u064f \u0627\u0644\u0630\u0651\u064f\u0643\u064f\u0648\u0652\u0631\u064e \u06d9",
+                "transliteration": {
+                    "en": "Lillaahi mulkus samaawaati wal ard; yakhluqu maa yashaaa'; yahabu limai yashaaa'u inaasanw wa yahabu limai yashaaa'uz zukoor",
+                    "id": "lill\u0101hi mulkus-sam\u0101w\u0101ti wal-ar\u1e0d(i), yakhluqu m\u0101 yasy\u0101'(u), yahabu limay yasy\u0101'u in\u0101\u1e61aw wa yahabu limay yasy\u0101'u\u017c-\u017cuk\u016br(a)."
+                }
+            },
+            "translation": {
+                "en": "To Allah belongs the dominion of the heavens and the earth; He creates what he wills. He gives to whom He wills female [children], and He gives to whom He wills males.",
+                "id": "Milik Allah-lah kerajaan langit dan bumi; Dia menciptakan apa yang Dia kehendaki, memberikan anak perempuan kepada siapa yang Dia kehendaki dan memberikan anak laki-laki kepada siapa yang Dia kehendaki,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4321.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4321.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4322,
+                "inSurah": 50
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 488,
+                "manzil": 423,
+                "hizbQuarter": 195,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u064e\u0648\u0652 \u064a\u064f\u0632\u064e\u0648\u0651\u0650\u062c\u064f\u0647\u064f\u0645\u0652 \u0630\u064f\u0643\u0652\u0631\u064e\u0627\u0646\u064b\u0627 \u0648\u0651\u064e\u0627\u0650\u0646\u064e\u0627\u062b\u064b\u0627 \u06da\u0648\u064e\u064a\u064e\u062c\u0652\u0639\u064e\u0644\u064f \u0645\u064e\u0646\u0652 \u064a\u0651\u064e\u0634\u064e\u0627\u06e4\u0621\u064f \u0639\u064e\u0642\u0650\u064a\u0652\u0645\u064b\u0627 \u06d7\u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0639\u064e\u0644\u0650\u064a\u0652\u0645\u064c \u0642\u064e\u062f\u0650\u064a\u0652\u0631\u064c ",
+                "transliteration": {
+                    "en": "Aw yuzawwijuhum zukraananw wa inaasanw wa yaj'alu mai yashaaa'u 'aqeemaa; innahoo 'Aleemun Qadeer",
+                    "id": "au yuzawwijuhum \u017cukr\u0101naw wa in\u0101\u1e61\u0101(n), wa yaj\u2018alu may yasy\u0101'u \u2018aq\u012bm\u0101(n), innah\u016b \u2018al\u012bmun qad\u012br(un)."
+                }
+            },
+            "translation": {
+                "en": "Or He makes them [both] males and females, and He renders whom He wills barren. Indeed, He is Knowing and Competent.",
+                "id": "atau Dia menganugerahkan jenis laki-laki dan perempuan, dan menjadikan mandul siapa yang Dia kehendaki. Dia Maha Mengetahui, Mahakuasa."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4322.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4322.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4323,
+                "inSurah": 51
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 488,
+                "manzil": 423,
+                "hizbQuarter": 196,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u06de \u0648\u064e\u0645\u064e\u0627 \u0643\u064e\u0627\u0646\u064e \u0644\u0650\u0628\u064e\u0634\u064e\u0631\u064d \u0627\u064e\u0646\u0652 \u064a\u0651\u064f\u0643\u064e\u0644\u0651\u0650\u0645\u064e\u0647\u064f \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u0627\u0650\u0644\u0651\u064e\u0627 \u0648\u064e\u062d\u0652\u064a\u064b\u0627 \u0627\u064e\u0648\u0652 \u0645\u0650\u0646\u0652 \u0648\u0651\u064e\u0631\u064e\u0627\u06e4\u0626\u0650 \u062d\u0650\u062c\u064e\u0627\u0628\u064d \u0627\u064e\u0648\u0652 \u064a\u064f\u0631\u0652\u0633\u0650\u0644\u064e \u0631\u064e\u0633\u064f\u0648\u0652\u0644\u064b\u0627 \u0641\u064e\u064a\u064f\u0648\u0652\u062d\u0650\u064a\u064e \u0628\u0650\u0627\u0650\u0630\u0652\u0646\u0650\u0647\u0656 \u0645\u064e\u0627 \u064a\u064e\u0634\u064e\u0627\u06e4\u0621\u064f \u06d7\u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0639\u064e\u0644\u0650\u064a\u0651\u064c \u062d\u064e\u0643\u0650\u064a\u0652\u0645\u064c ",
+                "transliteration": {
+                    "en": "Wa maa kaana libasharin any yukallimahul laahu illaa wahyan aw minw waraaa'i hijaabin aw yursila Rasoolan fa yoohiya bi iznuhee maa yashaaa'; innahoo 'Aliyyun Hakeem",
+                    "id": "wa m\u0101 k\u0101na libasyarin ay yukallimahull\u0101hu ill\u0101 wa\u1e25yan au miw war\u0101'i \u1e25ij\u0101bin au yursila ras\u016blan fa y\u016b\u1e25iya bi'i\u017cnih\u012b m\u0101 yasy\u0101'(u), innah\u016b \u2018aliyyun \u1e25ak\u012bm(un)."
+                }
+            },
+            "translation": {
+                "en": "And it is not for any human being that Allah should speak to him except by revelation or from behind a partition or that He sends a messenger to reveal, by His permission, what He wills. Indeed, He is Most High and Wise.",
+                "id": "Dan tidaklah patut bagi seorang manusia bahwa Allah akan berbicara kepadanya kecuali dengan perantaraan wahyu atau dari belakang tabir atau dengan mengutus utusan (malaikat) lalu diwahyukan kepadanya dengan izin-Nya apa yang Dia kehendaki. Sungguh, Dia Mahatinggi, Mahabijaksana."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4323.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4323.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4324,
+                "inSurah": 52
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 489,
+                "manzil": 423,
+                "hizbQuarter": 196,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0643\u064e\u0630\u0670\u0644\u0650\u0643\u064e \u0627\u064e\u0648\u0652\u062d\u064e\u064a\u0652\u0646\u064e\u0627\u0653 \u0627\u0650\u0644\u064e\u064a\u0652\u0643\u064e \u0631\u064f\u0648\u0652\u062d\u064b\u0627 \u0645\u0651\u0650\u0646\u0652 \u0627\u064e\u0645\u0652\u0631\u0650\u0646\u064e\u0627 \u06d7\u0645\u064e\u0627 \u0643\u064f\u0646\u0652\u062a\u064e \u062a\u064e\u062f\u0652\u0631\u0650\u064a\u0652 \u0645\u064e\u0627 \u0627\u0644\u0652\u0643\u0650\u062a\u0670\u0628\u064f \u0648\u064e\u0644\u064e\u0627 \u0627\u0644\u0652\u0627\u0650\u064a\u0652\u0645\u064e\u0627\u0646\u064f \u0648\u064e\u0644\u0670\u0643\u0650\u0646\u0652 \u062c\u064e\u0639\u064e\u0644\u0652\u0646\u0670\u0647\u064f \u0646\u064f\u0648\u0652\u0631\u064b\u0627 \u0646\u0651\u064e\u0647\u0652\u062f\u0650\u064a\u0652 \u0628\u0650\u0647\u0656 \u0645\u064e\u0646\u0652 \u0646\u0651\u064e\u0634\u064e\u0627\u06e4\u0621\u064f \u0645\u0650\u0646\u0652 \u0639\u0650\u0628\u064e\u0627\u062f\u0650\u0646\u064e\u0627 \u06d7\u0648\u064e\u0627\u0650\u0646\u0651\u064e\u0643\u064e \u0644\u064e\u062a\u064e\u0647\u0652\u062f\u0650\u064a\u0652\u0653 \u0627\u0650\u0644\u0670\u0649 \u0635\u0650\u0631\u064e\u0627\u0637\u064d \u0645\u0651\u064f\u0633\u0652\u062a\u064e\u0642\u0650\u064a\u0652\u0645\u064d\u06d9 ",
+                "transliteration": {
+                    "en": "Wa kazaalika awhainaaa ilaika rooham min amrinaa; maa kunta tadree mal Kitaabu wa lal eemaanu wa laakin ja'alnaahu nooran nahdee bihee man nashaaa'u min 'ibaadinaa; wa innaka latahdeee ilaaa Siraatim Mustaqeem",
+                    "id": "wa ka\u017c\u0101lika au\u1e25ain\u0101 ilaika r\u016b\u1e25am min amrin\u0101, m\u0101 kunta tadr\u012b mal-kit\u0101bu wa lal-\u012bm\u0101nu wa l\u0101kin ja\u2018aln\u0101hu n\u016bran nahd\u012b bih\u012b man nasy\u0101'u min \u2018ib\u0101din\u0101, wa innaka latahd\u012b il\u0101 \u1e63ir\u0101\u1e6dim mustaq\u012bm(in)."
+                }
+            },
+            "translation": {
+                "en": "And thus We have revealed to you an inspiration of Our command. You did not know what is the Book or [what is] faith, but We have made it a light by which We guide whom We will of Our servants. And indeed, [O Muhammad], you guide to a straight path -",
+                "id": "Dan demikianlah Kami wahyukan kepadamu (Muhammad) ruh (Al-Qur'an) dengan perintah Kami. Sebelumnya engkau tidaklah mengetahui apakah Kitab  (Al-Qur'an) dan apakah iman itu, tetapi Kami jadikan Al-Qur'an itu cahaya, dengan itu Kami memberi petunjuk siapa yang Kami kehendaki di antara hamba-hamba Kami. Dan sungguh, engkau benar-benar membimbing (manusia) kepada jalan yang lurus,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4324.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4324.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 4325,
+                "inSurah": 53
+            },
+            "meta": {
+                "juz": 25,
+                "surah": 42,
+                "page": 489,
+                "manzil": 423,
+                "hizbQuarter": 196,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0635\u0650\u0631\u064e\u0627\u0637\u0650 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652 \u0644\u064e\u0647\u0657 \u0645\u064e\u0627 \u0641\u0650\u0649 \u0627\u0644\u0633\u0651\u064e\u0645\u0670\u0648\u0670\u062a\u0650 \u0648\u064e\u0645\u064e\u0627 \u0641\u0650\u0649 \u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650\u06d7  \u0627\u064e\u0644\u064e\u0627\u0653 \u0627\u0650\u0644\u064e\u0649 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u062a\u064e\u0635\u0650\u064a\u0652\u0631\u064f \u0627\u0644\u0652\u0627\u064f\u0645\u064f\u0648\u0652\u0631\u064f \u08d6 ",
+                "transliteration": {
+                    "en": "Siraatil laahil lazee lahoo maa fis samaawaati wa maa fil ard; alaaa ilal laahi taseerul umoor",
+                    "id": "\u1e62ir\u0101\u1e6dill\u0101hil-la\u017c\u012b lah\u016b m\u0101 fis-sam\u0101w\u0101ti wa m\u0101 fil-ar\u1e0d(i), al\u0101 ilall\u0101hi ta\u1e63\u012brul-um\u016br(u)."
+                }
+            },
+            "translation": {
+                "en": "The path of Allah, to whom belongs whatever is in the heavens and whatever is on the earth. Unquestionably, to Allah do [all] matters evolve.",
+                "id": "(Yaitu) jalan Allah yang milik-Nyalah apa yang ada di langit dan apa yang ada di bumi. Ingatlah, segala urusan kembali kepada Allah."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/4325.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/4325.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        }
+    ]
+}

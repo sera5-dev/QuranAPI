@@ -48,6 +48,5 @@ class UrlFetcher
 
             return $response;
         }
-
     }
 }
