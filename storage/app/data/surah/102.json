@@ -1,0 +1,366 @@
+{
+    "number": 102,
+    "sequence": 16,
+    "numberOfVerses": 8,
+    "name": {
+        "short": "\u0627\u0644\u062a\u0643\u0627\u062b\u0631",
+        "long": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062a\u0643\u0627\u062b\u0631",
+        "transliteration": {
+            "en": "At-Takathur",
+            "id": "At-Takasur"
+        },
+        "translation": {
+            "en": "The Rivalry in world increase",
+            "id": "Berbangga-Bangga Dalam Memperbanyak Dunia"
+        }
+    },
+    "revelation": {
+        "arab": "\u0645\u0643\u0629",
+        "en": "Meccan",
+        "id": "Makkiyyah"
+    },
+    "preBismillah": {
+        "text": {
+            "arab": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650",
+            "transliteration": {
+                "en": "Bismillaahir Rahmaanir Raheem"
+            }
+        },
+        "translation": {
+            "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+            "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+        },
+        "audio": {
+            "primary": "https:\/\/cdn.alquran.cloud\/media\/audio\/ayah\/ar.alafasy\/1",
+            "secondary": [
+                "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/1.mp3",
+                "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/1.mp3"
+            ]
+        }
+    },
+    "tafsir": {
+        "id": "Surat At Takaatsur terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Kautsar. Dinamai At Takaatsur (bermegah-megahan) diambil dari perkataan At Takaatsur yang terdapat pada ayat pertama surat ini."
+    },
+    "verses": [
+        {
+            "number": {
+                "inQuran": 6169,
+                "inSurah": 1
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 102,
+                "page": 600,
+                "manzil": 544,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u064e\u0644\u0652\u0647\u0670\u0649\u0643\u064f\u0645\u064f \u0627\u0644\u062a\u0651\u064e\u0643\u064e\u0627\u062b\u064f\u0631\u064f\u06d9",
+                "transliteration": {
+                    "en": "Al haaku mut takathur",
+                    "id": "alh\u0101kumut-tak\u0101\u1e61ur(u)."
+                }
+            },
+            "translation": {
+                "en": "Competition in [worldly] increase diverts you",
+                "id": "Bermegah-megahan telah melalaikan kamu,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6169.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6169.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6170,
+                "inSurah": 2
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 102,
+                "page": 600,
+                "manzil": 544,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u062d\u064e\u062a\u0651\u0670\u0649 \u0632\u064f\u0631\u0652\u062a\u064f\u0645\u064f \u0627\u0644\u0652\u0645\u064e\u0642\u064e\u0627\u0628\u0650\u0631\u064e\u06d7",
+                "transliteration": {
+                    "en": "Hatta zurtumul-maqaabir",
+                    "id": "\u1e24att\u0101 zurtumul-maq\u0101bir(a)."
+                }
+            },
+            "translation": {
+                "en": "Until you visit the graveyards.",
+                "id": "sampai kamu masuk ke dalam kubur."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6170.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6170.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6171,
+                "inSurah": 3
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 102,
+                "page": 600,
+                "manzil": 544,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0643\u064e\u0644\u0651\u064e\u0627 \u0633\u064e\u0648\u0652\u0641\u064e \u062a\u064e\u0639\u0652\u0644\u064e\u0645\u064f\u0648\u0652\u0646\u064e\u06d9",
+                "transliteration": {
+                    "en": "Kalla sawfa ta'lamoon",
+                    "id": "kall\u0101 saufa ta\u2018lam\u016bn(a)."
+                }
+            },
+            "translation": {
+                "en": "No! You are going to know.",
+                "id": "Sekali-kali tidak! Kelak kamu akan mengetahui (akibat perbuatanmu itu),"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6171.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6171.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6172,
+                "inSurah": 4
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 102,
+                "page": 600,
+                "manzil": 544,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u062b\u064f\u0645\u0651\u064e \u0643\u064e\u0644\u0651\u064e\u0627 \u0633\u064e\u0648\u0652\u0641\u064e \u062a\u064e\u0639\u0652\u0644\u064e\u0645\u064f\u0648\u0652\u0646\u064e ",
+                "transliteration": {
+                    "en": "Thumma kalla sawfa ta'lamoon",
+                    "id": "\u1e60umma kall\u0101 saufa ta\u2018lam\u016bn(a)."
+                }
+            },
+            "translation": {
+                "en": "Then no! You are going to know.",
+                "id": "kemudian sekali-kali tidak! Kelak kamu akan mengetahui."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6172.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6172.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6173,
+                "inSurah": 5
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 102,
+                "page": 600,
+                "manzil": 544,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0643\u064e\u0644\u0651\u064e\u0627 \u0644\u064e\u0648\u0652 \u062a\u064e\u0639\u0652\u0644\u064e\u0645\u064f\u0648\u0652\u0646\u064e \u0639\u0650\u0644\u0652\u0645\u064e \u0627\u0644\u0652\u064a\u064e\u0642\u0650\u064a\u0652\u0646\u0650\u06d7",
+                "transliteration": {
+                    "en": "Kalla law ta'lamoona 'ilmal yaqeen",
+                    "id": "kall\u0101 lau ta\u2018lam\u016bna \u2018ilmal-yaq\u012bn(i)."
+                }
+            },
+            "translation": {
+                "en": "No! If you only knew with knowledge of certainty...",
+                "id": "Sekali-kali tidak! Sekiranya kamu mengetahui dengan pasti,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6173.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6173.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6174,
+                "inSurah": 6
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 102,
+                "page": 600,
+                "manzil": 544,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0644\u064e\u062a\u064e\u0631\u064e\u0648\u064f\u0646\u0651\u064e \u0627\u0644\u0652\u062c\u064e\u062d\u0650\u064a\u0652\u0645\u064e\u06d9",
+                "transliteration": {
+                    "en": "Latara-wun nal jaheem",
+                    "id": "latarawunnal-ja\u1e25\u012bm(a)."
+                }
+            },
+            "translation": {
+                "en": "You will surely see the Hellfire.",
+                "id": "niscaya kamu benar-benar akan melihat neraka Jahim,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6174.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6174.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6175,
+                "inSurah": 7
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 102,
+                "page": 600,
+                "manzil": 544,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u062b\u064f\u0645\u0651\u064e \u0644\u064e\u062a\u064e\u0631\u064e\u0648\u064f\u0646\u0651\u064e\u0647\u064e\u0627 \u0639\u064e\u064a\u0652\u0646\u064e \u0627\u0644\u0652\u064a\u064e\u0642\u0650\u064a\u0652\u0646\u0650\u06d9",
+                "transliteration": {
+                    "en": "Thumma latara wunnaha 'ainal yaqeen",
+                    "id": "\u1e60umma latarawunnah\u0101 \u2018ainal-yaq\u012bn(i)."
+                }
+            },
+            "translation": {
+                "en": "Then you will surely see it with the eye of certainty.",
+                "id": "kemudian kamu benar-benar akan melihatnya dengan mata kepala sendiri,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6175.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6175.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6176,
+                "inSurah": 8
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 102,
+                "page": 600,
+                "manzil": 544,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u062b\u064f\u0645\u0651\u064e \u0644\u064e\u062a\u064f\u0633\u0652\u0640\u0654\u064e\u0644\u064f\u0646\u0651\u064e \u064a\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d \u0639\u064e\u0646\u0650 \u0627\u0644\u0646\u0651\u064e\u0639\u0650\u064a\u0652\u0645\u0650 \u08d6",
+                "transliteration": {
+                    "en": "Thumma latus alunna yauma-izin 'anin na'eem",
+                    "id": "\u1e60umma latus'alunna yauma'i\u017cin \u2018anin-na\u2018\u012bm(i)."
+                }
+            },
+            "translation": {
+                "en": "Then you will surely be asked that Day about pleasure.",
+                "id": "kemudian kamu benar-benar akan ditanya pada hari itu tentang kenikmatan (yang megah di dunia itu)."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6176.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6176.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        }
+    ]
+}

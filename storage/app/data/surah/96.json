@@ -1,0 +1,806 @@
+{
+    "number": 96,
+    "sequence": 1,
+    "numberOfVerses": 19,
+    "name": {
+        "short": "\u0627\u0644\u0639\u0644\u0642",
+        "long": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0639\u0644\u0642",
+        "transliteration": {
+            "en": "Al-'Alaq",
+            "id": "Al-\u2018Alaq"
+        },
+        "translation": {
+            "en": "The Clot",
+            "id": "Segumpal Darah"
+        }
+    },
+    "revelation": {
+        "arab": "\u0645\u0643\u0629",
+        "en": "Meccan",
+        "id": "Makkiyyah"
+    },
+    "preBismillah": {
+        "text": {
+            "arab": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650",
+            "transliteration": {
+                "en": "Bismillaahir Rahmaanir Raheem"
+            }
+        },
+        "translation": {
+            "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+            "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+        },
+        "audio": {
+            "primary": "https:\/\/cdn.alquran.cloud\/media\/audio\/ayah\/ar.alafasy\/1",
+            "secondary": [
+                "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/1.mp3",
+                "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/1.mp3"
+            ]
+        }
+    },
+    "tafsir": {
+        "id": "Surat Al 'Alaq terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyah. Ayat 1 sampai dengan 5 dari surat ini adalah ayat-ayat Al Quran yang pertama sekali diturunkan, yaitu di waktu Nabi Muhammad s.a.w. berkhalwat di gua Hira'. Surat ini dinamai Al 'Alaq (segumpal darah), diambil dari perkataan Alaq yang terdapat pada ayat 2 surat ini. Surat ini dinamai juga dengan Iqra atau Al Qalam."
+    },
+    "verses": [
+        {
+            "number": {
+                "inQuran": 6107,
+                "inSurah": 1
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 96,
+                "page": 597,
+                "manzil": 538,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u0650\u0642\u0652\u0631\u064e\u0623\u0652 \u0628\u0650\u0627\u0633\u0652\u0645\u0650 \u0631\u064e\u0628\u0651\u0650\u0643\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652 \u062e\u064e\u0644\u064e\u0642\u064e\u06da",
+                "transliteration": {
+                    "en": "Iqra bismi rab bikal lazee khalaq",
+                    "id": "iqra' bismi rabbikal-la\u017c\u012b khalaq(a)."
+                }
+            },
+            "translation": {
+                "en": "Recite in the name of your Lord who created -",
+                "id": "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6107.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6107.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6108,
+                "inSurah": 2
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 96,
+                "page": 597,
+                "manzil": 538,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u062e\u064e\u0644\u064e\u0642\u064e \u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064e \u0645\u0650\u0646\u0652 \u0639\u064e\u0644\u064e\u0642\u064d\u06da",
+                "transliteration": {
+                    "en": "Khalaqal insaana min 'alaq",
+                    "id": "khalaqal-ins\u0101na min \u2018alaq(in)."
+                }
+            },
+            "translation": {
+                "en": "Created man from a clinging substance.",
+                "id": "Dia telah menciptakan manusia dari segumpal darah."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6108.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6108.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6109,
+                "inSurah": 3
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 96,
+                "page": 597,
+                "manzil": 538,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u0650\u0642\u0652\u0631\u064e\u0623\u0652 \u0648\u064e\u0631\u064e\u0628\u0651\u064f\u0643\u064e \u0627\u0644\u0652\u0627\u064e\u0643\u0652\u0631\u064e\u0645\u064f\u06d9",
+                "transliteration": {
+                    "en": "Iqra wa rab bukal akram",
+                    "id": "iqra' wa rabbukal-akram(u)."
+                }
+            },
+            "translation": {
+                "en": "Recite, and your Lord is the most Generous -",
+                "id": "Bacalah, dan Tuhanmulah Yang Mahamulia,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6109.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6109.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6110,
+                "inSurah": 4
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 96,
+                "page": 597,
+                "manzil": 538,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652 \u0639\u064e\u0644\u0651\u064e\u0645\u064e \u0628\u0650\u0627\u0644\u0652\u0642\u064e\u0644\u064e\u0645\u0650\u06d9",
+                "transliteration": {
+                    "en": "Al lazee 'allama bil qalam",
+                    "id": "alla\u017c\u012b \u2018allama bil-qalam(i)."
+                }
+            },
+            "translation": {
+                "en": "Who taught by the pen -",
+                "id": "Yang mengajar (manusia) dengan pena."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6110.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6110.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6111,
+                "inSurah": 5
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 96,
+                "page": 597,
+                "manzil": 538,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0639\u064e\u0644\u0651\u064e\u0645\u064e \u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064e \u0645\u064e\u0627 \u0644\u064e\u0645\u0652 \u064a\u064e\u0639\u0652\u0644\u064e\u0645\u0652\u06d7",
+                "transliteration": {
+                    "en": "'Al lamal insaana ma lam y'alam",
+                    "id": "\u2018allamal-ins\u0101na m\u0101 lam ya\u2018lam."
+                }
+            },
+            "translation": {
+                "en": "Taught man that which he knew not.",
+                "id": "Dia mengajarkan manusia apa yang tidak diketahuinya."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6111.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6111.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6112,
+                "inSurah": 6
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 96,
+                "page": 597,
+                "manzil": 538,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0643\u064e\u0644\u0651\u064e\u0627\u0653 \u0627\u0650\u0646\u0651\u064e \u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064e \u0644\u064e\u064a\u064e\u0637\u0652\u063a\u0670\u0649\u0653 \u06d9",
+                "transliteration": {
+                    "en": "Kallaa innal insaana layatghaa",
+                    "id": "kall\u0101 innal-ins\u0101na laya\u1e6dg\u0101."
+                }
+            },
+            "translation": {
+                "en": "No! [But] indeed, man transgresses",
+                "id": "Sekali-kali tidak! Sungguh, manusia itu benar-benar melampaui batas,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6112.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6112.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6113,
+                "inSurah": 7
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 96,
+                "page": 597,
+                "manzil": 538,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u064e\u0646\u0652 \u0631\u0651\u064e\u0627\u0670\u0647\u064f \u0627\u0633\u0652\u062a\u064e\u063a\u0652\u0646\u0670\u0649\u06d7",
+                "transliteration": {
+                    "en": "Ar-ra aahus taghnaa",
+                    "id": "ar ra'\u0101hustagn\u0101."
+                }
+            },
+            "translation": {
+                "en": "Because he sees himself self-sufficient.",
+                "id": "apabila melihat dirinya serba cukup."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6113.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6113.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6114,
+                "inSurah": 8
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 96,
+                "page": 597,
+                "manzil": 538,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u0650\u0646\u0651\u064e \u0627\u0650\u0644\u0670\u0649 \u0631\u064e\u0628\u0651\u0650\u0643\u064e \u0627\u0644\u0631\u0651\u064f\u062c\u0652\u0639\u0670\u0649\u06d7",
+                "transliteration": {
+                    "en": "Innna ilaa rabbikar ruj'aa",
+                    "id": "inna il\u0101 rabbikar-ruj\u2018\u0101."
+                }
+            },
+            "translation": {
+                "en": "Indeed, to your Lord is the return.",
+                "id": "Sungguh, hanya kepada Tuhanmulah tempat kembali(mu)."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6114.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6114.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6115,
+                "inSurah": 9
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 96,
+                "page": 597,
+                "manzil": 538,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u064e\u0631\u064e\u0627\u064e\u064a\u0652\u062a\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652 \u064a\u064e\u0646\u0652\u0647\u0670\u0649\u06d9",
+                "transliteration": {
+                    "en": "Ara-aital lazee yanhaa",
+                    "id": "ara'aital-la\u017c\u012b yanh\u0101."
+                }
+            },
+            "translation": {
+                "en": "Have you seen the one who forbids",
+                "id": "Bagaimana pendapatmu tentang orang yang melarang?"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6115.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6115.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6116,
+                "inSurah": 10
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 96,
+                "page": 597,
+                "manzil": 538,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0639\u064e\u0628\u0652\u062f\u064b\u0627 \u0627\u0650\u0630\u064e\u0627 \u0635\u064e\u0644\u0651\u0670\u0649\u06d7",
+                "transliteration": {
+                    "en": "'Abdan iza sallaa",
+                    "id": "\u2018abdan i\u017c\u0101 \u1e63all\u0101."
+                }
+            },
+            "translation": {
+                "en": "A servant when he prays?",
+                "id": "seorang hamba ketika dia melaksanakan salat,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6116.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6116.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6117,
+                "inSurah": 11
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 96,
+                "page": 597,
+                "manzil": 538,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u064e\u0631\u064e\u0627\u064e\u064a\u0652\u062a\u064e \u0627\u0650\u0646\u0652 \u0643\u064e\u0627\u0646\u064e \u0639\u064e\u0644\u064e\u0649 \u0627\u0644\u0652\u0647\u064f\u062f\u0670\u0649\u0653\u06d9",
+                "transliteration": {
+                    "en": "Ara-aita in kana 'alal hudaa",
+                    "id": "ara'aita in k\u0101na \u2018alal-hud\u0101."
+                }
+            },
+            "translation": {
+                "en": "Have you seen if he is upon guidance",
+                "id": "bagaimana pendapatmu jika dia (yang dilarang salat itu) berada di atas kebenaran (petunjuk),"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6117.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6117.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6118,
+                "inSurah": 12
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 96,
+                "page": 597,
+                "manzil": 538,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u064e\u0648\u0652 \u0627\u064e\u0645\u064e\u0631\u064e \u0628\u0650\u0627\u0644\u062a\u0651\u064e\u0642\u0652\u0648\u0670\u0649\u06d7",
+                "transliteration": {
+                    "en": "Au amara bit taqwaa",
+                    "id": "au amara bit-taqw\u0101."
+                }
+            },
+            "translation": {
+                "en": "Or enjoins righteousness?",
+                "id": "atau dia menyuruh bertakwa (kepada Allah)?"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6118.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6118.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6119,
+                "inSurah": 13
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 96,
+                "page": 597,
+                "manzil": 538,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u064e\u0631\u064e\u0627\u064e\u064a\u0652\u062a\u064e \u0627\u0650\u0646\u0652 \u0643\u064e\u0630\u0651\u064e\u0628\u064e \u0648\u064e\u062a\u064e\u0648\u064e\u0644\u0651\u0670\u0649\u06d7",
+                "transliteration": {
+                    "en": "Ara-aita in kaz zaba wa ta walla",
+                    "id": "ara'aita in ka\u017c\u017caba wa tawall\u0101."
+                }
+            },
+            "translation": {
+                "en": "Have you seen if he denies and turns away -",
+                "id": "Bagaimana pendapatmu jika dia (yang melarang) itu mendustakan dan berpaling?"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6119.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6119.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6120,
+                "inSurah": 14
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 96,
+                "page": 597,
+                "manzil": 538,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u064e\u0644\u064e\u0645\u0652 \u064a\u064e\u0639\u0652\u0644\u064e\u0645\u0652 \u0628\u0650\u0627\u064e\u0646\u0651\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u064e \u064a\u064e\u0631\u0670\u0649\u06d7",
+                "transliteration": {
+                    "en": "Alam y'alam bi-an nal lahaa yaraa",
+                    "id": "alam ya\u2018lam bi'annall\u0101ha yar\u0101."
+                }
+            },
+            "translation": {
+                "en": "Does he not know that Allah sees?",
+                "id": "Tidakkah dia mengetahui bahwa sesungguhnya Allah melihat (segala perbuatannya)?"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6120.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6120.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6121,
+                "inSurah": 15
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 96,
+                "page": 597,
+                "manzil": 538,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0643\u064e\u0644\u0651\u064e\u0627 \u0644\u064e\u0649\u0655\u0650\u0646\u0652 \u0644\u0651\u064e\u0645\u0652 \u064a\u064e\u0646\u0652\u062a\u064e\u0647\u0650 \u06d5\u06d9 \u0644\u064e\u0646\u064e\u0633\u0652\u0641\u064e\u0639\u064b\u0627\u06e2 \u0628\u0650\u0627\u0644\u0646\u0651\u064e\u0627\u0635\u0650\u064a\u064e\u0629\u0650\u06d9",
+                "transliteration": {
+                    "en": "Kalla la illam yantahi la nasfa'am bin nasiyah",
+                    "id": "kall\u0101 la'il lam yantah(i), lanasfa\u2018am bin-n\u0101\u1e63iyah(ti)."
+                }
+            },
+            "translation": {
+                "en": "No! If he does not desist, We will surely drag him by the forelock -",
+                "id": "Sekali-kali tidak! Sungguh, jika dia tidak berhenti (berbuat demikian) niscaya Kami tarik ubun-ubunnya, (ke dalam neraka),"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6121.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6121.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6122,
+                "inSurah": 16
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 96,
+                "page": 597,
+                "manzil": 538,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0646\u064e\u0627\u0635\u0650\u064a\u064e\u0629\u064d \u0643\u064e\u0627\u0630\u0650\u0628\u064e\u0629\u064d \u062e\u064e\u0627\u0637\u0650\u0626\u064e\u0629\u064d\u06da",
+                "transliteration": {
+                    "en": "Nasiyatin kazi batin khaatiyah",
+                    "id": "n\u0101\u1e63iyatin k\u0101\u017cibatin kh\u0101\u1e6di'ah(tin)."
+                }
+            },
+            "translation": {
+                "en": "A lying, sinning forelock.",
+                "id": "yaitu) ubun-ubun orang yang mendustakan dan durhaka."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6122.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6122.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6123,
+                "inSurah": 17
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 96,
+                "page": 597,
+                "manzil": 538,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0641\u064e\u0644\u0652\u064a\u064e\u062f\u0652\u0639\u064f \u0646\u064e\u0627\u062f\u0650\u064a\u064e\u0647\u0657\u06d9",
+                "transliteration": {
+                    "en": "Fal yad'u naadiyah",
+                    "id": "falyad\u2018u n\u0101diyah(\u016b)."
+                }
+            },
+            "translation": {
+                "en": "Then let him call his associates;",
+                "id": "Maka biarlah dia memanggil golongannya (untuk menolongnya),"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6123.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6123.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6124,
+                "inSurah": 18
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 96,
+                "page": 597,
+                "manzil": 538,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0633\u064e\u0646\u064e\u062f\u0652\u0639\u064f \u0627\u0644\u0632\u0651\u064e\u0628\u064e\u0627\u0646\u0650\u064a\u064e\u0629\u064e\u06d9",
+                "transliteration": {
+                    "en": "Sanad 'uz zabaaniyah",
+                    "id": "sanad\u2018uz-zab\u0101niyah(ta)."
+                }
+            },
+            "translation": {
+                "en": "We will call the angels of Hell.",
+                "id": "Kelak Kami akan memanggil Malaikat Zabaniyah, (penyiksa orang-orang yang berdosa), "
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6124.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6124.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6125,
+                "inSurah": 19
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 96,
+                "page": 597,
+                "manzil": 538,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": true
+                }
+            },
+            "text": {
+                "arab": "\u0643\u064e\u0644\u0651\u064e\u0627\u06d7  \u0644\u064e\u0627 \u062a\u064f\u0637\u0650\u0639\u0652\u0647\u064f \u0648\u064e\u0627\u0633\u0652\u062c\u064f\u062f\u0652 \u0648\u064e\u0627\u0642\u0652\u062a\u064e\u0631\u0650\u0628\u0652 \u06e9 \u08d6",
+                "transliteration": {
+                    "en": "Kalla; la tuti'hu wasjud waqtarib",
+                    "id": "kall\u0101, l\u0101 tu\u1e6di\u2018hu wasjud waqtarib."
+                }
+            },
+            "translation": {
+                "en": "No! Do not obey him. But prostrate and draw near [to Allah].",
+                "id": "sekali-kali tidak! Janganlah kamu patuh kepadanya; dan sujudlah serta dekatkanlah (dirimu kepada Allah)."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6125.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6125.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        }
+    ]
+}

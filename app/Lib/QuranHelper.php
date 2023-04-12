@@ -17,7 +17,7 @@ class QuranHelper
     public static function fetchSurahsFromQuranCom($languages = ['id', 'en'])
     {
         foreach ($languages as $langItem) {
-            $uf = new UrlFetcher(env('APP_CRAWL_BASEURL2'));
+            $uf = new UrlFetcher("https://api.quran.com/api/v4/chapters");
 
             $uf->buildGetQuery([
                 "language" => $langItem
@@ -26,6 +26,8 @@ class QuranHelper
             $res = $uf->process();
 
             $response = json_decode($res);
+
+            dd($res);
 
             $data = $response->chapters;
 
@@ -180,17 +182,6 @@ class QuranHelper
         $filePath = storage_path("app/quran-data/surahs/surah.{$surah}.json");
 
         if (!file_exists($filePath)) throw new FileNotFoundException("Surat yang Anda cari tidak ditemukan.");
-
-        $data = Items::fromFile($filePath);
-
-        return iterator_to_array($data);
-    }
-
-    public static function loadPage($page)
-    {
-        $filePath = storage_path("app/quran-data/pages/page.{$page}.json");
-
-        if (!file_exists($filePath)) throw new FileNotFoundException("Halaman yang Anda cari tidak ditemukan.");
 
         $data = Items::fromFile($filePath);
 

@@ -1,0 +1,206 @@
+{
+    "number": 112,
+    "sequence": 22,
+    "numberOfVerses": 4,
+    "name": {
+        "short": "\u0627\u0644\u0625\u062e\u0644\u0627\u0635",
+        "long": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0625\u062e\u0644\u0627\u0635",
+        "transliteration": {
+            "en": "Al-Ikhlas",
+            "id": "Al-Ikhlas"
+        },
+        "translation": {
+            "en": "The Sincerity",
+            "id": "Ikhlas"
+        }
+    },
+    "revelation": {
+        "arab": "\u0645\u0643\u0629",
+        "en": "Meccan",
+        "id": "Makkiyyah"
+    },
+    "preBismillah": {
+        "text": {
+            "arab": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650",
+            "transliteration": {
+                "en": "Bismillaahir Rahmaanir Raheem"
+            }
+        },
+        "translation": {
+            "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+            "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+        },
+        "audio": {
+            "primary": "https:\/\/cdn.alquran.cloud\/media\/audio\/ayah\/ar.alafasy\/1",
+            "secondary": [
+                "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/1.mp3",
+                "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/1.mp3"
+            ]
+        }
+    },
+    "tafsir": {
+        "id": "Surat ini terdiri atas 4 ayat, termasuk golongan surat-surat  Makkiyyah, diturunkan sesudah sesudah surat An Naas. Dinamakan Al Ikhlas karena surat ini sepenuhnya menegaskan kemurnian keesaan Allah s.w.t."
+    },
+    "verses": [
+        {
+            "number": {
+                "inQuran": 6222,
+                "inSurah": 1
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 112,
+                "page": 604,
+                "manzil": 554,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0642\u064f\u0644\u0652 \u0647\u064f\u0648\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u0627\u064e\u062d\u064e\u062f\u064c\u06da",
+                "transliteration": {
+                    "en": "Qul huwal laahu ahad",
+                    "id": "qul huwall\u0101hu a\u1e25ad(un)."
+                }
+            },
+            "translation": {
+                "en": "Say, \"He is Allah, [who is] One,",
+                "id": "Katakanlah (Muhammad), \u201cDialah Allah, Yang Maha Esa."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6222.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6222.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6223,
+                "inSurah": 2
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 112,
+                "page": 604,
+                "manzil": 554,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u064e\u0644\u0644\u0651\u0670\u0647\u064f \u0627\u0644\u0635\u0651\u064e\u0645\u064e\u062f\u064f\u06da",
+                "transliteration": {
+                    "en": "Allah hus-samad",
+                    "id": "all\u0101hu\u1e63-\u1e63amad(u)."
+                }
+            },
+            "translation": {
+                "en": "Allah, the Eternal Refuge.",
+                "id": "Allah tempat meminta segala sesuatu."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6223.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6223.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6224,
+                "inSurah": 3
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 112,
+                "page": 604,
+                "manzil": 554,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0644\u064e\u0645\u0652 \u064a\u064e\u0644\u0650\u062f\u0652 \u0648\u064e\u0644\u064e\u0645\u0652 \u064a\u064f\u0648\u0652\u0644\u064e\u062f\u0652\u06d9",
+                "transliteration": {
+                    "en": "Lam yalid wa lam yoolad",
+                    "id": "lam yalid wa lam y\u016blad."
+                }
+            },
+            "translation": {
+                "en": "He neither begets nor is born,",
+                "id": "(Allah) tidak beranak dan tidak pula diperanakkan."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6224.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6224.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6225,
+                "inSurah": 4
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 112,
+                "page": 604,
+                "manzil": 554,
+                "hizbQuarter": 240,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0644\u064e\u0645\u0652 \u064a\u064e\u0643\u064f\u0646\u0652 \u0644\u0651\u064e\u0647\u0657 \u0643\u064f\u0641\u064f\u0648\u064b\u0627 \u0627\u064e\u062d\u064e\u062f\u064c \u08d6",
+                "transliteration": {
+                    "en": "Wa lam yakul-lahu kufuwan ahad",
+                    "id": "wa lam yakul lah\u016b kufuwan a\u1e25ad(un)."
+                }
+            },
+            "translation": {
+                "en": "Nor is there to Him any equivalent.\"",
+                "id": "Dan tidak ada sesuatu yang setara dengan Dia.\u201d"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6225.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6225.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        }
+    ]
+}

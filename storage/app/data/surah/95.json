@@ -1,0 +1,366 @@
+{
+    "number": 95,
+    "sequence": 28,
+    "numberOfVerses": 8,
+    "name": {
+        "short": "\u0627\u0644\u062a\u064a\u0646",
+        "long": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062a\u064a\u0646",
+        "transliteration": {
+            "en": "At-Tin",
+            "id": "At-Tin"
+        },
+        "translation": {
+            "en": "The Fig",
+            "id": "Buah Tin"
+        }
+    },
+    "revelation": {
+        "arab": "\u0645\u0643\u0629",
+        "en": "Meccan",
+        "id": "Makkiyyah"
+    },
+    "preBismillah": {
+        "text": {
+            "arab": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650",
+            "transliteration": {
+                "en": "Bismillaahir Rahmaanir Raheem"
+            }
+        },
+        "translation": {
+            "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+            "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+        },
+        "audio": {
+            "primary": "https:\/\/cdn.alquran.cloud\/media\/audio\/ayah\/ar.alafasy\/1",
+            "secondary": [
+                "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/1.mp3",
+                "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/1.mp3"
+            ]
+        }
+    },
+    "tafsir": {
+        "id": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Buruuj. Nama At Tiin diambil dari kata At Tiin yang terdapat pada ayat pertama surat ini yang artinya buah Tin."
+    },
+    "verses": [
+        {
+            "number": {
+                "inQuran": 6099,
+                "inSurah": 1
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 95,
+                "page": 597,
+                "manzil": 537,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0627\u0644\u062a\u0651\u0650\u064a\u0652\u0646\u0650 \u0648\u064e\u0627\u0644\u0632\u0651\u064e\u064a\u0652\u062a\u064f\u0648\u0652\u0646\u0650\u06d9",
+                "transliteration": {
+                    "en": "Wat teeni waz zaitoon",
+                    "id": "wat-t\u012bni waz-zait\u016bn(i)."
+                }
+            },
+            "translation": {
+                "en": "By the fig and the olive",
+                "id": "Demi (buah) Tin dan (buah) Zaitun,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6099.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6099.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6100,
+                "inSurah": 2
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 95,
+                "page": 597,
+                "manzil": 537,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0637\u064f\u0648\u0652\u0631\u0650 \u0633\u0650\u064a\u0652\u0646\u0650\u064a\u0652\u0646\u064e\u06d9",
+                "transliteration": {
+                    "en": "Wa toori sineen",
+                    "id": "wa \u1e6d\u016bri s\u012bn\u012bn(a)."
+                }
+            },
+            "translation": {
+                "en": "And [by] Mount Sinai",
+                "id": "demi gunung Sinai,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6100.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6100.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6101,
+                "inSurah": 3
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 95,
+                "page": 597,
+                "manzil": 537,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0648\u064e\u0647\u0670\u0630\u064e\u0627 \u0627\u0644\u0652\u0628\u064e\u0644\u064e\u062f\u0650 \u0627\u0644\u0652\u0627\u064e\u0645\u0650\u064a\u0652\u0646\u0650\u06d9",
+                "transliteration": {
+                    "en": "Wa haazal balad-il ameen",
+                    "id": "wa h\u0101\u017cal-baladil-am\u012bn(i)."
+                }
+            },
+            "translation": {
+                "en": "And [by] this secure city [Makkah],",
+                "id": "dan demi negeri (Mekah) yang aman ini."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6101.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6101.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6102,
+                "inSurah": 4
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 95,
+                "page": 597,
+                "manzil": 537,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0644\u064e\u0642\u064e\u062f\u0652 \u062e\u064e\u0644\u064e\u0642\u0652\u0646\u064e\u0627 \u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064e \u0641\u0650\u064a\u0652\u0653 \u0627\u064e\u062d\u0652\u0633\u064e\u0646\u0650 \u062a\u064e\u0642\u0652\u0648\u0650\u064a\u0652\u0645\u064d\u06d6",
+                "transliteration": {
+                    "en": "Laqad khalaqnal insaana fee ahsani taqweem",
+                    "id": "laqad khalaqnal-ins\u0101na f\u012b a\u1e25sani taqw\u012bm(in)."
+                }
+            },
+            "translation": {
+                "en": "We have certainly created man in the best of stature;",
+                "id": "Sungguh, Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6102.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6102.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6103,
+                "inSurah": 5
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 95,
+                "page": 597,
+                "manzil": 537,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u062b\u064f\u0645\u0651\u064e \u0631\u064e\u062f\u064e\u062f\u0652\u0646\u0670\u0647\u064f \u0627\u064e\u0633\u0652\u0641\u064e\u0644\u064e \u0633\u0670\u0641\u0650\u0644\u0650\u064a\u0652\u0646\u064e\u06d9",
+                "transliteration": {
+                    "en": "Thumma ra dad naahu asfala saafileen",
+                    "id": "\u1e60umma radadn\u0101hu asfala s\u0101fil\u012bn(a)."
+                }
+            },
+            "translation": {
+                "en": "Then We return him to the lowest of the low,",
+                "id": "kemudian Kami kembalikan dia ke tempat yang serendah-rendahnya,"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6103.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6103.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6104,
+                "inSurah": 6
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 95,
+                "page": 597,
+                "manzil": 537,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u0650\u0644\u0651\u064e\u0627 \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0627\u0670\u0645\u064e\u0646\u064f\u0648\u0652\u0627 \u0648\u064e\u0639\u064e\u0645\u0650\u0644\u064f\u0648\u0627 \u0627\u0644\u0635\u0651\u0670\u0644\u0650\u062d\u0670\u062a\u0650 \u0641\u064e\u0644\u064e\u0647\u064f\u0645\u0652 \u0627\u064e\u062c\u0652\u0631\u064c \u063a\u064e\u064a\u0652\u0631\u064f \u0645\u064e\u0645\u0652\u0646\u064f\u0648\u0652\u0646\u064d\u06d7",
+                "transliteration": {
+                    "en": "Ill-lal lazeena aamanoo wa 'amilus saalihaati; falahum ajrun ghairu mamnoon",
+                    "id": "illal-la\u017c\u012bna \u0101man\u016b wa \u2018amilu\u1e63-\u1e63\u0101li\u1e25\u0101ti falahum ajrun gairu mamn\u016bn(in)."
+                }
+            },
+            "translation": {
+                "en": "Except for those who believe and do righteous deeds, for they will have a reward uninterrupted.",
+                "id": "kecuali orang-orang yang beriman dan mengerjakan kebajikan; maka mereka akan mendapat pahala yang tidak ada putus-putusnya."
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6104.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6104.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6105,
+                "inSurah": 7
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 95,
+                "page": 597,
+                "manzil": 537,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0641\u064e\u0645\u064e\u0627 \u064a\u064f\u0643\u064e\u0630\u0651\u0650\u0628\u064f\u0643\u064e \u0628\u064e\u0639\u0652\u062f\u064f \u0628\u0650\u0627\u0644\u062f\u0651\u0650\u064a\u0652\u0646\u0650\u06d7",
+                "transliteration": {
+                    "en": "Fama yu kaz zibuka b'adu bid deen",
+                    "id": "fam\u0101 yuka\u017c\u017cibuka ba\u2018du bid-d\u012bn(i)."
+                }
+            },
+            "translation": {
+                "en": "So what yet causes you to deny the Recompense?",
+                "id": "Maka apa yang menyebabkan (mereka) mendustakanmu (tentang) hari pembalasan setelah (adanya keterangan-keterangan) itu?"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6105.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6105.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        },
+        {
+            "number": {
+                "inQuran": 6106,
+                "inSurah": 8
+            },
+            "meta": {
+                "juz": 30,
+                "surah": 95,
+                "page": 597,
+                "manzil": 537,
+                "hizbQuarter": 239,
+                "sajda": {
+                    "recommended": false,
+                    "obligatory": false
+                }
+            },
+            "text": {
+                "arab": "\u0627\u064e\u0644\u064e\u064a\u0652\u0633\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u0628\u0650\u0627\u064e\u062d\u0652\u0643\u064e\u0645\u0650 \u0627\u0644\u0652\u062d\u0670\u0643\u0650\u0645\u0650\u064a\u0652\u0646\u064e \u08d6",
+                "transliteration": {
+                    "en": "Alai sal laahu bi-ahkamil haakimeen",
+                    "id": "alaisall\u0101hu bi'a\u1e25kamil-\u1e25\u0101kim\u012bn(a)."
+                }
+            },
+            "translation": {
+                "en": "Is not Allah the most just of judges?",
+                "id": "Bukankah Allah hakim yang paling adil?"
+            },
+            "audio": {
+                "primary": "https:\/\/cdn.islamic.network\/quran\/audio\/128\/ar.alafasy\/6106.mp3",
+                "secondary": [
+                    "https:\/\/cdn.islamic.network\/quran\/audio\/64\/ar.alafasy\/6106.mp3"
+                ]
+            },
+            "tafsir": {
+                "id": {
+                    "long": "-",
+                    "short": "-"
+                }
+            }
+        }
+    ]
+}
