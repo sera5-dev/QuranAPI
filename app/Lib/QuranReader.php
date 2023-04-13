@@ -28,7 +28,7 @@ class QuranReader
         $array = iterator_to_array($data);
 
         foreach ($array as $verse) {
-            $surahDetail = QuranMetaParser::getCombinedMeta($verse->meta->surah);
+            $surahDetail = QuranMetaParser::getCombinedMeta($verse->meta->surah - 1);
 
             $verse->surah = $surahDetail;
         }

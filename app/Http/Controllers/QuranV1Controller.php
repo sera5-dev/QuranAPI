@@ -61,14 +61,6 @@ class QuranV1Controller extends Controller
 
     public function test()
     {
-        $currentPage = 1;
-        $directory = storage_path("app/quran-data/pages");
-        $fileList  = array_values(array_diff(scandir($directory), array('..', '.')));
-
-        foreach (range(1, 604) as $pageRange) {
-        }
-
-        return $fileList;
     }
 
     public function surah_list()
@@ -80,16 +72,18 @@ class QuranV1Controller extends Controller
 
     public function surah($surah)
     {
-        $surah = QuranHelper::parseParam($surah, range(1, 114));
-
-        return ResponseGenerator::make200(QuranReader::getSurah($surah));
+        return $this->verse($surah);
     }
 
-    public function verse($surah, $verse)
+    public function verse($surah, $verse = null)
     {
         $surah = QuranHelper::parseParam($surah, range(1, 114));
 
         $surahJson = QuranReader::getSurah($surah);
+
+        if (empty($verse)) {
+            return ResponseGenerator::make200($surahJson);
+        }
 
         $verse = QuranHelper::parseParam($verse, range(1, $surahJson['numberOfVerses']));
 
